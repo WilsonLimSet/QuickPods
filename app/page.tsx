@@ -40,17 +40,11 @@ export default function Index() {
   }, []);
 
   return (
-    <div className="flex-1 w-full flex flex-col items-center bg-gray-100">
-      <nav className="w-full flex justify-center border-b border-gray-200 h-16">
-        
-     
-        <div className="w-full max-w-6xl flex justify-between items-center p-3 text-sm">
-           <Header />
-        </div>
-      </nav>
+    <div className="flex w-full flex-1 flex-col items-center bg-gray-100">
+      <Header />
 
-      <main className="flex-1 w-full flex flex-col items-center py-10">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3 px-2 max-w-6xl">
+      <main className="flex w-full flex-1 flex-col items-center py-10">
+        <div className="grid max-w-6xl grid-cols-1 gap-3 px-2 md:grid-cols-2 lg:grid-cols-4">
           {cards.map((card, index) => (
             <PodCard key={index} {...card} />
           ))}
@@ -61,4 +55,3 @@ export default function Index() {
     </div>
   );
 }
-
