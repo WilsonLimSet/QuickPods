@@ -20,17 +20,19 @@ export async function generateMetadata({
     title: `Blog Post${id.replaceAll("_", " ")}`,
   };
 }
-
 export default function BlogPostPage({ params }: { params: any }) {
   const slug = params.slug;
   const post = getPostContent(slug);
-
-  if (!post) return <div>Post not found</div>;
+  if (!post)
+    return <div className="mt-20 text-center text-xl">Post not found</div>;
 
   return (
     <>
       <Header />
-      <main>
+      <main className="mx-auto max-w-4xl p-4">
+        <h1 className="text-2xl text-slate-600 ">{post.title}</h1>
+        <p className="mt-2 text-slate-400">{post.date}</p>
+
         <article>
           <Markdown>{post.content}</Markdown>
         </article>
