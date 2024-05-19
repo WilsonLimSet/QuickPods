@@ -22,7 +22,6 @@ export default async function Blog() {
               title: post.title,
               description: post.excerpt,
               date: post.date,
-              md_slug: post.md_slug,
             }}
           />
         ))}
