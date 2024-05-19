@@ -16,6 +16,7 @@ interface CardData {
   youtube_url: string;
   publishDate: string;
   tag: string;
+  md_slug: string;
 }
 
 export default function Index() {
