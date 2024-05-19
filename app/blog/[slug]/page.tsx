@@ -24,8 +24,6 @@ export async function generateMetadata({
 export default function BlogPostPage({ params }: { params: any }) {
   const slug = params.slug;
   const post = getPostContent(slug);
-  console.log(post);
-
   if (!post)
     return <div className="mt-20 text-center text-xl">Post not found</div>;
 
