@@ -33,7 +33,7 @@ export default function BlogPostPage({ params }: { params: any }) {
         <h1 className="text-2xl text-slate-600 ">{post.title}</h1>
         <p className="mt-2 text-slate-400">{post.date}</p>
 
-        <article>
+        <article className="prose">
           <Markdown>{post.content}</Markdown>
         </article>
       </main>

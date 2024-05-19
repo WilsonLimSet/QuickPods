@@ -1,17 +1,17 @@
 export default function Footer() {
   return (
-    <footer className="w-full border-t border-t-foreground/10 p-8 flex justify-center text-center text-xs">
+    <footer className="w-full border-t border-t-foreground/10 p-8 flex justify-center text-center text-s">
       <p>
         Built by{" "}
-        <a
+        {/* <a
           href="https://github.com/scottsus"
           target="_blank"
           className="font-bold hover:underline"
           rel="noreferrer"
         >
           @scottsus
-        </a>
-        ,{" "}
+        </a> */}
+        {/* ,{" "} */}
         <a
           href="https://github.com/wilsonLimSet"
           target="_blank"
@@ -20,7 +20,7 @@ export default function Footer() {
         >
           @wilsonlimset
         </a>
-        ,{" "}
+        {/* ,{" "}
         <a
           href="https://github.com/billsusanto"
           target="_blank"
@@ -28,8 +28,8 @@ export default function Footer() {
           rel="noreferrer"
         >
           @billsusanto
-        </a>
-        .
+        </a> */}
+        {/* . */}
       </p>
     </footer>
   );

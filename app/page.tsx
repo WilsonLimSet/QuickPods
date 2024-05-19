@@ -41,11 +41,11 @@ export default function Index() {
   }, []);
 
   return (
-    <div className="flex w-full flex-1 flex-col items-center bg-gray-100">
+    <>
       <Header />
-
-      <main className="flex w-full flex-1 flex-col items-center py-10">
-        <div className="grid max-w-6xl grid-cols-1 gap-3 px-2 md:grid-cols-2 lg:grid-cols-4">
+      {/* <main className="flex w-full flex-1 flex-col items-center py-10"> */}
+      <main className="flex  flex-col items-center py-10">
+        <div className="grid max-w-7xl grid-cols-1 gap-3 px-2 md:grid-cols-2 lg:grid-cols-4">
           {cards.map((card, index) => (
             <PodCard key={index} {...card} />
           ))}
@@ -53,6 +53,6 @@ export default function Index() {
       </main>
 
       <Footer />
-    </div>
+    </>
   );
 }
