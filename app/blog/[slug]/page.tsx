@@ -20,7 +20,6 @@ export async function generateMetadata({
     title: `Blog Post${id.replaceAll("_", " ")}`,
   };
 }
-
 export default function BlogPostPage({ params }: { params: any }) {
   const slug = params.slug;
   const post = getPostContent(slug);
