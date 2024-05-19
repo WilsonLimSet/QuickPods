@@ -3,6 +3,7 @@ import React from "react";
 import Header from "@/components/Header";
 import { getSortedPosts } from "../../lib/posts";
 import BlogCard from "@/components/BlogCard"; // Import BlogCard component
+import Footer from "@/components/Footer";
 
 export default async function Blog() {
   const posts = await getSortedPosts(); // Asynchronously fetch your posts
@@ -26,6 +27,7 @@ export default async function Blog() {
           />
         ))}
       </div>
+      <Footer />
     </>
   );
 }
