@@ -6,7 +6,7 @@ interface PodCardProps {
   thumbnail_url: string;
   interviewee: string;
   interviewer: string;
-  publishDate: string;
+  publish_date: string;
   youtube_url: string;
   md_slug: string;
 }
@@ -16,7 +16,7 @@ const PodCard = ({
   thumbnail_url,
   interviewee,
   interviewer,
-  publishDate,
+  publish_date,
   youtube_url,
   md_slug,
 }: PodCardProps) => {
@@ -50,9 +50,9 @@ const PodCard = ({
           display: "flex",
           flexDirection: "column",
           justifyContent: "space-between",
-          cursor: md_slug ? "pointer" : "default", // Change cursor based on md_slug validity
+          cursor: md_slug ? "pointer" : "default",
         }}
-        onClick={handleCardClick} // Modified click handler
+        onClick={handleCardClick}
       >
         <div style={{ overflow: "hidden", height: "155px" }}>
           <img
@@ -85,8 +85,14 @@ const PodCard = ({
           >
             Interviewed by {interviewer}
           </h4>
-          <span style={{ fontSize: "14px", color: "#adb5bd" }}>
-            {publishDate}
+          {/* <span style={{ fontSize: "14px", color: "#adb5bd" }}>
+            {publish_date}
+          </span> */}
+          <span
+            style={{ fontSize: "15px", color: "#adb5bd", marginBottom: "8px" }}
+          >
+            {/* Published on {publish_date} */}
+            {publish_date}
           </span>
           <a
             href={youtube_url}
@@ -104,7 +110,6 @@ const PodCard = ({
                 cursor: "pointer",
                 borderRadius: "4px",
                 fontSize: "16px",
-                marginTop: "8px",
               }}
             >
               Watch podcast
@@ -115,5 +120,4 @@ const PodCard = ({
     </Link>
   );
 };
-
 export default PodCard;
