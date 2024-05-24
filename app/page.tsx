@@ -14,7 +14,7 @@ interface CardData {
   insights: string[];
   thumbnail_url: string;
   youtube_url: string;
-  publishDate: string;
+  publish_date: string;
   tag: string;
   md_slug: string;
 }
