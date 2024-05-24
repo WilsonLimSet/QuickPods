@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "pod"
+version = "0.1.0"
+description = "Summarizing the most 🔥 podcasts"
+authors = ["scott susanto <susantoscott@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+google-api-python-client = "^2.126.0"
+python-dotenv = "^1.0.1"
+supabase = "^2.4.3"
+google-generativeai = "^0.5.2"
+pytube = "^15.0.0"
+ruff = "^0.4.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
