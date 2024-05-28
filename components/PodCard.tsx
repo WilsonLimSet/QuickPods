@@ -101,17 +101,7 @@ const PodCard = ({
             style={{ textDecoration: "none", marginTop: "auto" }}
             onClick={handleButtonClick}
           >
-            <button
-              style={{
-                backgroundColor: "#e93d83",
-                color: "white",
-                border: "none",
-                padding: "10px 16px",
-                cursor: "pointer",
-                borderRadius: "4px",
-                fontSize: "16px",
-              }}
-            >
+            <button className="w-full bg-pink-600 text-white py-2 rounded font-bold hover:bg-pink-700 transition-colors duration-300">
               Watch podcast
             </button>
           </a>

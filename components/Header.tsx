@@ -22,6 +22,13 @@ export default function Header() {
               <Link href="/blog" className="hover:text-gray-300">
                 Blog
               </Link>
+              <Link
+                href="https://ceoinsights.canny.io/feature-requests"
+                className="hover:text-gray-300"
+                target="_blank"
+              >
+                Roadmap
+              </Link>
 
               <a
                 href="https://github.com/WilsonLimSet/ceo-insights"
