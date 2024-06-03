@@ -15,7 +15,7 @@ class Generator:
     def download_audio(self, url: str):
         with tempfile.NamedTemporaryFile(suffix=".mp3", delete=False) as temp_file:
             yt = YouTube(url)
-            if yt.length > 8800:  # Limiting the video duration
+            if yt.length > 22000:  # Limiting the video duration
                 raise ValueError(f"Video duration too long: {yt.length / 60} minutes")
             audio_stream = yt.streams.filter(only_audio=True).first()
             if not audio_stream:
