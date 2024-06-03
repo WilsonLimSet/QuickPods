@@ -4,8 +4,8 @@ import re
 import os
 from dotenv import load_dotenv
 from pytube import YouTube
-from src.db.client import Client as DBClient
-from src.models.model import Model as GeminiModel
+from db.client import Client as DBClient
+from models.model import Model as GeminiModel
 
 
 class Summarizer:
