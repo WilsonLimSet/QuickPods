@@ -99,7 +99,7 @@ export default function Index() {
           <select
             value={sortOrder}
             onChange={(e) => setSortOrder(e.target.value)}
-            className="rounded-md border p-2"
+            className="rounded-md border bg-background p-2 text-foreground"
           >
             <option value="ASC">Sort by Earliest Date</option>
             <option value="DESC">Sort by Latest Date</option>
