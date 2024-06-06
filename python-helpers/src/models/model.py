@@ -47,12 +47,12 @@ class Model:
             return ""
 
     def execute_prompt_from_audio(self, prompt: str, audio_file_path):
-        retries = 3  # Number of retries
+        retries = 1  # Number of retries
         for attempt in range(retries):
             try:
                 file_id = genai.upload_file(path=audio_file_path)
                 res = self.model.generate_content(
-                    [prompt, file_id], request_options={"timeout": 1000}
+                    [prompt, file_id], request_options={"timeout": 10000}
                 )
                 if res:
                     time.sleep(1)
