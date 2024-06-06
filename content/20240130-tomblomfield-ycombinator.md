@@ -33,3 +33,8 @@ Blomfield's story isn't just about building companies; it's about choosing a pat
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=QKPgBAnbc10" target="_blank">Watch the podcast here!</a>

@@ -39,3 +39,8 @@ Mostaque's resignation from Stability AI might seem counterintuitive, but it's a
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=e1UgzSTicuY" target="_blank">Watch the podcast here!</a>

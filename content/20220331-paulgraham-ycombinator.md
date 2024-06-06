@@ -29,3 +29,8 @@ Founders should acknowledge the inherent risk in pursuing ambitious goals.  Inst
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=ephzgxgOjR0" target="_blank">Watch the podcast here!</a>

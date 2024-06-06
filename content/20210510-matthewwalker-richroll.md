@@ -54,3 +54,8 @@ This conversation with Dr. Walker was a wake-up call, highlighting the undeniabl
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=xTvxa0Rlhpg" target="_blank">Watch the podcast here!</a>

@@ -65,3 +65,8 @@ Don't overestimate the importance of past experience. A young, hungry candidate 
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=lYaiyi2ZX6Q" target="_blank">Watch the podcast here!</a>

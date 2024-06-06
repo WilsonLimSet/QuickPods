@@ -37,3 +37,8 @@ This interview leaves the listener with a sense of awe at the talent and tactica
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=1dh1qU1ReeU" target="_blank">Watch the podcast here!</a>

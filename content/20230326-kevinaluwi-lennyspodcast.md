@@ -75,3 +75,8 @@ Gojek’s story is an inspiration for entrepreneurs worldwide, demonstrating tha
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=HVB-dqjUJks" target="_blank">Watch the podcast here!</a>

@@ -44,3 +44,8 @@ Kopi Kenangan demonstrates that sometimes, the key to standing out in a globaliz
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=CL8BRqw9QBg" target="_blank">Watch the podcast here!</a>

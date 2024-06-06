@@ -50,3 +50,8 @@ Phillip's journey with Verkada highlights the power of customer feedback, the im
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=ZfNox6j8oxM" target="_blank">Watch the podcast here!</a>

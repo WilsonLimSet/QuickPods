@@ -77,3 +77,8 @@ This simple yet powerful statement encapsulates the essence of Bastian's approac
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=k6KUiq8VJkw" target="_blank">Watch the podcast here!</a>

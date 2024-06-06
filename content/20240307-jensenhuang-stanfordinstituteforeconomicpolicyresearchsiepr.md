@@ -52,3 +52,8 @@ Huang concluded his talk with an inspiring message about the democratizing power
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=cEg8cOx7UZk" target="_blank">Watch the podcast here!</a>

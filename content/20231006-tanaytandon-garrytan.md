@@ -54,3 +54,8 @@ Don't miss your chance to be part of this revolution. Check out the link in the 
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=9iSZ12osxHM" target="_blank">Watch the podcast here!</a>

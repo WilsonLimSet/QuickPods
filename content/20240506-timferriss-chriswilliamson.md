@@ -49,3 +49,8 @@ This quote encapsulates his approach to life:  clarity, intentionality, and a wi
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=9G5dXlMGMf8" target="_blank">Watch the podcast here!</a>

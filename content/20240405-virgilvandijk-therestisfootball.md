@@ -72,3 +72,8 @@ This interview gives a fascinating insight into the mindset of a true champion. 
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=MzIM6ez19rs" target="_blank">Watch the podcast here!</a>

@@ -50,3 +50,8 @@ As AI becomes increasingly integrated into the creative process, the ability to 
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=y7rvDA3MARk" target="_blank">Watch the podcast here!</a>

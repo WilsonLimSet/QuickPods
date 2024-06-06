@@ -51,3 +51,8 @@ As Ryan Holiday aptly states:
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=CWvOKHNeLMI" target="_blank">Watch the podcast here!</a>

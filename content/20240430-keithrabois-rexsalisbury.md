@@ -62,3 +62,8 @@ Rabois's conversation is packed with insights and thought-provoking ideas. His p
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=s8zgNDIUW-w" target="_blank">Watch the podcast here!</a>

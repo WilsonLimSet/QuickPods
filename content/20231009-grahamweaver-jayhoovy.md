@@ -48,3 +48,8 @@ These attributes, he believes, are far more valuable in the long run than simply
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=Zy7Nld2_JSw" target="_blank">Watch the podcast here!</a>

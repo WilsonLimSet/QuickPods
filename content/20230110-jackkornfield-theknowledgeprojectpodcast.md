@@ -68,3 +68,8 @@ This interview offered a potent reminder that we have the power to choose how we
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=D9ayv-y4XBo" target="_blank">Watch the podcast here!</a>

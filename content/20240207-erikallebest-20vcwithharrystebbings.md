@@ -47,3 +47,8 @@ Eric's story is a powerful reminder that there's no one-size-fits-all approach t
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=sT3isR06-fg" target="_blank">Watch the podcast here!</a>

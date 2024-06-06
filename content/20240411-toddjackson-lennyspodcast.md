@@ -72,3 +72,8 @@ This quote encapsulates the essence of achieving strong product market fit: the 
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=yc1Uwhfxacs" target="_blank">Watch the podcast here!</a>

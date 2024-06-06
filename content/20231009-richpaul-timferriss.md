@@ -57,3 +57,8 @@ Paul's memoir, aptly titled "Lucky Me: A Memoir of Changing the Odds," reflects 
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=t1yWC-HufEA" target="_blank">Watch the podcast here!</a>

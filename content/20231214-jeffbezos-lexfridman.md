@@ -52,3 +52,9 @@ This relentless pursuit of understanding and challenging established norms is a 
 Bezos ended the interview with this crucial piece of advice. It encapsulates his approach to achieving the audacious goals he sets for himself and his companies. He is unwavering in his belief in the long-term vision while remaining open to adjusting the path along the way. This combination of tenacity and adaptability has enabled him to build two of the most innovative companies of our time.
 
 ---
+
+
+
+
+
+<a href="https://youtube.com/watch?v=DcWqzZ3I2cY" target="_blank">Watch the podcast here!</a>

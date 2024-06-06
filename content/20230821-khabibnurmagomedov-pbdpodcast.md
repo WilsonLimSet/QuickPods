@@ -45,3 +45,8 @@ Leaving the conversation, I was struck by his humility, wisdom, and unwavering c
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=01BBVAZ3HDY" target="_blank">Watch the podcast here!</a>

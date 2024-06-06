@@ -47,3 +47,8 @@ Durov's story is a compelling testament to the power of conviction. In a world w
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=1Ut6RouSs0w" target="_blank">Watch the podcast here!</a>

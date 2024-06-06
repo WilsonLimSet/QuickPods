@@ -87,3 +87,8 @@ Finally, Gil reiterates his belief in technology as a positive force for the wor
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=nLA90pa-34A" target="_blank">Watch the podcast here!</a>

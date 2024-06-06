@@ -47,3 +47,8 @@ This interview offers a valuable glimpse into the evolving world of the creator 
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=tn-MGyr-6dk" target="_blank">Watch the podcast here!</a>

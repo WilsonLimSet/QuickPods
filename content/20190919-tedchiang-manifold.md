@@ -53,3 +53,8 @@ As Chiang eloquently states, "**In the same way that science itself can be under
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=xNB_89vZ0y4" target="_blank">Watch the podcast here!</a>

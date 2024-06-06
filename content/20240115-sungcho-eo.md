@@ -45,3 +45,8 @@ Seven years in, Chartmetric is approaching $7 million in annual recurring revenu
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=RqIqlmb8BYM" target="_blank">Watch the podcast here!</a>

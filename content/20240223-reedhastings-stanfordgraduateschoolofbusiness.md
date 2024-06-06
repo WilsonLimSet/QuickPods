@@ -40,3 +40,8 @@ While acknowledging the challenges of a constantly evolving media landscape, Has
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=u17n3UaH82k" target="_blank">Watch the podcast here!</a>

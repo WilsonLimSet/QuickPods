@@ -36,3 +36,8 @@ This conversation showcases the depth and complexity of Arnold Schwarzenegger's 
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=0setn-FtDs8" target="_blank">Watch the podcast here!</a>

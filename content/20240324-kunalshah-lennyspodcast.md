@@ -49,3 +49,8 @@ Kunal’s insights challenge conventional wisdom and offer a unique perspective 
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=EgBOVDzUUAA" target="_blank">Watch the podcast here!</a>

@@ -68,3 +68,8 @@ This vision reflects YouTube's commitment to empowering creators, fostering a di
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=7ZWUKxeIDWQ" target="_blank">Watch the podcast here!</a>

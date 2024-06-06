@@ -78,3 +78,8 @@ Rober emphasizes the importance of understanding your "why" for creating content
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=1t5oYKEn-1E" target="_blank">Watch the podcast here!</a>

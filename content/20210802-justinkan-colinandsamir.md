@@ -41,3 +41,8 @@ This quote underscores the immense impact of Justin Kan's journey.  He started b
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=wUOdBXYIMM8" target="_blank">Watch the podcast here!</a>

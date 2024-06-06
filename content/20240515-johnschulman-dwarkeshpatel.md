@@ -56,3 +56,8 @@ This conversation reveals a fascinating glimpse into the potential future of AI,
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=Wo95ob_s_NI" target="_blank">Watch the podcast here!</a>
