@@ -42,3 +42,8 @@ This interview reveals a side of Chad Johnson we rarely see – a man deeply dev
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=KgScnzMqu_o" target="_blank">Watch the podcast here!</a>

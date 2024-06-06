@@ -67,3 +67,8 @@ In a world saturated with brands vying for attention, Aaron and Lior's story is 
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=IuoscQiQQLg" target="_blank">Watch the podcast here!</a>

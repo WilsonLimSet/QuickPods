@@ -53,3 +53,8 @@ TomoCredit's success highlights the importance of innovation and inclusivity in 
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=JiSjMKptCKY" target="_blank">Watch the podcast here!</a>

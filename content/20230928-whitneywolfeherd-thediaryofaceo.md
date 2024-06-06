@@ -47,3 +47,8 @@ Ek's story is a powerful reminder that success is not always a linear path.  He 
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=w_35cUaU_NA" target="_blank">Watch the podcast here!</a>

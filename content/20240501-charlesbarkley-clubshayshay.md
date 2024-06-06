@@ -45,3 +45,8 @@ Barkley's conversation is filled with humor, honesty, and wisdom, offering a gli
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=_nlfQQh5lU0" target="_blank">Watch the podcast here!</a>

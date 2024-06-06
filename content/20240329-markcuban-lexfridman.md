@@ -42,3 +42,8 @@ On the subject of AI, Cuban expresses optimism, believing that its potential ben
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=0cn3VBjfN8g" target="_blank">Watch the podcast here!</a>

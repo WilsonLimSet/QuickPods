@@ -55,3 +55,8 @@ Chesky's story is a testament to the power of passion, conviction, and a relentl
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=W608u6sBFpo" target="_blank">Watch the podcast here!</a>

@@ -53,3 +53,8 @@ In closing, Ravikant leaves us with this potent insight:
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=3qHkcs3kG44" target="_blank">Watch the podcast here!</a>

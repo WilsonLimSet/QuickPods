@@ -64,3 +64,8 @@ This episode leaves listeners with a powerful message: **embrace a growth mindse
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=aXGo1o_baBo" target="_blank">Watch the podcast here!</a>

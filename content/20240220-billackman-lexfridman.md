@@ -49,3 +49,8 @@ This conversation with Bill Ackman offers a fascinating glimpse into the mind of
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=PgGKhsWhUu8" target="_blank">Watch the podcast here!</a>

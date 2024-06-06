@@ -54,3 +54,8 @@ This simple yet powerful quote encapsulates the heart of Rahul's journey - a jou
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=fHRzHEwn5ac" target="_blank">Watch the podcast here!</a>

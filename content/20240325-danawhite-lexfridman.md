@@ -47,3 +47,8 @@ This interview provides a fascinating glimpse into the mind of Dana White, a man
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=k7aQEqDbuf8" target="_blank">Watch the podcast here!</a>

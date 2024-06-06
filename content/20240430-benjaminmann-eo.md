@@ -36,3 +36,8 @@ Ben's journey is a powerful reminder that building a successful tech career invo
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=spGQpp7twgs" target="_blank">Watch the podcast here!</a>

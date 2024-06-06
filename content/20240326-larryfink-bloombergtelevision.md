@@ -48,3 +48,8 @@ The time for action is now. Let’s start the conversation and pave the way for 
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=hOz19yUXWlE" target="_blank">Watch the podcast here!</a>

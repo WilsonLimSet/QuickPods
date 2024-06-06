@@ -51,3 +51,8 @@ This commitment to creator empowerment, even as the platform evolves with new fo
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=vqM8hKlnhRY" target="_blank">Watch the podcast here!</a>

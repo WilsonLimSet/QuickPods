@@ -52,3 +52,8 @@ This powerful quote encapsulates the entire essence of the conversation, urging 
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=Gk8EGWoGnEQ" target="_blank">Watch the podcast here!</a>

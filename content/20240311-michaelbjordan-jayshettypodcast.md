@@ -41,3 +41,8 @@ Jordan’s thoughtful insights and unwavering dedication to his purpose inspire 
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=FlibCSZ93gM" target="_blank">Watch the podcast here!</a>

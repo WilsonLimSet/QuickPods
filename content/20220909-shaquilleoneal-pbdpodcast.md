@@ -46,3 +46,8 @@ Shaq's journey is a testament to the power of dedication, resilience, and stayin
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=V4VEFcff4DQ" target="_blank">Watch the podcast here!</a>

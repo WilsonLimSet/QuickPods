@@ -46,3 +46,8 @@ Dalio's insights are both thought-provoking and practical, offering a valuable f
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=o5NQvY4eK8g" target="_blank">Watch the podcast here!</a>

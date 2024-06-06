@@ -27,3 +27,9 @@ Danielle emphasizes that success can be defined in various ways. She advocates f
 > Just because you have all these barriers that history and statistics say will not work for success, you can actually make a new recipe. That's why I built 'Be a Bread Winner' and why I'm so excited for its launch. It really is for somebody who wants to have success on their own terms and be a barrier breaker, a bread taker, the new mold of a money maker."
 
 This quote encapsulates Danielle's philosophy of defying expectations and forging your own path to success.
+
+
+
+
+
+<a href="https://youtube.com/watch?v=DVcX3ZlW_1s" target="_blank">Watch the podcast here!</a>

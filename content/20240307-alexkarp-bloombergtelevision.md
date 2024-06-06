@@ -59,3 +59,8 @@ Karp acknowledges the confusion surrounding the software revolution, attributing
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=P2eRjbUW53s" target="_blank">Watch the podcast here!</a>

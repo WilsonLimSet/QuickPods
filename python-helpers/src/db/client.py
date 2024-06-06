@@ -25,6 +25,19 @@ class Client:
             .execute()
         )  # Match the row where 'youtube_url' equals the given URL
 
+    def update_url_appended(self, url):
+        """Update the 'url_appended' status to True for a specific YouTube URL."""
+        update_result = (
+            self.cli.table(self.table_name)
+            .update(
+                {
+                    "url_appended": True  # Set the field to True
+                }
+            )
+            .eq("md_slug", url)
+            .execute()
+        )
+
     def get_unprocessed_urls(self):
         """Retrieve YouTube URLs and slugs from the database where blog_generated is false."""
 
@@ -35,15 +48,22 @@ class Client:
             .execute()
         )
         print(query_result)
-        # Check directly if there's an error in the response
-        # if query_result.error:
-        #     raise Exception(
-        #         f"Failed to fetch unprocessed URLs: {query_result.error_description}"
-        #     )
         return [
             (item["youtube_url"], item["md_slug"], item["publish_date"])
             for item in query_result.data
         ]
+
+    def get_processed_urls(self):
+        """Retrieve YouTube URLs and slugs from the database where blog_generated is true."""
+
+        query_result = (
+            self.cli.table(self.table_name)
+            .select("youtube_url, md_slug")
+            .eq("blog_generated", True)
+            .execute()
+        )
+        print(query_result)
+        return [(item["youtube_url"], item["md_slug"]) for item in query_result.data]
 
     def url_exists(self, url: str):
         def standardize_url(url: str):

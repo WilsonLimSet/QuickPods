@@ -53,3 +53,8 @@ Sinek acknowledges the ongoing shifts in the work landscape, highlighting the ne
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=Q-zuTZuYeCg" target="_blank">Watch the podcast here!</a>

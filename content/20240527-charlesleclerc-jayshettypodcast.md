@@ -37,3 +37,8 @@ Despite the demands and challenges, Charles's love for the sport remains undimme
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=MzKfOvZxNko" target="_blank">Watch the podcast here!</a>

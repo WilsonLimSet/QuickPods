@@ -56,3 +56,8 @@ This quote perfectly encapsulates Stripe's vision: to be the underlying infrastr
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=qrDZhAxpKrQ" target="_blank">Watch the podcast here!</a>

@@ -56,3 +56,8 @@ This powerful quote encapsulates Bosh's approach to life. He encourages us to em
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=RDVjcauBw20" target="_blank">Watch the podcast here!</a>

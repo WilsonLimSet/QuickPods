@@ -52,3 +52,8 @@ Ultimately, Brady's story is a testament to the power of discipline, resilience,
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=liz8rZx1NJ8" target="_blank">Watch the podcast here!</a>

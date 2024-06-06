@@ -44,3 +44,8 @@ Zach’s journey highlights the evolving landscape of content creation. It’s n
 
 ---
         
+
+
+
+
+<a href="https://youtube.com/watch?v=xmGO98delaM" target="_blank">Watch the podcast here!</a>
