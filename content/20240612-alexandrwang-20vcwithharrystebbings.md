@@ -67,3 +67,4 @@ This conversation with Alex was a powerful reminder of the transformative potent
 
 ---
         
+<a href="https://youtube.com/watch?v=jNbEr9F0wiE" target="_blank">Watch the podcast here!</a>
