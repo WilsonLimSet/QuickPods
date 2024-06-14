@@ -47,3 +47,4 @@ The conversation delves into a multitude of thought-provoking topics, leaving li
 
 ---
         
+<a href="https://youtube.com/watch?v=edYGzszdcUo" target="_blank">Watch the podcast here!</a>
