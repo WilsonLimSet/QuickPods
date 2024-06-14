@@ -7,13 +7,14 @@ from googleapiclient.discovery import build
 class YouTubeScraper:
     def __init__(self):
         load_dotenv()
+        self.initialize_youtube_client()
+
+    def initialize_youtube_client(self):
+        """Initialize the YouTube API client using an API key."""
+        api_service_name = "youtube"
+        api_version = "v3"
         YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY")
-
-        # Create a YouTube client
-        SERVICE_NAME = "youtube"
-        API_VERSION = "v3"
-
-        self.yt = build(SERVICE_NAME, API_VERSION, developerKey=YOUTUBE_API_KEY)
+        self.yt = build(api_service_name, api_version, developerKey=YOUTUBE_API_KEY)
 
     def get_youtube_urls(self, query: str):
         MAX_AGE = 7
@@ -41,5 +42,14 @@ class YouTubeScraper:
         for search_result in search_response.get("items", []):
             video_id = search_result["id"]["videoId"]
             urls.append(f"https://www.youtube.com/watch?v={video_id}")
-
         return urls
+
+
+# Usage
+scraper = YouTubeScraper()
+video_urls = scraper.get_youtube_urls(
+    "startup "
+)  # Replace "your search term here" with your actual search query
+print("YouTube Video URLs:")
+for url in video_urls:
+    print(url)
