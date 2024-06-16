@@ -7,6 +7,7 @@ import dynamic from "next/dynamic";
 import Footer from "@/components/Footer";
 import { useInView } from "react-intersection-observer";
 import SkeletonPodCard from "@/components/SkeletonPodCard";
+import { debounce } from "lodash";
 
 interface CardData {
   id: string;
@@ -18,11 +19,12 @@ interface CardData {
   publish_date: string;
   tag: string;
   md_slug: string;
+  blog_content: string;
 }
 
 const LazyPodCard = dynamic(() => import("../components/PodCard"), {
   ssr: false,
-  loading: () => <p>Loading...</p>, // Optionally provide a loading placeholder
+  loading: () => <p>Loading...</p>,
 });
 
 export default function Index() {
@@ -32,6 +34,8 @@ export default function Index() {
   const [hasMore, setHasMore] = useState(true);
   const [sortOrder, setSortOrder] = useState("DESC"); // Default to 'DESC' for most recent
   const { ref, inView } = useInView({ threshold: 0.5, triggerOnce: false });
+  const [searchQuery, setSearchQuery] = useState("");
+  const [debouncedQuery, setDebouncedQuery] = useState(searchQuery);
 
   const fetchInitialData = useCallback(async () => {
     try {
@@ -56,6 +60,15 @@ export default function Index() {
   useEffect(() => {
     fetchInitialData();
   }, [fetchInitialData]);
+
+  useEffect(() => {
+    const handler = debounce(() => {
+      setDebouncedQuery(searchQuery);
+    }, 300); // Adjust timing as needed
+
+    handler();
+    return () => handler.cancel();
+  }, [searchQuery]);
 
   const fetchMorePodcasts = useCallback(async () => {
     if (!isLoadingMore && hasMore && cards.length > 0) {
@@ -92,11 +105,24 @@ export default function Index() {
     }
   }, [inView, fetchMorePodcasts]);
 
+  const filteredCards = cards.filter((card) =>
+    (card.blog_content || "")
+      .toLowerCase()
+      .includes((searchQuery || "").toLowerCase()),
+  );
+
   return (
     <>
       <Header />
       <main className="flex flex-col items-center py-10">
-        <div className="mb-4">
+        <div className="mb-4 items-center space-x-2">
+          <input
+            type="text"
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+            placeholder="Search"
+            className="rounded-md border bg-background p-2 text-foreground"
+          />
           <select
             value={sortOrder}
             onChange={(e) => setSortOrder(e.target.value)}
@@ -107,16 +133,17 @@ export default function Index() {
           </select>
         </div>
         <div className="grid max-w-7xl grid-cols-1 gap-3 px-2 md:grid-cols-2 lg:grid-cols-4">
-          {isLoadingInitial
-            ? Array.from({ length: 8 }, (_, index) => (
-                <SkeletonPodCard key={index} />
-              ))
-            : cards.map((card) => (
-                <LazyPodCard
-                  key={`${card.id}-${card.publish_date}`}
-                  {...card}
-                />
-              ))}
+          {isLoadingInitial ? (
+            Array.from({ length: 8 }, (_, index) => (
+              <SkeletonPodCard key={index} />
+            ))
+          ) : filteredCards.length > 0 ? (
+            filteredCards.map((card) => (
+              <LazyPodCard key={`${card.id}-${card.publish_date}`} {...card} />
+            ))
+          ) : (
+            <div>No results found.</div>
+          )}
         </div>
         {isLoadingMore && (
           <div className="loading-indicator">Loading More...</div>
