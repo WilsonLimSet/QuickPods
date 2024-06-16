@@ -12,6 +12,21 @@ class Client:
     def upload(self, data):
         self.cli.table(self.table_name).insert(data).execute()
 
+    def upload_blog(self, md_slug, content):
+        response = (
+            self.cli.table(self.table_name)
+            .update(
+                {"blog_content": content}  # Only updating the blog_content column
+            )
+            .eq(
+                "md_slug", md_slug
+            )  # Match rows where md_slug equals the provided value
+            .execute()
+        )
+
+    def table(self, table_name):
+        return self.cli.table(table_name)
+
     def update_blog_generated(self, url):
         """Update the 'blog_generated' status to True for a specific YouTube URL."""
         update_result = (
