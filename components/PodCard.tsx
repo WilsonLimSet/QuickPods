@@ -1,14 +1,45 @@
 import React from "react";
-import Link from "next/link"; // Import the Link component from next/link
+import Link from "next/link";
+import { createClient } from "@/utils/supabase/client"; // Ensure this path is correct
 
+const incrementViews = async (id: number) => {
+  const supabase = createClient();
+
+  try {
+    // First, get the current views
+    let { data: currentData, error: getError } = await supabase
+      .from("Podcasts")
+      .select("views")
+      .eq("id", id)
+      .single();
+
+    if (!currentData) {
+      throw new Error("Current data is null.");
+    }
+
+    if (getError) throw getError;
+
+    // Now increment the views
+    const newViews = currentData.views + 1;
+    const { error: updateError } = await supabase
+      .from("Podcasts")
+      .update({ views: newViews })
+      .match({ id: id });
+
+    if (updateError) throw updateError;
+  } catch (error) {
+    console.error("Error incrementing views:", error);
+  }
+};
 interface PodCardProps {
-  id: string;
+  id: number;
   thumbnail_url: string;
   interviewee: string;
   interviewer: string;
   publish_date: string;
   youtube_url: string;
   md_slug: string;
+  views: number;
 }
 
 const PodCard = ({
@@ -19,89 +50,51 @@ const PodCard = ({
   publish_date,
   youtube_url,
   md_slug,
+  views,
 }: PodCardProps) => {
-  // Prevent event propagation to stop card click when button is clicked
   const handleButtonClick = (
     e: React.MouseEvent<HTMLAnchorElement, MouseEvent>
   ) => {
-    e.stopPropagation(); // Stop propagation to prevent Link from triggering
+    e.stopPropagation(); // Prevent navigation when the button is clicked
   };
 
-  // Card Click Handler: Only redirect if md_slug is valid
-  const handleCardClick = (e: React.MouseEvent) => {
+  const handleCardClick = async (e: React.MouseEvent) => {
     if (!md_slug) {
-      e.preventDefault(); // Prevent navigation if slug is invalid
-      return; // Optionally display an error message or log this issue
+      e.preventDefault(); // Prevent navigation if no valid slug
+    } else {
+      await incrementViews(id); // Call the increment function with the podcast's ID
     }
   };
 
   return (
     <Link href={md_slug ? `/blog/${md_slug}` : ""} passHref>
       <div
-        className="card"
-        style={{
-          backgroundColor: "#343a40",
-          borderRadius: "8px",
-          overflow: "hidden",
-          color: "white",
-          maxWidth: "340px",
-          height: "350px",
-          boxShadow: "0 4px 6px rgba(0,0,0,0.1)",
-          display: "flex",
-          flexDirection: "column",
-          justifyContent: "space-between",
-          cursor: md_slug ? "pointer" : "default",
-        }}
+        className="bg-gray-800 rounded-lg overflow-hidden text-white shadow-xl flex flex-col justify-between cursor-pointer transition-opacity duration-500 hover:opacity-75"
         onClick={handleCardClick}
+        style={{ maxWidth: "340px", height: "350px" }}
       >
-        <div style={{ overflow: "hidden", height: "155px" }}>
-          <img
-            src={thumbnail_url}
-            alt={`Thumbnail for ${interviewee}`}
-            style={{ width: "100%", height: "100%", objectFit: "cover" }}
-          />
-        </div>
-        <div
-          style={{
-            padding: "16px",
-            flex: "1",
-            display: "flex",
-            flexDirection: "column",
-          }}
-        >
-          <h2
-            style={{ fontSize: "18px", fontWeight: "bold", margin: "0 0 8px" }}
-          >
-            {interviewee}
-          </h2>
-          <h4
-            style={{
-              fontSize: "16px",
-              fontWeight: "normal",
-              color: "#adb5bd",
-              margin: "0",
-              flex: "1",
-            }}
-          >
+        <img
+          src={thumbnail_url}
+          alt={`Thumbnail for ${interviewee}`}
+          className="w-full h-40 object-cover"
+        />
+        <div className="p-4 flex flex-1 flex-col">
+          <h2 className="text-lg font-bold mb-2">{interviewee}</h2>
+          <h4 className="text-md text-gray-400 flex-1">
             Interviewed by {interviewer}
           </h4>
-          {/* <span style={{ fontSize: "14px", color: "#adb5bd" }}>
-            {publish_date}
-          </span> */}
-          <span
-            style={{ fontSize: "15px", color: "#adb5bd", marginBottom: "8px" }}
-          >
-            {/* Published on {publish_date} */}
-            {publish_date}
-          </span>
+          <div className="text-sm text-gray-300 flex items-center mb-2">
+            {publish_date} <span className="mx-2">•</span>{" "}
+            {views.toLocaleString()} blog views
+          </div>
           <a
             href={youtube_url}
             target="_blank"
             rel="noopener noreferrer"
-            style={{ textDecoration: "none", marginTop: "auto" }}
+            className="mt-auto"
             onClick={handleButtonClick}
           >
-            <button className="w-full bg-pink-600 text-white py-2 rounded font-bold hover:bg-pink-700 transition-colors duration-300">
+            <button className="w-full bg-blue-500 text-white py-2 rounded font-bold hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50 transition duration-300">
               Watch podcast
             </button>
           </a>
@@ -110,4 +103,5 @@ const PodCard = ({
     </Link>
   );
 };
+
 export default PodCard;
