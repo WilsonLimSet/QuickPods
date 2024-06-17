@@ -10,7 +10,7 @@ import SkeletonPodCard from "@/components/SkeletonPodCard";
 import { debounce } from "lodash";
 
 interface CardData {
-  id: string;
+  id: number;
   interviewer: string;
   interviewee: string;
   insights: string[];
@@ -20,6 +20,7 @@ interface CardData {
   tag: string;
   md_slug: string;
   blog_content: string;
+  views: number;
 }
 
 const LazyPodCard = dynamic(() => import("../components/PodCard"), {
@@ -38,22 +39,38 @@ export default function Index() {
   const [debouncedQuery, setDebouncedQuery] = useState(searchQuery);
 
   const fetchInitialData = useCallback(async () => {
-    try {
-      const supabase = createClient();
-      let query = supabase
-        .from("Podcasts")
-        .select("*")
-        .order("publish_date", { ascending: sortOrder === "ASC" })
-        .limit(8); // Limit to 8 items initially for faster loading
+    const supabase = createClient();
+    let query = supabase.from("Podcasts").select("*").limit(8); // Limit to 8 items initially for faster loading
 
+    // Apply sorting based on the sortOrder state
+    switch (sortOrder) {
+      case "ASC":
+        query = query.order("publish_date", { ascending: true });
+        break;
+      case "DESC":
+        query = query.order("publish_date", { ascending: false });
+        break;
+      case "MOSTVIEWS":
+        query = query
+          .order("views", { ascending: false })
+          .order("id", { ascending: false });
+        break;
+      case "LEASTVIEWS":
+        query = query
+          .order("views", { ascending: true })
+          .order("id", { ascending: true });
+        break;
+    }
+
+    try {
       const { data, error } = await query;
       if (error) throw error;
       setCards(data || []);
-      setHasMore(data?.length === 8); // Adjust according to the new limit
-      setIsLoadingInitial(false); // Set to false once data is loaded
+      setHasMore(data?.length === 8);
+      setIsLoadingInitial(false);
     } catch (e) {
       console.error("Error connecting to Supabase", e);
-      setIsLoadingInitial(false); // Ensure loading state is updated even on error
+      setIsLoadingInitial(false);
     }
   }, [sortOrder]);
 
@@ -75,16 +92,37 @@ export default function Index() {
       setIsLoadingMore(true);
       const supabase = createClient();
       const lastCard = cards[cards.length - 1];
-      let query = supabase
-        .from("Podcasts")
-        .select("*")
-        .order("publish_date", { ascending: sortOrder === "ASC" })
-        .limit(10);
+      let query = supabase.from("Podcasts").select("*").limit(10);
 
-      if (sortOrder === "ASC") {
-        query = query.gt("publish_date", lastCard.publish_date);
-      } else {
-        query = query.lt("publish_date", lastCard.publish_date);
+      switch (sortOrder) {
+        case "ASC":
+          query = query
+            .gt("publish_date", lastCard.publish_date)
+            .order("publish_date", { ascending: true });
+          break;
+        case "DESC":
+          query = query
+            .lt("publish_date", lastCard.publish_date)
+            .order("publish_date", { ascending: false });
+          break;
+        case "MOSTVIEWS":
+          // Sort primarily by views, then by publish_date to ensure consistent ordering
+          query = query
+            .or(
+              `views.lt.${lastCard.views},and(views.eq.${lastCard.views},publish_date.lt.${lastCard.publish_date})`,
+            )
+            .order("views", { ascending: false })
+            .order("publish_date", { ascending: false });
+          break;
+        case "LEASTVIEWS":
+          // Sort primarily by views, then by publish_date to ensure consistent ordering
+          query = query
+            .or(
+              `views.gt.${lastCard.views},and(views.eq.${lastCard.views},publish_date.gt.${lastCard.publish_date})`,
+            )
+            .order("views", { ascending: true })
+            .order("publish_date", { ascending: true });
+          break;
       }
 
       const { data, error } = await query;
@@ -128,8 +166,10 @@ export default function Index() {
             onChange={(e) => setSortOrder(e.target.value)}
             className="rounded-md border bg-background p-2 text-foreground"
           >
-            <option value="ASC">Sort by Earliest Date</option>
             <option value="DESC">Sort by Latest Date</option>
+            <option value="ASC">Sort by Earliest Date</option>
+            <option value="MOSTVIEWS">Sort by Most Blog Views</option>
+            <option value="LEASTVIEWS">Sort by Least Blog Views</option>
           </select>
         </div>
         <div className="grid max-w-7xl grid-cols-1 gap-3 px-2 md:grid-cols-2 lg:grid-cols-4">
