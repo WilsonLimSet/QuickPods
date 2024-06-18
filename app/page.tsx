@@ -15,7 +15,6 @@ interface CardData {
   interviewee: string;
   insights: string[];
   thumbnail_url: string;
-  youtube_url: string;
   publish_date: string;
   tag: string;
   md_slug: string;
@@ -153,18 +152,18 @@ export default function Index() {
     <>
       <Header />
       <main className="flex flex-col items-center py-10">
-        <div className="mb-4 items-center space-x-2">
+        <div className="mb-4 flex flex-col items-center space-y-2 md:flex-row md:space-x-2 md:space-y-0">
           <input
             type="text"
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
             placeholder="Search"
-            className="rounded-md border bg-background p-2 text-foreground"
+            className="w-full rounded-md border bg-background p-2 text-foreground md:w-auto"
           />
           <select
             value={sortOrder}
             onChange={(e) => setSortOrder(e.target.value)}
-            className="rounded-md border bg-background p-2 text-foreground"
+            className="w-full rounded-md border bg-background p-2 text-foreground md:w-auto"
           >
             <option value="DESC">Sort by Latest Date</option>
             <option value="ASC">Sort by Earliest Date</option>
@@ -172,6 +171,7 @@ export default function Index() {
             <option value="LEASTVIEWS">Sort by Least Blog Views</option>
           </select>
         </div>
+
         <div className="grid max-w-7xl grid-cols-1 gap-3 px-2 md:grid-cols-2 lg:grid-cols-4">
           {isLoadingInitial ? (
             Array.from({ length: 8 }, (_, index) => (
