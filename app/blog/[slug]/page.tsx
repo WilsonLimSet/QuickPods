@@ -30,10 +30,9 @@ export default function BlogPostPage({ params }: { params: any }) {
     <>
       <Header />
       <main className="mx-auto max-w-4xl p-4">
-        <h1 className="text-2xl text-slate-600 ">{post.title}</h1>
-        <p className="mt-2 text-slate-400">{post.date}</p>
-
-        <article className="prose">
+        <h1 className="text-2xl text-white">{post.title}</h1>
+        <p className="mt-2 text-gray-300">{post.date}</p>
+        <article className="prose prose-invert">
           <Markdown>{post.content}</Markdown>
         </article>
       </main>

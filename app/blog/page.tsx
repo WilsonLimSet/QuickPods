@@ -11,7 +11,7 @@ export default async function Blog() {
   return (
     <>
       <Header />
-      <h2 className="my-8 text-center text-2xl text-black">
+      <h2 className="my-8 text-center text-2xl text-white">
         Latest Blog Posts
       </h2>
       <div className="mx-auto max-w-4xl px-4">
