@@ -1,4 +1,4 @@
-# Ceo Insights Backend Python Helper Functions
+# QuickPods Backend Python Helper Functions
 
 ## Quick Start
 

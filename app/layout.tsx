@@ -8,8 +8,8 @@ const defaultUrl = process.env.VERCEL_URL
 
 export const metadata = {
   metadataBase: new URL(defaultUrl),
-  title: "CEO Insights",
-  description: "Effortless Podcast Discovery",
+  title: "QuickPods",
+  description: "Blinkist for Podcasts",
 };
 
 export default function RootLayout({
