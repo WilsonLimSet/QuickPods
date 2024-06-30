@@ -10,18 +10,9 @@ class Model:
         GEMINI_MODEL = "models/gemini-1.5-pro-latest"
 
         safety_settings = [
-            {
-                "category": "HARM_CATEGORY_DANGEROUS",
-                "threshold": "BLOCK_ONLY_HIGH",
-            },
-            {
-                "category": "HARM_CATEGORY_HARASSMENT",
-                "threshold": "BLOCK_ONLY_HIGH",
-            },
-            {
-                "category": "HARM_CATEGORY_HATE_SPEECH",
-                "threshold": "BLOCK_ONLY_HIGH",
-            },
+            {"category": "HARM_CATEGORY_DANGEROUS", "threshold": "BLOCK_ONLY_HIGH"},
+            {"category": "HARM_CATEGORY_HARASSMENT", "threshold": "BLOCK_ONLY_HIGH"},
+            {"category": "HARM_CATEGORY_HATE_SPEECH", "threshold": "BLOCK_ONLY_HIGH"},
             {
                 "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
                 "threshold": "BLOCK_ONLY_HIGH",
@@ -37,14 +28,13 @@ class Model:
             res = self.model.generate_content([query])
             if not res:
                 return ""
-
             return res.text
         except Exception as e:
             print(f"Model.get_response: {str(e)}")
             return ""
 
     def execute_prompt_from_audio(self, prompt: str, audio_file_path):
-        retries = 2  # Number of retries
+        retries = 2
         for attempt in range(retries):
             try:
                 file_id = genai.upload_file(path=audio_file_path)
@@ -54,11 +44,8 @@ class Model:
                 if res:
                     time.sleep(10)
                     return res.text
-
             except Exception as e:
                 print(f"Attempt {attempt + 1} failed: {str(e)}")
-                print(res)
-                print(res.prompt_feedback)
                 if attempt < retries - 1:
                     print("Retrying...")
                 else:
