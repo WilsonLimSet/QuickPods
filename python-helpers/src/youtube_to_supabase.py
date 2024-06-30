@@ -6,24 +6,29 @@ from dotenv import load_dotenv
 from pytube import YouTube
 from db.client import Client as DBClient
 from models.model import Model as GeminiModel
+from typing import List
+
+# Load environment variables once
+load_dotenv()
 
 
 class Summarizer:
-    """Summarizes a list of YouTube urls, then stores them in a Supabase DB."""
+    """Summarizes a list of YouTube URLs, then stores them in a Supabase DB."""
 
     def __init__(self):
-        load_dotenv()
         self.db = DBClient()
         self.model = GeminiModel()
 
-    def generate_slug(self, publish_date, interviewee, interviewer):
+    def generate_slug(
+        self, publish_date: str, interviewee: str, interviewer: str
+    ) -> str:
         pattern = re.compile("[^a-zA-Z0-9_-]+")
         interviewee = pattern.sub("", interviewee).lower()
         interviewer = pattern.sub("", interviewer).lower()
         publish_date = publish_date.replace("-", "")
         return f"{publish_date}-{interviewee}-{interviewer}"
 
-    def get_interviewee_name(self, yt_description: str):
+    def get_interviewee_name(self, yt_description: str) -> str:
         prompt = f"""
         Extract the full name of the interviewee from the following YouTube description. 
         The interviewee's name might appear early in the description, possibly following phrases like:
@@ -39,7 +44,7 @@ class Summarizer:
         res = self.model.get_response(prompt)
         return res.strip()
 
-    def process_youtube_videos(self, urls):
+    def process_youtube_videos(self, urls: List[str]) -> None:
         """Process each YouTube video URL for content generation and upload the results if not already in the database."""
 
         for url in urls:
@@ -49,7 +54,7 @@ class Summarizer:
 
             try:
                 yt = YouTube(url)
-                stream = yt.streams.first()  # needed or else description doesnt work
+                stream = yt.streams.first()  # Needed to initialize certain properties
                 print(yt.description)
 
                 interviewee_name = self.get_interviewee_name(yt.description)
@@ -78,8 +83,16 @@ class Summarizer:
                 print(f'"{yt.title}" with slug: {slug}')
                 print(json.dumps(data, indent=4))
 
-                # Don't get rate-limited
+                # Avoid rate-limiting
                 time.sleep(1)
 
-            except ValueError as e:
+            except Exception as e:
                 print(f"Skipping URL {url} due to error: {str(e)}")
+
+
+if __name__ == "__main__":
+    urls = [
+        # Add your list of YouTube URLs here
+    ]
+    summarizer = Summarizer()
+    summarizer.process_youtube_videos(urls)
