@@ -56,6 +56,8 @@ def main():
         print("Processing videos in the playlist...")
         summarizer = Summarizer()
         CURATED_PLAYLIST = f"https://www.youtube.com/playlist?list={playlist_id}"
+        # Optional Manual Playlist here:
+        ##CURATED_PLAYLIST = f"https://www.youtube.com/playlist?list={playlist_id}"
         print(f"Curated playlist URL: {CURATED_PLAYLIST}")
 
         try:
