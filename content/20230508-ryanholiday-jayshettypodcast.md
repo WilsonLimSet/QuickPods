@@ -56,4 +56,4 @@ As Ryan Holiday aptly states:
 
 ---
 
-**Read another blog about [I Asked a $15BN Investor for Life Advice](./20231009-grahamweaver-jayhoovy)**
+**Read another blog about [Stephen Curry On Building The Warriors Culture, Battling LeBron & Kyrie, Changing The NBA & More](./20221122-stephencurry-jjredick)**

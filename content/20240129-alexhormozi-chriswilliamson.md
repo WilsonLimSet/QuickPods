@@ -57,4 +57,4 @@ This powerful quote encapsulates the entire essence of the conversation, urging 
 
 ---
 
-**Read another blog about [Taxi mafias, cash vaults & 100% MoM growth: The story of SEA’s biggest startup | Kevin Aluwi (Gojek)](./20230326-kevinaluwi-lennyspodcast)**
+**Read another blog about [A conversation with NVIDIA’s Jensen Huang](./20240521-jensenhuang-stripe)**

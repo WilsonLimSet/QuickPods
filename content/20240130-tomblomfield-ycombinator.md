@@ -38,4 +38,4 @@ Blomfield's story isn't just about building companies; it's about choosing a pat
 
 ---
 
-**Read another blog about [Reed Hastings, Chairman and Co-Founder of Netflix](./20240223-reedhastings-stanfordgraduateschoolofbusiness)**
+**Read another blog about [Pattern Breakers: How to find a breakthrough startup idea | Mike Maples, Jr. (Partner at Floodgate)](./20240707-mikemaplesjr-lennyspodcast)**

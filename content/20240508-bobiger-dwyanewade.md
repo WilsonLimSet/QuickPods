@@ -58,4 +58,4 @@ Legacy, a word often associated with public figures, holds a deeper meaning for 
 
 ---
 
-**Read another blog about [How I Built A $4B Startup Called WebflowㅣWebflow, Vlad Magdalin](./20240223-vladmagdalin-eo)**
+**Read another blog about [Sebastian Siemiatkowski (CEO, Klarna) on the Future of Klarna, Valuation Changes and AI in Finance](./20240628-sebastiansiemiatkowski-theloganbartlettshow)**

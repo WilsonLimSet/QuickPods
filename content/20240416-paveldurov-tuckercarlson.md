@@ -52,4 +52,4 @@ Durov's story is a compelling testament to the power of conviction. In a world w
 
 ---
 
-**Read another blog about [Blitzscaling 11: Patrick Collison on Hiring at Stripe and the Role of a Product-Focused CEO](./20151104-patrickcollison-greylock)**
+**Read another blog about [Asking Doctor Mike About Health in Technology](./20230623-mikevarshavski-wvfrmpodcast)**

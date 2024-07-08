@@ -59,4 +59,4 @@ Throughout the interview, Donaldson's work ethic shines through. He admits to fi
 
 ---
 
-**Read another blog about [Mark Zuckerberg on Creators, AI Studio, Neural Wristbands, Holographic Smart Glasses, Picasso & More](./20240627-markzuckerberg-kallaway)**
+**Read another blog about [Morgan Housel: What You Need to Master (And Avoid) to Get Rich, Stay Rich, and Build Wealth](./20240528-morganhousel-theknowledgeprojectpodcast)**

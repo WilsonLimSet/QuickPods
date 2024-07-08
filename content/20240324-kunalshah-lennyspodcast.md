@@ -54,4 +54,4 @@ Kunal’s insights challenge conventional wisdom and offer a unique perspective 
 
 ---
 
-**Read another blog about [Beckham on Netflix Doc & Messi | Stick to Football EP 2](./20231004-davidbeckham-theoverlap)**
+**Read another blog about [How Zach King Built His $500M Empire (Interview)](./20230724-zachking-jonyoushaei)**

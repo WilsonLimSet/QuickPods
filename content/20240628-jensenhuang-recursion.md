@@ -52,4 +52,4 @@ This quote perfectly captures the passion, dedication, and sense of purpose that
 
 ---
 
-**Read another blog about [Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale](./20151130-brianchesky-greylock)**
+**Read another blog about [Why I'm Leaving My Company Immediately (Stability AI) w/ Emad Mostaque | EP #93](./20240329-emadmostaque-peterhdiamandis)**

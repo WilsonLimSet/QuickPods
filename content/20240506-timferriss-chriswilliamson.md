@@ -54,4 +54,4 @@ This quote encapsulates his approach to life:  clarity, intentionality, and a wi
 
 ---
 
-**Read another blog about [Coatue’s Laffont on AI Darlings and Opportunities in Today’s Markets](./20240625-philippelaffont-bloomberglive)**
+**Read another blog about [Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale](./20151130-brianchesky-greylock)**

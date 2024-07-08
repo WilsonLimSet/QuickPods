@@ -69,4 +69,4 @@ This episode leaves listeners with a powerful message: **embrace a growth mindse
 
 ---
 
-**Read another blog about [This SKILL Is Our #1 Human Superpower | Charles Duhigg X Rich Roll Podcast](./20240222-charlesduhigg-richroll)**
+**Read another blog about [Bill Ackman: Investing, Financial Battles, Harvard, DEI, X & Free Speech | Lex Fridman Podcast #413](./20240220-billackman-lexfridman)**

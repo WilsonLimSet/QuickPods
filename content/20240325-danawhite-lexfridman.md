@@ -52,4 +52,4 @@ This interview provides a fascinating glimpse into the mind of Dana White, a man
 
 ---
 
-**Read another blog about [Erik Allebest: Scaling to $100M Revenue, 150M Members and 700 People, All with No Vc Funding | E1113](./20240207-erikallebest-20vcwithharrystebbings)**
+**Read another blog about [Gallant on Making R&B Music On His Own Terms, Youtube Comments, Perseverance Through Early Doubters](./20191105-gallant-hardknocktv)**

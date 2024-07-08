@@ -82,4 +82,4 @@ This simple yet powerful statement encapsulates the essence of Bastian's approac
 
 ---
 
-**Read another blog about [Mark Zuckerberg on Creators, AI Studio, Neural Wristbands, Holographic Smart Glasses, Picasso & More](./20240627-markzuckerberg-kallaway)**
+**Read another blog about [Arnold Schwarzenegger Is The Influencer We Need Right Now | Rich Roll Podcast](./20231002-arnoldschwarzenegger-richroll)**

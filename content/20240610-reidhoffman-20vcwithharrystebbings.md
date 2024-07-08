@@ -52,4 +52,4 @@ The conversation delves into a multitude of thought-provoking topics, leaving li
 
 ---
 
-**Read another blog about [Stephen Curry On Building The Warriors Culture, Battling LeBron & Kyrie, Changing The NBA & More](./20221122-stephencurry-jjredick)**
+**Read another blog about [Alex Wang: Why Data Not Compute is the Bottleneck to Foundation Model Performance | E1164](./20240612-alexandrwang-20vcwithharrystebbings)**

@@ -51,4 +51,4 @@ Dalio's insights are both thought-provoking and practical, offering a valuable f
 
 ---
 
-**Read another blog about [Keynote by NVIDIA CEO Jensen Huang at 2024 SIEPR Economic Summit](./20240307-jensenhuang-stanfordinstituteforeconomicpolicyresearchsiepr)**
+**Read another blog about [Arnold Schwarzenegger Is The Influencer We Need Right Now | Rich Roll Podcast](./20231002-arnoldschwarzenegger-richroll)**

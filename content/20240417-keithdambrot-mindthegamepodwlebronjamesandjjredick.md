@@ -59,4 +59,4 @@ This powerful message resonated throughout the episode, reminding listeners that
 
 ---
 
-**Read another blog about [Kunal Shah on winning in India, second-order thinking, the philosophy of startups, and more](./20240324-kunalshah-lennyspodcast)**
+**Read another blog about [Starbucks (with Howard Schultz)](./20240604-howardschultz-acquired)**

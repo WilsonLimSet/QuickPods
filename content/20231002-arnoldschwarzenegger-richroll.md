@@ -41,4 +41,4 @@ This conversation showcases the depth and complexity of Arnold Schwarzenegger's 
 
 ---
 
-**Read another blog about [Coming out of Retirement with Bob Iger | The Why with Dwyane Wade](./20240508-bobiger-dwyanewade)**
+**Read another blog about [Ryan Holiday ON: How To AVOID BEING MISERABLE For The Rest of Your Life | Jay Shetty](./20230508-ryanholiday-jayshettypodcast)**

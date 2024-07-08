@@ -61,4 +61,4 @@ This conversation reveals a fascinating glimpse into the potential future of AI,
 
 ---
 
-**Read another blog about [View From The Top with Daniella Pierson, CEO and Founder of The Newsette](./20240419-daniellapierson-stanfordgraduateschoolofbusiness)**
+**Read another blog about [Dana White: UFC, Fighting, Khabib, Conor, Tyson, Ali, Rogan, Elon & Zuck | Lex Fridman Podcast #421](./20240325-danawhite-lexfridman)**

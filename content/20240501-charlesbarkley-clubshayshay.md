@@ -50,4 +50,4 @@ Barkley's conversation is filled with humor, honesty, and wisdom, offering a gli
 
 ---
 
-**Read another blog about [Michael B. Jordan EXCLUSIVE: How To Connect With Your Intuition & Focus On Your Path](./20240311-michaelbjordan-jayshettypodcast)**
+**Read another blog about [Gallant on Making R&B Music On His Own Terms, Youtube Comments, Perseverance Through Early Doubters](./20191105-gallant-hardknocktv)**

@@ -60,4 +60,4 @@ Chesky's story is a testament to the power of passion, conviction, and a relentl
 
 ---
 
-**Read another blog about [Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)](./20240407-clairevo-lennyspodcast)**
+**Read another blog about [Sam Altman talks GPT-4o and Predicts the Future of AI](./20240514-samaltman-theloganbartlettshow)**

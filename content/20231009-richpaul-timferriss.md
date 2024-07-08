@@ -62,4 +62,4 @@ Paul's memoir, aptly titled "Lucky Me: A Memoir of Changing the Odds," reflects 
 
 ---
 
-**Read another blog about [I Asked a $15BN Investor for Life Advice](./20231009-grahamweaver-jayhoovy)**
+**Read another blog about [Taxi mafias, cash vaults & 100% MoM growth: The story of SEA’s biggest startup | Kevin Aluwi (Gojek)](./20230326-kevinaluwi-lennyspodcast)**

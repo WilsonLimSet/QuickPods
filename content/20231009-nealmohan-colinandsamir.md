@@ -56,4 +56,4 @@ This commitment to creator empowerment, even as the platform evolves with new fo
 
 ---
 
-**Read another blog about [The Full Story of Mark Rober](./20221207-markrober-colinandsamir)**
+**Read another blog about [Blitzscaling 11: Patrick Collison on Hiring at Stripe and the Role of a Product-Focused CEO](./20151104-patrickcollison-greylock)**

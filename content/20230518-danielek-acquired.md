@@ -60,4 +60,4 @@ Ultimately, Ek believes that Spotify is only now truly defining its own unique c
 
 ---
 
-**Read another blog about [Shaq Opens Up About Kobe, Creating Wealth & Life](./20220909-shaquilleoneal-pbdpodcast)**
+**Read another blog about [Virgil van Dijk’s Hardest Opponents, Winning A Champions League & The Klopp Effect | EP 103](./20240405-virgilvandijk-therestisfootball)**

@@ -62,4 +62,4 @@ Mosseri's biggest concern is the world evolving faster than platforms can keep u
 
 ---
 
-**Read another blog about [How I Turned $49k In Debt To $500 Million](./20240503-patrickbetdavid-noahkagan)**
+**Read another blog about [Kunal Shah on winning in India, second-order thinking, the philosophy of startups, and more](./20240324-kunalshah-lennyspodcast)**

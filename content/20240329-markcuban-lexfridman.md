@@ -47,4 +47,4 @@ On the subject of AI, Cuban expresses optimism, believing that its potential ben
 
 ---
 
-**Read another blog about [Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)](./20240418-daltoncaldwell-lennyspodcast)**
+**Read another blog about [The Underdog: He Turned His Last $4,000 Into $48M](./20230927-aaronspivak-starterstory)**

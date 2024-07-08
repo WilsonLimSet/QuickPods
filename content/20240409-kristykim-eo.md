@@ -58,4 +58,4 @@ TomoCredit's success highlights the importance of innovation and inclusivity in 
 
 ---
 
-**Read another blog about [Success Starts at the End of Your Comfort ZoneㅣChartmetric, Sung M. Cho](./20240115-sungcho-eo)**
+**Read another blog about [How MKBHD Became The Most Powerful Man in Tech](./20240425-marquesbrownlee-jonyoushaei)**

@@ -86,4 +86,4 @@ Altman's message is clear: **identify important problems, build something users 
 
 ---
 
-**Read another blog about [Kunal Shah on winning in India, second-order thinking, the philosophy of startups, and more](./20240324-kunalshah-lennyspodcast)**
+**Read another blog about [21 Brutally Honest Lessons About Life - Alex Hormozi (4K)](./20240129-alexhormozi-chriswilliamson)**

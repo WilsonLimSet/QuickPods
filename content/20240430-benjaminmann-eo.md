@@ -41,4 +41,4 @@ Ben's journey is a powerful reminder that building a successful tech career invo
 
 ---
 
-**Read another blog about [How I built a billion dollar coffee company called Kopi Kenangan](./20240520-edwardtirtanata-cnbcinternational)**
+**Read another blog about [The social radar: Y Combinator’s secret weapon | Jessica Livingston (co-founder of YC, author)](./20240627-jessicalivingston-lennyspodcast)**

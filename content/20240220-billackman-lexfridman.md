@@ -54,4 +54,4 @@ This conversation with Bill Ackman offers a fascinating glimpse into the mind of
 
 ---
 
-**Read another blog about [Kunal Shah on winning in India, second-order thinking, the philosophy of startups, and more](./20240324-kunalshah-lennyspodcast)**
+**Read another blog about [The social radar: Y Combinator’s secret weapon | Jessica Livingston (co-founder of YC, author)](./20240627-jessicalivingston-lennyspodcast)**

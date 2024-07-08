@@ -42,4 +42,4 @@ Despite the demands and challenges, Charles's love for the sport remains undimme
 
 ---
 
-**Read another blog about [Every Lesson From Scaling Datadog to $40B](./20240614-olivierpomel-theloganbartlettshow)**
+**Read another blog about [What YouTube’s CEO Really Thinks About YouTube | The Circuit with Emily Chang](./20240529-nealmohan-bloombergoriginals)**

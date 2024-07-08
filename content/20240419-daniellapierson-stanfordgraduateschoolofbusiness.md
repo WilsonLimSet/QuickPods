@@ -35,4 +35,4 @@ This quote encapsulates Danielle's philosophy of defying expectations and forgin
 
 ---
 
-**Read another blog about [NVIDIA CEO Jensen Huang](./20231015-jensenhuang-acquired)**
+**Read another blog about [Asking Doctor Mike About Health in Technology](./20230623-mikevarshavski-wvfrmpodcast)**

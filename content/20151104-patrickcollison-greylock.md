@@ -61,4 +61,4 @@ This quote perfectly encapsulates Stripe's vision: to be the underlying infrastr
 
 ---
 
-**Read another blog about [Mark Zuckerberg on Meta AI, Fighting in the UFC, Llama 3, Legacy, Metaverse & More](./20240418-markzuckerberg-robertonickson)**
+**Read another blog about [What I learned from building $3.5B business | Verkada, Filip Kaliszan](./20240508-filipkaliszan-eo)**

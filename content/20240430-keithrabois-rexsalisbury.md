@@ -67,4 +67,4 @@ Rabois's conversation is packed with insights and thought-provoking ideas. His p
 
 ---
 
-**Read another blog about [The social radar: Y Combinator’s secret weapon | Jessica Livingston (co-founder of YC, author)](./20240627-jessicalivingston-lennyspodcast)**
+**Read another blog about [Sam Altman talks GPT-4o and Predicts the Future of AI](./20240514-samaltman-theloganbartlettshow)**

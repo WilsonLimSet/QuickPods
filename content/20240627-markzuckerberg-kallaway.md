@@ -57,4 +57,4 @@ _"This I think is... is going to be the beginning of something interesting... I 
 
 ---
 
-**Read another blog about [Taxi mafias, cash vaults & 100% MoM growth: The story of SEA’s biggest startup | Kevin Aluwi (Gojek)](./20230326-kevinaluwi-lennyspodcast)**
+**Read another blog about [Khabib Nurmagomedov Opens Up - Possible Comeback | LGBTQ | Hardest Puncher | Fathers Influence](./20230821-khabibnurmagomedov-pbdpodcast)**

@@ -58,4 +58,4 @@ In closing, Ravikant leaves us with this potent insight:
 
 ---
 
-**Read another blog about [How I built a billion dollar coffee company called Kopi Kenangan](./20240520-edwardtirtanata-cnbcinternational)**
+**Read another blog about [Chris Bosh on Stoicism, Embracing the Process, and Staying Present](./20210602-chrisbosh-dailystoic)**

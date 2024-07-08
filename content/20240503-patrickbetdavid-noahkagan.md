@@ -56,4 +56,4 @@ Patrick Bet-David's story is a powerful reminder that success is a journey, not 
 
 ---
 
-**Read another blog about [Spotify Founder: How A 23 Year Old Introvert Built A $31 Billion Business!](./20230928-whitneywolfeherd-thediaryofaceo)**
+**Read another blog about [Erik Allebest: Scaling to $100M Revenue, 150M Members and 700 People, All with No Vc Funding | E1113](./20240207-erikallebest-20vcwithharrystebbings)**

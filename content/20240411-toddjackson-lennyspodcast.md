@@ -77,4 +77,4 @@ This quote encapsulates the essence of achieving strong product market fit: the 
 
 ---
 
-**Read another blog about [Mark Zuckerberg on Meta AI, Fighting in the UFC, Llama 3, Legacy, Metaverse & More](./20240418-markzuckerberg-robertonickson)**
+**Read another blog about [Keynote by NVIDIA CEO Jensen Huang at 2024 SIEPR Economic Summit](./20240307-jensenhuang-stanfordinstituteforeconomicpolicyresearchsiepr)**

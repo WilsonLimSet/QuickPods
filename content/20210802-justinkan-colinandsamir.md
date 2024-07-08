@@ -46,4 +46,4 @@ This quote underscores the immense impact of Justin Kan's journey.  He started b
 
 ---
 
-**Read another blog about [10K Users from Product Launch Day 1 | TomoCredit Kristy Kim](./20240409-kristykim-eo)**
+**Read another blog about [Trent Alexander-Arnold: ](./20240416-trentalexander-arnold-theoverlap)**

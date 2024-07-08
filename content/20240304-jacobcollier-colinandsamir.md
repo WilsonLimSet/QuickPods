@@ -55,4 +55,4 @@ As AI becomes increasingly integrated into the creative process, the ability to 
 
 ---
 
-**Read another blog about [Ryan Holiday ON: How To AVOID BEING MISERABLE For The Rest of Your Life | Jay Shetty](./20230508-ryanholiday-jayshettypodcast)**
+**Read another blog about [Bill Ackman: Investing, Financial Battles, Harvard, DEI, X & Free Speech | Lex Fridman Podcast #413](./20240220-billackman-lexfridman)**

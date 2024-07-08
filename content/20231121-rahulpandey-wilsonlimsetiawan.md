@@ -59,4 +59,4 @@ This simple yet powerful quote encapsulates the heart of Rahul's journey - a jou
 
 ---
 
-**Read another blog about [Sebastian Siemiatkowski (CEO, Klarna) on the Future of Klarna, Valuation Changes and AI in Finance](./20240628-sebastiansiemiatkowski-theloganbartlettshow)**
+**Read another blog about [A framework for finding product-market fit | Todd Jackson (First Round Capital)](./20240411-toddjackson-lennyspodcast)**

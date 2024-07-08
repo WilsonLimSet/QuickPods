@@ -80,4 +80,4 @@ Gojek’s story is an inspiration for entrepreneurs worldwide, demonstrating tha
 
 ---
 
-**Read another blog about [Telegram Creator on Elon Musk, Resisting FBI Attacks, and Getting Mugged in California](./20240416-paveldurov-tuckercarlson)**
+**Read another blog about [Spotify CEO Daniel Ek](./20230518-danielek-acquired)**

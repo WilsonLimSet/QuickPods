@@ -92,4 +92,4 @@ Finally, Gil reiterates his belief in technology as a positive force for the wor
 
 ---
 
-**Read another blog about [How I Turned $49k In Debt To $500 Million](./20240503-patrickbetdavid-noahkagan)**
+**Read another blog about [Blitzscaling 11: Patrick Collison on Hiring at Stripe and the Role of a Product-Focused CEO](./20151104-patrickcollison-greylock)**

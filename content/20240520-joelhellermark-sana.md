@@ -59,4 +59,4 @@ Ultimately, Hinton's dedication to unraveling the mysteries of learning in both 
 
 ---
 
-**Read another blog about [Erik Allebest: Scaling to $100M Revenue, 150M Members and 700 People, All with No Vc Funding | E1113](./20240207-erikallebest-20vcwithharrystebbings)**
+**Read another blog about [21 Brutally Honest Lessons About Life - Alex Hormozi (4K)](./20240129-alexhormozi-chriswilliamson)**

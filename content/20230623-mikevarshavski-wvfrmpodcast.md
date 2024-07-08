@@ -53,4 +53,4 @@ Ultimately, Dr. Mike's message is one of caution and empowerment. He urges us to
 
 ---
 
-**Read another blog about [Spotify CEO Daniel Ek](./20230518-danielek-acquired)**
+**Read another blog about [Why every MrBeast video gets 200M views (interview)](./20240528-jimmydonaldson-jonyoushaei)**

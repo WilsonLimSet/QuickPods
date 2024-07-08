@@ -50,4 +50,4 @@ He concludes with a powerful statement that captures the essence of his entrepre
 
 ---
 
-**Read another blog about [Why every MrBeast video gets 200M views (interview)](./20240528-jimmydonaldson-jonyoushaei)**
+**Read another blog about [I asked a YC founder who quit his $800K job for advice](./20231121-rahulpandey-wilsonlimsetiawan)**

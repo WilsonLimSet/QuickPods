@@ -47,4 +47,4 @@ Beckham's interview paints a vivid picture of a man driven by passion, loyalty, 
 
 ---
 
-**Read another blog about [Khabib Nurmagomedov Opens Up - Possible Comeback | LGBTQ | Hardest Puncher | Fathers Influence](./20230821-khabibnurmagomedov-pbdpodcast)**
+**Read another blog about [How I Built A $4B Startup Called WebflowㅣWebflow, Vlad Magdalin](./20240223-vladmagdalin-eo)**

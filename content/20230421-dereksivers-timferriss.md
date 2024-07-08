@@ -52,4 +52,4 @@ Sivers encourages us to deconstruct isms and accept ideas piecemeal, acknowledgi
 
 ---
 
-**Read another blog about [How Future Billionaires Get Sh*t Done](./20220331-paulgraham-ycombinator)**
+**Read another blog about [I Asked a $100M Founder for Life Advice](./20231116-ericwei-jayhoovy)**

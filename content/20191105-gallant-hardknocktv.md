@@ -52,4 +52,4 @@ Throughout the interview, Gallant consistently emphasizes the importance of crea
 
 ---
 
-**Read another blog about [Derek Sivers — Finding Paths Less Traveled, Taking Giant Leaps, and Picking the Right “Game of Life”](./20230421-dereksivers-timferriss)**
+**Read another blog about [13-Year Journey to Create the World's Best ProductㅣFigma, Yuhki Yamashita](./20231215-yuhkiyamashita-eo)**

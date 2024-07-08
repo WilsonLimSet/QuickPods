@@ -67,4 +67,4 @@ This episode is a treasure trove of insights for aspiring and current startup fo
 
 ---
 
-**Read another blog about [Virgil van Dijk’s Hardest Opponents, Winning A Champions League & The Klopp Effect | EP 103](./20240405-virgilvandijk-therestisfootball)**
+**Read another blog about [Jamie Dimon on the Economy, U.S.-China, Overseas Wars and More: Full Interview | WSJ](./20240429-jamiedimon-thewallstreetjournal)**

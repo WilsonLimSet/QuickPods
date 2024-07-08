@@ -45,4 +45,4 @@ While acknowledging the challenges of a constantly evolving media landscape, Has
 
 ---
 
-**Read another blog about [The Lessons, Hacks & Books That Changed My Life - Tim Ferriss (4K)](./20240506-timferriss-chriswilliamson)**
+**Read another blog about [We interviewed the CEO of YouTube](./20231009-nealmohan-colinandsamir)**

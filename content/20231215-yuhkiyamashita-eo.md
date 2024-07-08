@@ -43,4 +43,4 @@ Yuhki's insights offer a powerful reminder that storytelling is not just a marke
 
 ---
 
-**Read another blog about [Bill Ackman: Investing, Financial Battles, Harvard, DEI, X & Free Speech | Lex Fridman Podcast #413](./20240220-billackman-lexfridman)**
+**Read another blog about [Knowledge of A Lifelong Software Engineer | Benjamin Mann, Delivery Hero](./20240430-benjaminmann-eo)**

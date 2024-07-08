@@ -54,4 +54,4 @@ The US faces a critical juncture in its technological rivalry with China. Whethe
 
 ---
 
-**Read another blog about [Pattern Breakers: How to find a breakthrough startup idea | Mike Maples, Jr. (Partner at Floodgate)](./20240707-mikemaplesjr-lennyspodcast)**
+**Read another blog about [Chamath Palihapitiya: Freedom, Bitcoin, and First Principles | The Knowledge Project #94](./20201013-chamathpalihapitiya-theknowledgeprojectpodcast)**
