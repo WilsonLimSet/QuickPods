@@ -1,9 +1,8 @@
-
-
+---
 title: "How Zach King Built His $500M Empire (Interview)"
 date: "2023-07-24"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Magic of Zach King: Behind the Scenes of Viral Video Success
 

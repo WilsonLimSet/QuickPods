@@ -1,9 +1,8 @@
-
-
+---
 title: "Virgil van Dijk’s Hardest Opponents, Winning A Champions League & The Klopp Effect | EP 103"
 date: "2024-04-05"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## An Afternoon with Virgil van Dijk: The Rest is Football Podcast 
 

@@ -1,9 +1,8 @@
-
-
+---
 title: "He sold his company to Amazon for $970,000,000 ft @JustinKanTV​"
 date: "2021-08-02"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## From Streaming Life 24/7 to a Billion-Dollar Exit: The Justin Kan Story
 

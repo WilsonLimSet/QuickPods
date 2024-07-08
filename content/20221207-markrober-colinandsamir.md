@@ -1,9 +1,8 @@
-
-
+---
 title: "The Full Story of Mark Rober"
 date: "2022-12-07"
 tags: [Tech, Innovation, AI]
-
+---
 
 ##  Why Mark Rober Jogs and Doesn't Sprint: An Interview with the Engineering YouTube Star
 

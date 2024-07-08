@@ -1,8 +1,8 @@
-
+---
 title: "Jeff Bezos: Amazon and Blue Origin | Lex Fridman Podcast #405"
 date: "2023-12-14"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Jeff Bezos: The Ranch, Rockets, and the Relentless Pursuit of Day One Thinking
 

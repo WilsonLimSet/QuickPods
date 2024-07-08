@@ -1,9 +1,8 @@
-
-
+---
 title: "A conversation with NVIDIA’s Jensen Huang"
 date: "2024-05-21"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Unexpected Wisdom of Jensen Huang: A Celebration of Hard Work, Pain, and... Acne?
 

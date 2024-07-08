@@ -1,8 +1,8 @@
-
+---
 title: "View From The Top with Daniella Pierson, CEO and Founder of The Newsette"
 date: "2024-04-19"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Interview with Danielle Pierson, CEO and Founder of The Newsette
 

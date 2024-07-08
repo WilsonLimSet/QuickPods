@@ -1,9 +1,8 @@
-
-
+---
 title: "Charles Barkley On MJ vs Scottie Pippen, Marcus Jordan & Larsa Pippen, Shaq vs Kendrick Perkins"
 date: "2024-05-01"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Charles Barkley: From Round Mound of Rebound to Voice of Reason
 

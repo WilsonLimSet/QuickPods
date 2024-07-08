@@ -1,9 +1,8 @@
-
-
+---
 title: "I Asked a $15BN Investor for Life Advice"
 date: "2023-10-09"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Antidote to Overnight Success: A Journey of Patience, Flow, and A-Players
 

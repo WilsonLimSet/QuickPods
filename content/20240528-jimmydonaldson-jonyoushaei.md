@@ -1,7 +1,10 @@
-a
+---
 title: "Why every MrBeast video gets 200M views (interview)"
 date: "2024-05-28"
 tags: [Tech, Innovation, AI]
+---
+
+a
 
 
 

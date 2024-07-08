@@ -1,9 +1,8 @@
-
-
+---
 title: "13-Year Journey to Create the World's Best ProductㅣFigma, Yuhki Yamashita"
 date: "2023-12-15"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Power of Storytelling in Product Management: Insights from Figma's CPO
 

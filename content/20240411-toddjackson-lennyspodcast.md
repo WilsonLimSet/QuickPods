@@ -1,9 +1,8 @@
-
-
+---
 title: "A framework for finding product-market fit | Todd Jackson (First Round Capital)"
 date: "2024-04-11"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Unlocking Product Market Fit: A Journey in 4 Levels
 

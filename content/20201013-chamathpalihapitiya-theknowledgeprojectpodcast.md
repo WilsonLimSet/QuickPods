@@ -1,9 +1,8 @@
-
-
+---
 title: "Chamath Palihapitiya: Freedom, Bitcoin, and First Principles | The Knowledge Project #94"
 date: "2020-10-13"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Finding Freedom and Happiness in a World of Change: A Conversation with Chamath Palihapitiya
 

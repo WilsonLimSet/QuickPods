@@ -1,9 +1,8 @@
-
-
+---
 title: "John Schulman (OpenAI Cofounder) - Reasoning, RLHF, & Plan for 2027 AGI"
 date: "2024-05-15"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Future of AI: A Conversation with John Schulman 
 

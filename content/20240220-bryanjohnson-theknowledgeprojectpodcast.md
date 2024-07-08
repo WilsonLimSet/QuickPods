@@ -1,9 +1,8 @@
-
-
+---
 title: "Bryan Johnson: The Five Science-Backed Habits For Longer Living"
 date: "2024-02-20"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Don't Die: A Conversation with Bryan Johnson on Living by Algorithm 
 

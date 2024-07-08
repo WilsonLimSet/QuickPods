@@ -1,9 +1,8 @@
-
-
+---
 title: "Palantir CEO Karp on TITAN, AI Warfare Technology"
 date: "2024-03-07"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Software Revolution: A Palantir Perspective 
 

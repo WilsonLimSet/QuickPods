@@ -1,9 +1,8 @@
-
-
+---
 title: "Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale"
 date: "2015-11-30"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Airbnb Story: From Air Mattresses to a Global Phenomenon
 

@@ -1,9 +1,8 @@
-
-
+---
 title: "Alex Wang: Why Data Not Compute is the Bottleneck to Foundation Model Performance | E1164"
 date: "2024-06-12"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Future of AI: A Conversation with Alex Wang, CEO of Scale AI
 

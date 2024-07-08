@@ -1,9 +1,8 @@
-
-
+---
 title: "Bastian Lehmann: How the Uber Deal Went Down and How a $2.65BN Deal Turned into $5BN | E1137"
 date: "2024-04-08"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Gritty Truth Behind Success: A Conversation with Bastian Lehmann
 

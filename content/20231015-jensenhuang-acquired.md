@@ -1,8 +1,8 @@
-
+---
 title: "NVIDIA CEO Jensen Huang"
 date: "2023-10-15"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Nvidia's Jensen Huang: A Master of Anticipation and the Power of "How Hard Can It Be?"
 

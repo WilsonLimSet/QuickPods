@@ -1,9 +1,8 @@
-
-
+---
 title: "Tim Ferriss On Solving Problems With People And Using Stoicism To Make Better Decisions"
 date: "2024-01-24"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Reframing Success and Stoicism: A Conversation with Tim Ferriss
 

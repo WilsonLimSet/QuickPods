@@ -1,9 +1,8 @@
-
-
+---
 title: "Kunal Shah on winning in India, second-order thinking, the philosophy of startups, and more"
 date: "2024-03-24"
 tags: [Tech, Innovation, AI]
-
+---
 
 ##  The Indian CEO Enigma and the Power of Dharma: Unexpected Insights from Kunal Shah
 

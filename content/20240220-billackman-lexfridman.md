@@ -1,9 +1,8 @@
-
-
+---
 title: "Bill Ackman: Investing, Financial Battles, Harvard, DEI, X & Free Speech | Lex Fridman Podcast #413"
 date: "2024-02-20"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## An Interview with the Fearless Investor: Bill Ackman on Value, Activism, and the Power of X
 

@@ -1,9 +1,8 @@
-
-
+---
 title: "Shaq Opens Up About Kobe, Creating Wealth & Life"
 date: "2022-09-09"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Shaq: More Than a Superman
 

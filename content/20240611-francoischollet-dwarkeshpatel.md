@@ -1,9 +1,8 @@
-
-
+---
 title: "Francois Chollet - LLMs won’t lead to AGI - $1,000,000 Prize to find true solution"
 date: "2024-06-11"
 tags: [Tech, Innovation, AI]
-
+---
 
 ##  The Arc Benchmark: A Million Dollar Question About the Nature of Intelligence
 

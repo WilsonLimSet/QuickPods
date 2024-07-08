@@ -1,9 +1,8 @@
-
-
+---
 title: "Ray Dalio’s Principles of Investing in a Changing World | WSJ News"
 date: "2024-05-23"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Navigating the Changing World Order: An Investor's Perspective
 

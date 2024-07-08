@@ -1,9 +1,8 @@
-
-
+---
 title: "Blitzscaling 11: Patrick Collison on Hiring at Stripe and the Role of a Product-Focused CEO"
 date: "2015-11-04"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Scaling Stripe: Insights from Patrick Collison
 

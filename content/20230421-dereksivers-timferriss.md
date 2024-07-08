@@ -1,9 +1,8 @@
-
-
+---
 title: "Derek Sivers — Finding Paths Less Traveled, Taking Giant Leaps, and Picking the Right “Game of Life”"
 date: "2023-04-21"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Unoptimized Life: Embracing Enough with Derek Sivers
 

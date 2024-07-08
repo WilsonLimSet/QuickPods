@@ -1,9 +1,8 @@
-
-
+---
 title: "How Netflix builds a culture of excellence | Elizabeth Stone (CTO)"
 date: "2024-02-22"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Power of High Talent Density: Key Insights from Netflix's CTO
 

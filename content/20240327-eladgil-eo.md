@@ -1,9 +1,8 @@
-
-
+---
 title: "Advice from investor who backed 40 Unicorns l Elad Gil"
 date: "2024-03-27"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## A Silicon Valley Journey: From Layoffs to Building Billion-Dollar Companies
 

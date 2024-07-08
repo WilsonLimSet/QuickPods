@@ -1,9 +1,8 @@
-
-
+---
 title: "I asked a YC founder who quit his $800K job for advice"
 date: "2023-11-21"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## From Stanford to Startup: A Journey of Missed Opportunities and Hard-Earned Lessons
 

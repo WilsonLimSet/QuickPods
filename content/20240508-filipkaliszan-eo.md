@@ -1,9 +1,8 @@
-
-
+---
 title: "What I learned from building $3.5B business | Verkada, Filip Kaliszan"
 date: "2024-05-08"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Building Verkada: Lessons Learned From a Silicon Valley Success Story
 

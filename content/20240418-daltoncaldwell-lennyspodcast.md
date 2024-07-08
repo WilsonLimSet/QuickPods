@@ -1,9 +1,8 @@
-
-
+---
 title: "Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)"
 date: "2024-04-18"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Unsexy Truth About Startup Success: A Conversation with Dalton Caldwell
 

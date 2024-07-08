@@ -1,9 +1,8 @@
-
-
+---
 title: "The NBA Playoffs | LeBron James and JJ Redick | Mind the Game"
 date: "2024-04-17"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Pressure Cooker: Insights into the NBA Playoffs with LeBron James and Coach Dambrot
 

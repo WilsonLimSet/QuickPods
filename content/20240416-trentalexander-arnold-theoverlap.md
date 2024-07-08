@@ -1,9 +1,8 @@
-
-
-title: "Trent Alexander-Arnold: "I Owe Everything To Klopp.""
+---
+title: "Trent Alexander-Arnold: "
 date: "2024-04-16"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Mind of a Modern Full-Back: A Conversation with Trent Alexander-Arnold
 

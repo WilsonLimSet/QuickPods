@@ -1,9 +1,8 @@
-
-
+---
 title: "Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)"
 date: "2024-04-07"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Startup Mindset at Scale: Insights from a 3x CPO
 

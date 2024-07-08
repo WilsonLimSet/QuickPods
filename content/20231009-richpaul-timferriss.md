@@ -1,9 +1,8 @@
-
-
+---
 title: "The Power Broker and Superstar Agent Behind LeBron James, Draymond Green, and Others | Rich Paul"
 date: "2023-10-09"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## From Candy Counter to Championship Deals: Rich Paul's Story
 

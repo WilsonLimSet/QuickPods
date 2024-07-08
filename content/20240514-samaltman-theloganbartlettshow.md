@@ -1,9 +1,8 @@
-
-
+---
 title: "Sam Altman talks GPT-4o and Predicts the Future of AI"
 date: "2024-05-14"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Strangely Isolating Reality of Leading AI: A Conversation with Sam Altman
 

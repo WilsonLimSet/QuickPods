@@ -1,9 +1,8 @@
-
-
+---
 title: "Keith Rabois' Unique Investment Strategy (Exclusive Interview 2024)"
 date: "2024-04-30"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Keith Rabois on Seed Investing, Avoiding Competition, and Why Remote Work is a "Horrible Idea"
 

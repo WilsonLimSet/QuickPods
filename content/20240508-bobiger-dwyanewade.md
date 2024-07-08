@@ -1,9 +1,8 @@
-
-
+---
 title: "Coming out of Retirement with Bob Iger | The Why with Dwyane Wade"
 date: "2024-05-08"
 tags: [Tech, Innovation, AI]
-
+---
 
 ##  The Unquenchable Fire: A Conversation with Bob Iger
 

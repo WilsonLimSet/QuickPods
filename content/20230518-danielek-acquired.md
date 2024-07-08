@@ -1,9 +1,8 @@
-
-
+---
 title: "Spotify CEO Daniel Ek"
 date: "2023-05-18"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Unexpected Power of Audio: An Interview with Spotify's Daniel Ek
 

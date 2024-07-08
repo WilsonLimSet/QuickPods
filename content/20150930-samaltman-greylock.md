@@ -1,9 +1,8 @@
-
-
+---
 title: "Blitzscaling 02: Sam Altman on Y Combinator and What Makes The Best Founders"
 date: "2015-09-30"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Untold Secrets of Y Combinator: A Founder's Perspective
 

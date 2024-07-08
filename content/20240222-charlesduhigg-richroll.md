@@ -1,9 +1,8 @@
-
-
+---
 title: "This SKILL Is Our #1 Human Superpower | Charles Duhigg X Rich Roll Podcast"
 date: "2024-02-22"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Surprising Truth About Super Communicators: A Conversation With Charles Duhigg 
 

@@ -1,9 +1,8 @@
-
-
+---
 title: "Mark Zuckerberg on Meta AI, Fighting in the UFC, Llama 3, Legacy, Metaverse & More"
 date: "2024-04-18"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Mark Zuckerberg on AI, the Metaverse, and Cheesesteaks with Jensen Huang
 

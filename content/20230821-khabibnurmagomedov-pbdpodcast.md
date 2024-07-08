@@ -1,9 +1,8 @@
-
-
+---
 title: "Khabib Nurmagomedov Opens Up - Possible Comeback | LGBTQ | Hardest Puncher | Fathers Influence"
 date: "2023-08-21"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Eagle Has Landed: Insights From Khabib Nurmagomedov
 

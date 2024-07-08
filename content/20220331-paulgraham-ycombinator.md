@@ -1,9 +1,8 @@
-
-
+---
 title: "How Future Billionaires Get Sh*t Done"
 date: "2022-03-31"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## How Future Billionaires Get Sh*t Done
 

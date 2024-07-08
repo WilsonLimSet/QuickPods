@@ -1,9 +1,8 @@
-
-
+---
 title: "How I built a billion dollar coffee company called Kopi Kenangan"
 date: "2024-05-20"
 tags: [Tech, Innovation, AI]
-
+---
 
 ##  From Break-Ups To Billions: The Kopi Kenangan Story
 

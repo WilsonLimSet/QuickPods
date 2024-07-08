@@ -1,9 +1,8 @@
-
-
+---
 title: "How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu"
 date: "2022-07-31"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Scrap Your Way to Growth: Lessons from Southeast Asia's Startup Queen
 

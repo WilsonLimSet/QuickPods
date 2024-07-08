@@ -1,9 +1,8 @@
-
-
+---
 title: "Ryan Holiday ON: How To AVOID BEING MISERABLE For The Rest of Your Life | Jay Shetty"
 date: "2023-05-08"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Subtle Art of Disciplined Living: A Conversation with Ryan Holiday
 

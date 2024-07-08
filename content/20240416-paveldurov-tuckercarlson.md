@@ -1,9 +1,8 @@
-
-
+---
 title: "Telegram Creator on Elon Musk, Resisting FBI Attacks, and Getting Mugged in California"
 date: "2024-04-16"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Man Who Refused to Compromise: A Conversation with Pavel Durov, Founder of Telegram
 

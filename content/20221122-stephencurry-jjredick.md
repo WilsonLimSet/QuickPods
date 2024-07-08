@@ -1,9 +1,8 @@
-
-
+---
 title: "Stephen Curry On Building The Warriors Culture, Battling LeBron & Kyrie, Changing The NBA & More"
 date: "2022-11-22"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Joy of Steph: An Inside Look at Basketball Brilliance
 

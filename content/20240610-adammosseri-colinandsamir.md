@@ -1,9 +1,8 @@
-
-
+---
 title: "An honest conversation with the CEO of Instagram"
 date: "2024-06-10"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## A Conversation with Adam Mosseri: The Future of Instagram and the Rise of the Creator
 

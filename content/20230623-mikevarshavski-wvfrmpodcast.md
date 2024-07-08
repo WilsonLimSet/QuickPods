@@ -1,9 +1,8 @@
-
-
+---
 title: "Asking Doctor Mike About Health in Technology"
 date: "2023-06-23"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Is Your Tech Making You Healthier, Or Just More Anxious?
 

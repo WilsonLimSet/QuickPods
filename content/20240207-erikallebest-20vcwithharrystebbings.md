@@ -1,9 +1,8 @@
-
-
+---
 title: "Erik Allebest: Scaling to $100M Revenue, 150M Members and 700 People, All with No Vc Funding | E1113"
 date: "2024-02-07"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Unconventional Chess King: Lessons from a $1B Bootstrap Empire 
 

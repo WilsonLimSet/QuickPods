@@ -1,9 +1,8 @@
-
-
+---
 title: "21 Brutally Honest Lessons About Life - Alex Hormozi (4K)"
 date: "2024-01-29"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Why We Love to Hate "Control Freaks" & Other Lessons From Alex Hormozi
 

@@ -1,9 +1,8 @@
-
-
+---
 title: "A Practical Guide on Finding Inner Peace | Jack Kornfield | Knowledge Project Podcast 156"
 date: "2023-01-10"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Two Kinds of Suffering: An Interview with Jack Kornfield
 
