@@ -72,3 +72,8 @@ In a world saturated with brands vying for attention, Aaron and Lior's story is 
 
 
 <a href="https://youtube.com/watch?v=IuoscQiQQLg" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [The Full Story of Mark Rober](./20221207-markrober-colinandsamir.md)**

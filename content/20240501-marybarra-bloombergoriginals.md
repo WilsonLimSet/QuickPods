@@ -56,3 +56,8 @@ Her journey is a reminder that transformation, whether for a company or a city, 
 
 
 <a href="https://youtube.com/watch?v=AeWWmARalVQ" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Virgil van Dijk’s Hardest Opponents, Winning A Champions League & The Klopp Effect | EP 103](./20240405-virgilvandijk-therestisfootball.md)**

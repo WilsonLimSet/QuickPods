@@ -43,3 +43,8 @@ Yuhki's insights offer a powerful reminder that storytelling is not just a marke
 
 
 <a href="https://youtube.com/watch?v=WeNnc3_xn2A" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Trent Alexander-Arnold: ](./20240416-trentalexander-arnold-theoverlap.md)**

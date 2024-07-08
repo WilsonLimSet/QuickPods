@@ -58,3 +58,8 @@ In closing, Ravikant leaves us with this potent insight:
 
 
 <a href="https://youtube.com/watch?v=3qHkcs3kG44" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [How I Built A $4B Startup Called WebflowㅣWebflow, Vlad Magdalin](./20240223-vladmagdalin-eo.md)**

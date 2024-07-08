@@ -59,3 +59,8 @@ Don't miss your chance to be part of this revolution. Check out the link in the 
 
 
 <a href="https://youtube.com/watch?v=9iSZ12osxHM" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Kunal Shah on winning in India, second-order thinking, the philosophy of startups, and more](./20240324-kunalshah-lennyspodcast.md)**

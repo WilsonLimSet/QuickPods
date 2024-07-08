@@ -66,3 +66,8 @@ Despite his success, Chesky embraces a beginner's mindset and constantly seeks o
 
 
 <a href="https://youtube.com/watch?v=4ef0juAMqoE" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Stephen Curry On Building The Warriors Culture, Battling LeBron & Kyrie, Changing The NBA & More](./20221122-stephencurry-jjredick.md)**

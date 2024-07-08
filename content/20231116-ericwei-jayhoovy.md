@@ -46,3 +46,8 @@ Ultimately, Eric's message is one of empowerment. By letting go of the need for 
 
 
 <a href="https://youtube.com/watch?v=dGw0Byvn8Xk" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Simon Sinek: The Number One Reason Why You’re Not Succeeding | E145](./20220522-simonsinek-thediaryofaceo.md)**

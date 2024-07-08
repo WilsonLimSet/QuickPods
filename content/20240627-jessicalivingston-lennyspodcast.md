@@ -58,3 +58,9 @@ This quote, though blunt, encapsulates Jessica's philosophy and highlights the i
 ---
         
 <a href="https://youtube.com/watch?v=h9MUuhsDJOM" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu](./20220731-crystalwidjaja-lennyspodcast.md)**
+

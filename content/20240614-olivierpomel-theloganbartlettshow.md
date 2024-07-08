@@ -73,3 +73,5 @@ In conclusion, DataDog’s journey is a testament to the power of staying true t
 ---
         
 <a href="https://youtube.com/watch?v=tLdzr6GTcao" target="_blank">Watch the podcast here!</a>
+
+**Read another blog about [This SKILL Is Our #1 Human Superpower | Charles Duhigg X Rich Roll Podcast](./20240222-charlesduhigg-richroll.md)**

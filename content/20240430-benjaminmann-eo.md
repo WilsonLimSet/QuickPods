@@ -41,3 +41,8 @@ Ben's journey is a powerful reminder that building a successful tech career invo
 
 
 <a href="https://youtube.com/watch?v=spGQpp7twgs" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Dana White: UFC, Fighting, Khabib, Conor, Tyson, Ali, Rogan, Elon & Zuck | Lex Fridman Podcast #421](./20240325-danawhite-lexfridman.md)**

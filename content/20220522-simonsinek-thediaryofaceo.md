@@ -58,3 +58,8 @@ Sinek acknowledges the ongoing shifts in the work landscape, highlighting the ne
 
 
 <a href="https://youtube.com/watch?v=Q-zuTZuYeCg" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [A framework for finding product-market fit | Todd Jackson (First Round Capital)](./20240411-toddjackson-lennyspodcast.md)**

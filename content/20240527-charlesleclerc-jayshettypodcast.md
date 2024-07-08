@@ -42,3 +42,8 @@ Despite the demands and challenges, Charles's love for the sport remains undimme
 
 
 <a href="https://youtube.com/watch?v=MzKfOvZxNko" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Jeff Bezos: Amazon and Blue Origin | Lex Fridman Podcast #405](./20231214-jeffbezos-lexfridman.md)**

@@ -60,3 +60,8 @@ In conclusion, Agrawal’s insights offer a refreshing perspective on entreprene
 
 
 <a href="https://youtube.com/watch?v=8-Vhkq_oPpk" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [The Full Story of Mark Rober](./20221207-markrober-colinandsamir.md)**

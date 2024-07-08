@@ -77,3 +77,8 @@ This interview gives a fascinating insight into the mindset of a true champion. 
 
 
 <a href="https://youtube.com/watch?v=MzIM6ez19rs" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Joe Rogan Experience #1309 - Naval Ravikant](./20190604-navalravikant-powerfuljre.md)**

@@ -92,3 +92,8 @@ Finally, Gil reiterates his belief in technology as a positive force for the wor
 
 
 <a href="https://youtube.com/watch?v=nLA90pa-34A" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Google CEO Sundar Pichai and the Future of AI | The Circuit](./20240508-sundarpichai-bloombergoriginals.md)**

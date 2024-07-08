@@ -52,3 +52,8 @@ Sivers encourages us to deconstruct isms and accept ideas piecemeal, acknowledgi
 
 
 <a href="https://youtube.com/watch?v=0BaDQCjqUHU" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Palantir CEO Karp on TITAN, AI Warfare Technology](./20240307-alexkarp-bloombergtelevision.md)**

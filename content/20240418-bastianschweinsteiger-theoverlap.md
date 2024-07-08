@@ -68,3 +68,8 @@ Ultimately, Schweinsteiger's experience serves as a cautionary tale, highlightin
 
 
 <a href="https://youtube.com/watch?v=1ACloJetIE0" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Ted Chiang on Free Will, Time Travel, Many Worlds, Genetic Engineering, and Hard Science Fiction](./20190919-tedchiang-manifold.md)**

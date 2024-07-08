@@ -80,3 +80,8 @@ Gojek’s story is an inspiration for entrepreneurs worldwide, demonstrating tha
 
 
 <a href="https://youtube.com/watch?v=HVB-dqjUJks" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [10K Users from Product Launch Day 1 | TomoCredit Kristy Kim](./20240409-kristykim-eo.md)**

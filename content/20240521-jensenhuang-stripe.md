@@ -50,3 +50,8 @@ Huang’s session was a refreshing departure from conventional tech talks.  It w
 
 
 <a href="https://youtube.com/watch?v=8Pfa8kPjUio" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Bastian Lehmann: How the Uber Deal Went Down and How a $2.65BN Deal Turned into $5BN | E1137](./20240408-bastilehmann-20vcwithharrystebbings.md)**

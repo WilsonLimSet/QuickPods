@@ -52,3 +52,8 @@ Throughout the interview, Gallant consistently emphasizes the importance of crea
 
 
 <a href="https://youtube.com/watch?v=D8HvVnyXw0k" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Mark Cuban: Shark Tank, DEI & Wokeism Debate, Elon Musk, Politics & Drugs | Lex Fridman Podcast #422](./20240329-markcuban-lexfridman.md)**

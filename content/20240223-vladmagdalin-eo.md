@@ -59,3 +59,8 @@ This focus on people and purpose, combined with Vlad's unwavering belief in his 
 
 
 <a href="https://youtube.com/watch?v=6Bso2GYLoME" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Stephen Curry On Building The Warriors Culture, Battling LeBron & Kyrie, Changing The NBA & More](./20221122-stephencurry-jjredick.md)**

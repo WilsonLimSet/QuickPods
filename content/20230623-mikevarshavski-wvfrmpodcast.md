@@ -53,3 +53,8 @@ Ultimately, Dr. Mike's message is one of caution and empowerment. He urges us to
 
 
 <a href="https://youtube.com/watch?v=B_CSzCer1-4" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Every Lesson From Scaling Datadog to $40B](./20240614-olivierpomel-theloganbartlettshow.md)**

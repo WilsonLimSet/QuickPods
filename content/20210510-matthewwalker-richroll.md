@@ -59,3 +59,8 @@ This conversation with Dr. Walker was a wake-up call, highlighting the undeniabl
 
 
 <a href="https://youtube.com/watch?v=xTvxa0Rlhpg" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Morgan Housel: What You Need to Master (And Avoid) to Get Rich, Stay Rich, and Build Wealth](./20240528-morganhousel-theknowledgeprojectpodcast.md)**

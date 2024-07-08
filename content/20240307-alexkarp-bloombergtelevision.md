@@ -64,3 +64,8 @@ Karp acknowledges the confusion surrounding the software revolution, attributing
 
 
 <a href="https://youtube.com/watch?v=P2eRjbUW53s" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Ray Dalio’s Principles of Investing in a Changing World | WSJ News](./20240523-raydalio-wsjnews.md)**

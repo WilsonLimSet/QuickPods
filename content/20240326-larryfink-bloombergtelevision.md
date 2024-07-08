@@ -53,3 +53,8 @@ The time for action is now. Let’s start the conversation and pave the way for 
 
 
 <a href="https://youtube.com/watch?v=hOz19yUXWlE" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Khabib Nurmagomedov Opens Up - Possible Comeback | LGBTQ | Hardest Puncher | Fathers Influence](./20230821-khabibnurmagomedov-pbdpodcast.md)**

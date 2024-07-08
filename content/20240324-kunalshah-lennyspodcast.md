@@ -54,3 +54,8 @@ Kunal’s insights challenge conventional wisdom and offer a unique perspective 
 
 
 <a href="https://youtube.com/watch?v=EgBOVDzUUAA" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [I asked a YC founder who quit his $800K job for advice](./20231121-rahulpandey-wilsonlimsetiawan.md)**

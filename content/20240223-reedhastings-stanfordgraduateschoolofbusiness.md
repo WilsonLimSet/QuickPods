@@ -45,3 +45,8 @@ While acknowledging the challenges of a constantly evolving media landscape, Has
 
 
 <a href="https://youtube.com/watch?v=u17n3UaH82k" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu](./20220731-crystalwidjaja-lennyspodcast.md)**
