@@ -1,9 +1,8 @@
-
-
+---
 title: "Tom Brady Opens up - 7th Ring Motivation MJ or Belichick | Enemies | Style of Leadership"
 date: "2023-09-20"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Tom Brady: More Than Just a Number
 

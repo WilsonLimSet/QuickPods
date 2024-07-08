@@ -1,9 +1,8 @@
-
-
+---
 title: "Knowledge of A Lifelong Software Engineer | Benjamin Mann, Delivery Hero"
 date: "2024-04-30"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Thriving in Chaos: Lessons from a Global Food Delivery CTO
 

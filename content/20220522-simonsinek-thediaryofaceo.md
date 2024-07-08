@@ -1,9 +1,8 @@
-
-
+---
 title: "Simon Sinek: The Number One Reason Why You’re Not Succeeding | E145"
 date: "2022-05-22"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Power of "Why" and the Importance of Uncomfortable Conversations: An Interview with Simon Sinek
 

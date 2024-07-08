@@ -1,9 +1,8 @@
-
-
+---
 title: "How MKBHD Became The Most Powerful Man in Tech"
 date: "2024-04-25"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## MKBHD: Beyond the Reviews - A Look Inside the Creator-Product Partnership with Ridge
 

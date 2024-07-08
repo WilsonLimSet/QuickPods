@@ -1,9 +1,8 @@
-
-
+---
 title: "Every Lesson From Scaling Datadog to $40B"
 date: "2024-06-14"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Building a $40 Billion Business: Key Insights from DataDog CEO Olivier Pomel
 

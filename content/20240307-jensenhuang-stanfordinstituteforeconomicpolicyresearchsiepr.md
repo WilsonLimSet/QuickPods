@@ -1,9 +1,8 @@
-
-
+---
 title: "Keynote by NVIDIA CEO Jensen Huang at 2024 SIEPR Economic Summit"
 date: "2024-03-07"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The American Dream, Accelerated Computing, and the Future of AI: A Conversation with Jensen Huang
 

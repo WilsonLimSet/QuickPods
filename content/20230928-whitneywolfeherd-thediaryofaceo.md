@@ -1,9 +1,8 @@
-
-
+---
 title: "Spotify Founder: How A 23 Year Old Introvert Built A $31 Billion Business!"
 date: "2023-09-28"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Unexpected Brilliance of Daniel Ek: From Lonely Millionaire to Music Visionary
 

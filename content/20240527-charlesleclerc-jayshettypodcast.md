@@ -1,9 +1,8 @@
-
-
+---
 title: "F1 Driver Charles Leclerc Unveils The Real Behind The Scenes of Formula 1 Racing"
 date: "2024-05-27"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Heart of a Champion:  A Conversation with Charles Leclerc
 

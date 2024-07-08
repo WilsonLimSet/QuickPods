@@ -1,9 +1,8 @@
-
-
+---
 title: "Reed Hastings, Chairman and Co-Founder of Netflix"
 date: "2024-02-23"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## From Cinnamon Sticks to Streaming: The Unexpected Journey of Reed Hastings
 

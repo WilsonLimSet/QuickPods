@@ -1,9 +1,8 @@
-
-
+---
 title: "A Story that Unlocks Your Limit to GrowthㅣAditya Agarwal"
 date: "2023-12-27"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Finding Your Mountain: Lessons in Entrepreneurship and Company Building 
 

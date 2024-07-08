@@ -1,8 +1,8 @@
-
+---
 title: "Google CEO Sundar Pichai and the Future of AI | The Circuit"
 date: "2024-05-08"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Navigating the AI Revolution: A Conversation with Google CEO Sundar Pichai
 

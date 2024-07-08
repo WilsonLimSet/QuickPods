@@ -1,9 +1,8 @@
-
-
+---
 title: "Ted Chiang on Free Will, Time Travel, Many Worlds, Genetic Engineering, and Hard Science Fiction"
 date: "2019-09-19"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Science and Philosophy of Ted Chiang
 

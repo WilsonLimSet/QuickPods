@@ -1,9 +1,8 @@
-
-
+---
 title: "Starbucks (with Howard Schultz)"
 date: "2024-06-04"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Soul of Starbucks: Howard Schultz on Building a Global Icon
 

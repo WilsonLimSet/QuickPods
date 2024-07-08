@@ -1,9 +1,8 @@
-
-
+---
 title: "We interviewed the Mozart of Gen Z"
 date: "2024-03-04"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Creative Journey of Jacob Collier: A Masterclass in Embracing the Unknown
 

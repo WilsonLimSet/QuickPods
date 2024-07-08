@@ -1,8 +1,13 @@
-
 ---
 title: "Sebastian Siemiatkowski (CEO, Klarna) on the Future of Klarna, Valuation Changes and AI in Finance"
 date: "2024-06-28"
 tags: [Tech, Innovation, AI]
+---
+
+---
+
+
+
 ---
 
 ## Klarna CEO: The Unexpected Value of Honesty and Hard Work
@@ -54,4 +59,3 @@ Siemiatkowski's candid reflections offer valuable lessons for anyone navigating 
 ---
 
 **Read another blog about [Mark Cuban: Shark Tank, DEI & Wokeism Debate, Elon Musk, Politics & Drugs | Lex Fridman Podcast #422](./20240329-markcuban-lexfridman.md)**
-

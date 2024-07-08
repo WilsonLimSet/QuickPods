@@ -1,9 +1,8 @@
-
-
+---
 title: "GM’s $280 Billion Bet on EVs | The Circuit"
 date: "2024-05-01"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Hummer, the Hustle, and the Heart of Detroit: A Conversation with Mary Barra 
 

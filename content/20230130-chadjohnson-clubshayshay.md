@@ -1,9 +1,8 @@
-
-
+---
 title: "Chad “Ochocinco” Johnson: Cheapest Celebrity and Athlete in the World | EP. 71 | CLUB SHAY SHAY"
 date: "2023-01-30"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## From Ocho Cinco to Fatherhood: Chad Johnson's Unexpected Journey 
 

@@ -1,9 +1,8 @@
-
-
+---
 title: "Taxi mafias, cash vaults & 100% MoM growth: The story of SEA’s biggest startup | Kevin Aluwi (Gojek)"
 date: "2023-03-26"
 tags: [Tech, Innovation, AI]
-
+---
 
 ##  Gojek's Unlikely Rise: From Scrappy Startup to Southeast Asian Super App 
 

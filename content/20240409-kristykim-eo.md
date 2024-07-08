@@ -1,9 +1,8 @@
-
-
+---
 title: "10K Users from Product Launch Day 1 | TomoCredit Kristy Kim"
 date: "2024-04-09"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## TomoCredit: Building a Better Tomorrow for Immigrants
 

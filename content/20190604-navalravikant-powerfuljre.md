@@ -1,9 +1,8 @@
-
-
+---
 title: "Joe Rogan Experience #1309 - Naval Ravikant"
 date: "2019-06-04"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Art of Doing Nothing: A Conversation with Naval Ravikant
 

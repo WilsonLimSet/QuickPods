@@ -1,9 +1,8 @@
-
-
+---
 title: "Reid Hoffman: The Future of TikTok and The Inflection AI Deal | E1163"
 date: "2024-06-10"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Wisdom of Reid Hoffman: A Conversation on AI, Incumbents, and the Future
 

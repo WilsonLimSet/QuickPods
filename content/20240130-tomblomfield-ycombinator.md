@@ -1,9 +1,8 @@
-
-
+---
 title: "Tom Blomfield: How I Created Two Billion-Dollar Fintech Startups"
 date: "2024-01-30"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Choosing Your Path: Lessons from a Serial Entrepreneur
 

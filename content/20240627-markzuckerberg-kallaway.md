@@ -1,9 +1,8 @@
-
-
+---
 title: "Mark Zuckerberg on Creators, AI Studio, Neural Wristbands, Holographic Smart Glasses, Picasso & More"
 date: "2024-06-27"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Meta's AI Game Plan: A World of Personalized Experiences
 

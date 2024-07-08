@@ -1,9 +1,8 @@
-
-
+---
 title: "The Lessons, Hacks & Books That Changed My Life - Tim Ferriss (4K)"
 date: "2024-05-06"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Effectiveness over Efficiency: A Glimpse into the Mind of Tim Ferriss
 

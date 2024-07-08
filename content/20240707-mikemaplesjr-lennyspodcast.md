@@ -1,8 +1,13 @@
-
 ---
 title: "Pattern Breakers: How to find a breakthrough startup idea | Mike Maples, Jr. (Partner at Floodgate)"
 date: "2024-07-07"
 tags: [Tech, Innovation, AI]
+---
+
+---
+
+
+
 ---
 
 ## Unlocking the Secrets of Breakthrough Startup Ideas: A Conversation with Mike Maples Jr.

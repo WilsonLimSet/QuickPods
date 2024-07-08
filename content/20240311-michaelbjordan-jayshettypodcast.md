@@ -1,9 +1,8 @@
-
-
+---
 title: "Michael B. Jordan EXCLUSIVE: How To Connect With Your Intuition & Focus On Your Path"
 date: "2024-03-11"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Michael B. Jordan: On Finding Your Path, Building Your Tribe, and Owning Your Truth
 

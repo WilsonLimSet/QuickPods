@@ -1,9 +1,8 @@
-
-
+---
 title: "Dana White: UFC, Fighting, Khabib, Conor, Tyson, Ali, Rogan, Elon & Zuck | Lex Fridman Podcast #421"
 date: "2024-03-25"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Mind of a Fighter: Insights from Dana White, President of the UFC
 

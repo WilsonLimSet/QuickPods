@@ -1,9 +1,8 @@
-
-
+---
 title: "Success Starts at the End of Your Comfort ZoneㅣChartmetric, Sung M. Cho"
 date: "2024-01-15"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## From Oracle Comfort to Startup Uncertainty: The Chartmetric Journey
 

@@ -1,8 +1,13 @@
-
 ---
 title: "Coatue’s Laffont on AI Darlings and Opportunities in Today’s Markets"
 date: "2024-06-25"
 tags: [Tech, Innovation, AI]
+---
+
+---
+
+
+
 ---
 
 ## Is AI Overhyped or Here to Stay?

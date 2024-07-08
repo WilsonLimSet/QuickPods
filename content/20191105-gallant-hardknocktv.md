@@ -1,9 +1,8 @@
-
-
+---
 title: "Gallant on Making R&B Music On His Own Terms, Youtube Comments, Perseverance Through Early Doubters"
 date: "2019-11-05"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Unexpected Journey of Gallant: An Interview with Hard Knock TV
 

@@ -1,9 +1,8 @@
-
-
+---
 title: "The social radar: Y Combinator’s secret weapon | Jessica Livingston (co-founder of YC, author)"
 date: "2024-06-27"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Secret Sauce of Y Combinator: Unpacking Jessica Livingston's Social Radar
 

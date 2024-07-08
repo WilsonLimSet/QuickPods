@@ -1,9 +1,8 @@
-
-
+---
 title: "The Underdog: He Turned His Last $4,000 Into $48M"
 date: "2023-09-27"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## From Weighted Blankets to $48 Million: The Power of Talking to Your Customers
 

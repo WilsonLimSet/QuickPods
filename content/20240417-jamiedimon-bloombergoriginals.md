@@ -1,9 +1,8 @@
-
-
+---
 title: "When JPMorgan CEO Jamie Dimon Speaks, the World Listens | The Circuit"
 date: "2024-04-17"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## A Glimpse into the Mind of a Financial Titan: Jamie Dimon
 

@@ -1,9 +1,8 @@
-
-
+---
 title: "Mark Cuban: Shark Tank, DEI & Wokeism Debate, Elon Musk, Politics & Drugs | Lex Fridman Podcast #422"
 date: "2024-03-29"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Algorithm Rules All: A Conversation with Mark Cuban
 

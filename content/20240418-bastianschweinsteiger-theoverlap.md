@@ -1,9 +1,8 @@
-
-
-title: "Schweinsteiger On United & Mourinho: "They Kicked Me Out.”"
+---
+title: "Schweinsteiger On United & Mourinho: "
 date: "2024-04-18"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Untold Story of Bastian Schweinsteiger's Manchester United Nightmare
 

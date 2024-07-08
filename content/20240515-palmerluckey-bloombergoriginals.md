@@ -1,9 +1,8 @@
-
-
+---
 title: "Palmer Luckey Wants to Be Silicon Valley's War King | The Circuit"
 date: "2024-05-15"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## From Virtual Reality to Warships: One Man's Mission to Reinvent Defense
 

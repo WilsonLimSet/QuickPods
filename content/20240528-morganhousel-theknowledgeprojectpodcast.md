@@ -1,9 +1,8 @@
-
-
+---
 title: "Morgan Housel: What You Need to Master (And Avoid) to Get Rich, Stay Rich, and Build Wealth"
 date: "2024-05-28"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Surprising Key to Building Wealth and a Happy Life: No FOMO
 

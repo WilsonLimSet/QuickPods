@@ -1,9 +1,8 @@
-
-
+---
 title: "Beckham on Netflix Doc & Messi | Stick to Football EP 2"
 date: "2023-10-04"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Beyond The Bentley: David Beckham on Messi, Sir Alex and Family
 

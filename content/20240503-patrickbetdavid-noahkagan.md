@@ -1,9 +1,8 @@
-
-
+---
 title: "How I Turned $49k In Debt To $500 Million"
 date: "2024-05-03"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## From War Zones to the Yankees: The Unstoppable Story of Patrick Bet-David
 

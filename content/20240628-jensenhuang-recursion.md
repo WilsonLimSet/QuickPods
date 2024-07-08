@@ -1,9 +1,8 @@
-
-
+---
 title: "Download Day 2024 — Fireside Chat: NVIDIA Founder & CEO Jensen Huang and Recursion's Chris Gibson"
 date: "2024-06-28"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Mind of a Visionary: Jensen Huang on Healthcare, AI, and the Power of Belief
 

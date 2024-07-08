@@ -1,9 +1,8 @@
-
-
+---
 title: "Arnold Schwarzenegger Is The Influencer We Need Right Now | Rich Roll Podcast"
 date: "2023-10-02"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Arnold Schwarzenegger: More Than Just Muscles - The Power of Service 
 

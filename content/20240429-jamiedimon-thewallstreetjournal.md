@@ -1,9 +1,8 @@
-
-
+---
 title: "Jamie Dimon on the Economy, U.S.-China, Overseas Wars and More: Full Interview | WSJ"
 date: "2024-04-29"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Jamie Dimon: A Candid Conversation on the Global Economy, AI and America's Future
 

@@ -1,9 +1,8 @@
-
-
+---
 title: "Rooney: United Career, Management & Boxing? | Stick to Football EP 20"
 date: "2024-02-21"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Wayne Rooney: More Than Just A Goal Scorer
 

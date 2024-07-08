@@ -1,9 +1,8 @@
-
-
+---
 title: "Geoffrey Hinton | On working with Ilya, choosing problems, and the power of intuition"
 date: "2024-05-20"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Mind of a Machine Learning Pioneer: Insights from a Conversation with Geoffrey Hinton
 

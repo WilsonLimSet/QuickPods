@@ -1,9 +1,8 @@
-
-
+---
 title: "Brian Chesky’s new playbook"
 date: "2023-11-12"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Clarity and Cohesion: The Key to Airbnb's Product Development Revolution
 

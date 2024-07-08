@@ -1,9 +1,8 @@
-
-
+---
 title: "Chris Bosh on Stoicism, Embracing the Process, and Staying Present"
 date: "2021-06-02"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Finding Your Rhythm: Life Lessons from Chris Bosh
 

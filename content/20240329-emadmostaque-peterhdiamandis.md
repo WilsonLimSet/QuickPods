@@ -1,9 +1,8 @@
-
-
+---
 title: "Why I'm Leaving My Company Immediately (Stability AI) w/ Emad Mostaque | EP #93"
 date: "2024-03-29"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Future of AI: A Conversation with Emad Mostaque
 

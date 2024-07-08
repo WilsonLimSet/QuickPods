@@ -1,9 +1,8 @@
-
-
+---
 title: "How I Built A $4B Startup Called WebflowㅣWebflow, Vlad Magdalin"
 date: "2024-02-23"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Power of an Idea: Building Webflow Against All Odds
 

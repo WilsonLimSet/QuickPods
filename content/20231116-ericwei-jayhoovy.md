@@ -1,9 +1,8 @@
-
-
+---
 title: "I Asked a $100M Founder for Life Advice"
 date: "2023-11-16"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Power of Letting Go: How To Find Your True Path To Success
 
