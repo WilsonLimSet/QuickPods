@@ -1,8 +1,8 @@
----
+
 title: "Google CEO Sundar Pichai and the Future of AI | The Circuit"
 date: "2024-05-08"
 tags: [Tech, Innovation, AI]
----
+
 
 ## Navigating the AI Revolution: A Conversation with Google CEO Sundar Pichai
 
@@ -67,4 +67,4 @@ This conversation with Sundar Pichai provides valuable insights into Google's ap
 
 ---
 
-**Read another blog about [Coming out of Retirement with Bob Iger | The Why with Dwyane Wade](./20240508-bobiger-dwyanewade.md)**
+**Read another blog about [Derek Sivers — Finding Paths Less Traveled, Taking Giant Leaps, and Picking the Right “Game of Life”](./20230421-dereksivers-timferriss)**

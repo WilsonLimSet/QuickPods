@@ -1,9 +1,9 @@
 
----
+
 title: "Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)"
 date: "2024-04-18"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Unsexy Truth About Startup Success: A Conversation with Dalton Caldwell
 
@@ -61,14 +61,10 @@ Dalton believes the most important quality shared by successful founders is thei
 This episode is a treasure trove of insights for aspiring and current startup founders.  Dalton's emphasis on simplicity, perseverance, and customer obsession provides a refreshing and actionable roadmap to navigating the challenging yet rewarding journey of building a successful company.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=m7LvNTbaqSI" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [The Full Story of Mark Rober](./20221207-markrober-colinandsamir.md)**
+**Read another blog about [Virgil van Dijk’s Hardest Opponents, Winning A Champions League & The Klopp Effect | EP 103](./20240405-virgilvandijk-therestisfootball)**

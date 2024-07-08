@@ -1,9 +1,9 @@
 
----
+
 title: "21 Brutally Honest Lessons About Life - Alex Hormozi (4K)"
 date: "2024-01-29"
 tags: [Tech, Innovation, AI]
----
+
 
 ## Why We Love to Hate "Control Freaks" & Other Lessons From Alex Hormozi
 
@@ -51,14 +51,10 @@ Hormozi concludes the conversation by reflecting on the importance of living a m
 This powerful quote encapsulates the entire essence of the conversation, urging us to embrace our individuality, pursue our dreams, and become the hero of our own story.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=Gk8EGWoGnEQ" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [GM’s $280 Billion Bet on EVs | The Circuit](./20240501-marybarra-bloombergoriginals.md)**
+**Read another blog about [Taxi mafias, cash vaults & 100% MoM growth: The story of SEA’s biggest startup | Kevin Aluwi (Gojek)](./20230326-kevinaluwi-lennyspodcast)**

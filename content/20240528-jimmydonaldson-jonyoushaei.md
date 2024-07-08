@@ -1,9 +1,9 @@
-a---
+a
 title: "Why every MrBeast video gets 200M views (interview)"
 date: "2024-05-28"
 tags: [Tech, Innovation, AI]
 
----
+
 
 ## MrBeast Unveils His Secret Weapon: Data-Driven YouTube Domination
 
@@ -59,4 +59,4 @@ Throughout the interview, Donaldson's work ethic shines through. He admits to fi
 
 ---
 
-**Read another blog about [NVIDIA CEO Jensen Huang](./20231015-jensenhuang-acquired.md)**
+**Read another blog about [Mark Zuckerberg on Creators, AI Studio, Neural Wristbands, Holographic Smart Glasses, Picasso & More](./20240627-markzuckerberg-kallaway)**

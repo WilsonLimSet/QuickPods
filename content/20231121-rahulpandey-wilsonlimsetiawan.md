@@ -1,9 +1,9 @@
 
----
+
 title: "I asked a YC founder who quit his $800K job for advice"
 date: "2023-11-21"
 tags: [Tech, Innovation, AI]
----
+
 
 ## From Stanford to Startup: A Journey of Missed Opportunities and Hard-Earned Lessons
 
@@ -53,14 +53,10 @@ Rahul shares his passion for B2C and the immense satisfaction of witnessing the 
 This simple yet powerful quote encapsulates the heart of Rahul's journey - a journey driven by a desire to create something impactful, learn from past experiences, and empower others to achieve their full potential.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=fHRzHEwn5ac" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Athelas is the Rippling of Healthcare: Use $4 Trillion to improve healthcare](./20231006-tanaytandon-garrytan.md)**
+**Read another blog about [Sebastian Siemiatkowski (CEO, Klarna) on the Future of Klarna, Valuation Changes and AI in Finance](./20240628-sebastiansiemiatkowski-theloganbartlettshow)**

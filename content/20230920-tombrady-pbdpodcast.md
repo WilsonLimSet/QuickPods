@@ -1,9 +1,9 @@
 
----
+
 title: "Tom Brady Opens up - 7th Ring Motivation MJ or Belichick | Enemies | Style of Leadership"
 date: "2023-09-20"
 tags: [Tech, Innovation, AI]
----
+
 
 ## Tom Brady: More Than Just a Number
 
@@ -51,14 +51,10 @@ Brady's insights provide valuable lessons for anyone striving for success, wheth
 Ultimately, Brady's story is a testament to the power of discipline, resilience, and the unwavering pursuit of excellence. His legacy extends far beyond his impressive record, inspiring countless individuals to reach their full potential.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=liz8rZx1NJ8" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [John Schulman (OpenAI Cofounder) - Reasoning, RLHF, & Plan for 2027 AGI](./20240515-johnschulman-dwarkeshpatel.md)**
+**Read another blog about [Starbucks (with Howard Schultz)](./20240604-howardschultz-acquired)**

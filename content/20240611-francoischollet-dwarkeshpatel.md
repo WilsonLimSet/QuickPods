@@ -1,9 +1,9 @@
 
----
+
 title: "Francois Chollet - LLMs won’t lead to AGI - $1,000,000 Prize to find true solution"
 date: "2024-06-11"
 tags: [Tech, Innovation, AI]
----
+
 
 ##  The Arc Benchmark: A Million Dollar Question About the Nature of Intelligence
 
@@ -50,10 +50,10 @@ The Arc benchmark and the million-dollar prize aim to answer this question by ch
 >"Intelligence is what you use when you don't know what to do." - Jean Piaget
 
 ---
-        
+
 <a href="https://youtube.com/watch?v=UakqL6Pj9xo" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Simon Sinek: The Number One Reason Why You’re Not Succeeding | E145](./20220522-simonsinek-thediaryofaceo.md)**
+**Read another blog about [Schweinsteiger On United & Mourinho: ](./20240418-bastianschweinsteiger-theoverlap)**

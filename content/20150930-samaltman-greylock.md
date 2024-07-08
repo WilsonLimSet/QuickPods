@@ -1,9 +1,9 @@
 
----
+
 title: "Blitzscaling 02: Sam Altman on Y Combinator and What Makes The Best Founders"
 date: "2015-09-30"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Untold Secrets of Y Combinator: A Founder's Perspective
 
@@ -80,14 +80,10 @@ Altman shares his vision for the future, emphasizing the need to focus on solvin
 Altman's message is clear: **identify important problems, build something users love, avoid distractions, and work with urgency.** It's a powerful reminder that while the world of startups can be glamorous, true success lies in focusing on the fundamentals and making a real impact.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=CxKXJWf-WMg" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Pattern Breakers: How to find a breakthrough startup idea | Mike Maples, Jr. (Partner at Floodgate)](./20240707-mikemaplesjr-lennyspodcast.md)**
+**Read another blog about [Kunal Shah on winning in India, second-order thinking, the philosophy of startups, and more](./20240324-kunalshah-lennyspodcast)**

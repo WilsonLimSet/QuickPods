@@ -1,9 +1,9 @@
 
----
+
 title: "Ryan Holiday ON: How To AVOID BEING MISERABLE For The Rest of Your Life | Jay Shetty"
 date: "2023-05-08"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Subtle Art of Disciplined Living: A Conversation with Ryan Holiday
 
@@ -50,14 +50,10 @@ As Ryan Holiday aptly states:
 > **"Everything in moderation, which is the gateway thought to hell. It's the gateway thought to cheating. As soon as you hear someone say, 'Everything in moderation,' they're gonna do something bad for their brain."**
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=CWvOKHNeLMI" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Telegram Creator on Elon Musk, Resisting FBI Attacks, and Getting Mugged in California](./20240416-paveldurov-tuckercarlson.md)**
+**Read another blog about [I Asked a $15BN Investor for Life Advice](./20231009-grahamweaver-jayhoovy)**

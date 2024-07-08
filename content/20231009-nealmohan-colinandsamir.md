@@ -1,9 +1,9 @@
 
----
+
 title: "We interviewed the CEO of YouTube"
 date: "2023-10-09"
 tags: [Tech, Innovation, AI]
----
+
 
 ## A Conversation with YouTube's CEO: Key Insights for Creators
 
@@ -50,14 +50,10 @@ This commitment to creator empowerment, even as the platform evolves with new fo
 > "It all revolves around that - connecting with your audience, doing what you really consider to be the most gratifying way of doing it. So, I'm repeating some of what you said, which is that depth with the audience, building that, establishing that base is the key from where all of the opportunity comes.” - Neal Mohan
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=vqM8hKlnhRY" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Jeff Bezos: Amazon and Blue Origin | Lex Fridman Podcast #405](./20231214-jeffbezos-lexfridman.md)**
+**Read another blog about [The Full Story of Mark Rober](./20221207-markrober-colinandsamir)**

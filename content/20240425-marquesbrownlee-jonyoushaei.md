@@ -1,9 +1,9 @@
 
----
+
 title: "How MKBHD Became The Most Powerful Man in Tech"
 date: "2024-04-25"
 tags: [Tech, Innovation, AI]
----
+
 
 ## MKBHD: Beyond the Reviews - A Look Inside the Creator-Product Partnership with Ridge
 
@@ -46,14 +46,10 @@ Marques leaves us with a key piece of advice for creators:
 This interview offers a valuable glimpse into the evolving world of the creator economy. The partnership between MKBHD and Ridge signals a new era, one where creators are leveraging their expertise and influence to build businesses and products that resonate with their communities.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=tn-MGyr-6dk" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [When JPMorgan CEO Jamie Dimon Speaks, the World Listens | The Circuit](./20240417-jamiedimon-bloombergoriginals.md)**
+**Read another blog about [A Practical Guide on Finding Inner Peace | Jack Kornfield | Knowledge Project Podcast 156](./20230110-jackkornfield-theknowledgeprojectpodcast)**

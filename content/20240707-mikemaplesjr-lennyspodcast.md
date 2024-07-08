@@ -1,9 +1,9 @@
 
----
+
 title: "Pattern Breakers: How to find a breakthrough startup idea | Mike Maples, Jr. (Partner at Floodgate)"
 date: "2024-07-07"
 tags: [Tech, Innovation, AI]
----
+
 
 ## Unlocking the Secrets of Breakthrough Startup Ideas: A Conversation with Mike Maples Jr.
 
@@ -75,11 +75,9 @@ Maples leaves us with a powerful message: **Embrace the discomfort of being non-
 
 Ultimately, it's about finding your "banana" - that unique product or service that a small subset of people crave, even if most of the world doesn't get it yet. Focus on finding those early believers, those lighthouse customers who live in the future and will guide you to the promised land.
 
----
-        
+<a href="https://youtube.com/watch?v=lYaiyi2ZX6Q" target="_blank">Watch the podcast here!</a>
+
 
 ---
 
-**Read another blog about [Sleep Is Non-Negotiable: Dr. Matthew Walker | Rich Roll Podcast](./20210510-matthewwalker-richroll.md)**
-
-<a href="https://youtube.com/watch?v=h9o6gPQA6LA" target="_blank">Watch the podcast here!</a>
+**Read another blog about [Spotify Founder: How A 23 Year Old Introvert Built A $31 Billion Business!](./20230928-whitneywolfeherd-thediaryofaceo)**

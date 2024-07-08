@@ -1,9 +1,9 @@
 
----
+
 title: "Erik Allebest: Scaling to $100M Revenue, 150M Members and 700 People, All with No Vc Funding | E1113"
 date: "2024-02-07"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Unconventional Chess King: Lessons from a $1B Bootstrap Empire 
 
@@ -46,14 +46,10 @@ He emphasizes the importance of finding self-worth internally, not through exter
 Eric's story is a powerful reminder that there's no one-size-fits-all approach to building a successful company. By staying true to their mission, prioritizing their community, and embracing unconventional methods, Chess.com built a billion-dollar empire. And as Eric reminds us: **"The future is so exciting. Don't you want to see it?"**
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=sT3isR06-fg" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Reid Hoffman: The Future of TikTok and The Inflection AI Deal | E1163](./20240610-reidhoffman-20vcwithharrystebbings.md)**
+**Read another blog about [Google CEO Sundar Pichai and the Future of AI | The Circuit](./20240508-sundarpichai-bloombergoriginals)**

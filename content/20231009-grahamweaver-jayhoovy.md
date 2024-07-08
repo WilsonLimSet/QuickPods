@@ -1,9 +1,9 @@
 
----
+
 title: "I Asked a $15BN Investor for Life Advice"
 date: "2023-10-09"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Antidote to Overnight Success: A Journey of Patience, Flow, and A-Players
 
@@ -47,14 +47,10 @@ These attributes, he believes, are far more valuable in the long run than simply
 "If you're going to go start a business or um pursue some career like go in with the expectation that it's gonna be a long ride. And that’s okay because your whole life is that ride like, you know, it that that’s that’s the fun of life is that is that process of going toward it." - **Graham Weaver**
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=Zy7Nld2_JSw" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Bill Ackman: Investing, Financial Battles, Harvard, DEI, X & Free Speech | Lex Fridman Podcast #413](./20240220-billackman-lexfridman.md)**
+**Read another blog about [How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu](./20220731-crystalwidjaja-lennyspodcast)**

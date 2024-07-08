@@ -1,9 +1,9 @@
 
----
+
 title: "Starbucks (with Howard Schultz)"
 date: "2024-06-04"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Soul of Starbucks: Howard Schultz on Building a Global Icon
 
@@ -40,14 +40,10 @@ In his final message to the current leadership, Schultz emphasizes the core valu
 This episode of Acquired goes far beyond the traditional success story. It's a deeply personal and insightful exploration of the power of human connection, the challenges of scaling a company while staying true to its values, and the enduring magic of a brand built on respect, empathy, and a deep love for coffee and its consumers.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=A0fvX-wV70Y" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Charles Barkley On MJ vs Scottie Pippen, Marcus Jordan & Larsa Pippen, Shaq vs Kendrick Perkins](./20240501-charlesbarkley-clubshayshay.md)**
+**Read another blog about [Tim Ferriss On Solving Problems With People And Using Stoicism To Make Better Decisions](./20240124-timferriss-dailystoic)**

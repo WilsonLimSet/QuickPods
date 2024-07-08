@@ -1,9 +1,9 @@
 
----
+
 title: "Coatue’s Laffont on AI Darlings and Opportunities in Today’s Markets"
 date: "2024-06-25"
 tags: [Tech, Innovation, AI]
----
+
 
 ## Is AI Overhyped or Here to Stay?
 
@@ -41,11 +41,9 @@ While acknowledging the vast potential of AI, [Investor Name] looks even further
 
 This captivating conversation with [Investor Name] offers a glimpse into the exciting world of AI investing and beyond, reminding us that the future belongs to those who can adapt, innovate, and seize the opportunities that lie ahead.
 
----
-        
-<a href="https://youtube.com/watch?v=_nuSOMooReY" target="_blank">Watch the podcast here!</a>
+<a href="https://youtube.com/watch?v=lYaiyi2ZX6Q" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Mark Cuban: Shark Tank, DEI & Wokeism Debate, Elon Musk, Politics & Drugs | Lex Fridman Podcast #422](./20240329-markcuban-lexfridman.md)**
+**Read another blog about [Khabib Nurmagomedov Opens Up - Possible Comeback | LGBTQ | Hardest Puncher | Fathers Influence](./20230821-khabibnurmagomedov-pbdpodcast)**

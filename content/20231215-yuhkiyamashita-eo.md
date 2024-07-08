@@ -1,9 +1,9 @@
 
----
+
 title: "13-Year Journey to Create the World's Best ProductㅣFigma, Yuhki Yamashita"
 date: "2023-12-15"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Power of Storytelling in Product Management: Insights from Figma's CPO
 
@@ -37,14 +37,10 @@ Yuhki acknowledges the transformative shift happening in the world of design, dr
 Yuhki's insights offer a powerful reminder that storytelling is not just a marketing tool; it's the foundation for successful product development. By focusing on narrative, understanding user needs, and building a shared vision, product managers can inspire their teams and create products that truly resonate with users.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=WeNnc3_xn2A" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Trent Alexander-Arnold: ](./20240416-trentalexander-arnold-theoverlap.md)**
+**Read another blog about [Bill Ackman: Investing, Financial Battles, Harvard, DEI, X & Free Speech | Lex Fridman Podcast #413](./20240220-billackman-lexfridman)**

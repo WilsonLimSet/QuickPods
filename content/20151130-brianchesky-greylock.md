@@ -1,9 +1,9 @@
 
----
+
 title: "Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale"
 date: "2015-11-30"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Airbnb Story: From Air Mattresses to a Global Phenomenon
 
@@ -54,14 +54,10 @@ Throughout his talk, Chesky emphasizes the importance of continuous learning and
 Chesky's story is a testament to the power of passion, conviction, and a relentless pursuit of learning. It's an inspiring tale for any aspiring entrepreneur, emphasizing the importance of staying focused on the core values, adapting to changing circumstances, and building a company that not only disrupts an industry but also creates a better world.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=W608u6sBFpo" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [An honest conversation with the CEO of Instagram](./20240610-adammosseri-colinandsamir.md)**
+**Read another blog about [Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)](./20240407-clairevo-lennyspodcast)**

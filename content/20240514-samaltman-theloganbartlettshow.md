@@ -1,9 +1,9 @@
 
----
+
 title: "Sam Altman talks GPT-4o and Predicts the Future of AI"
 date: "2024-05-14"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Strangely Isolating Reality of Leading AI: A Conversation with Sam Altman
 
@@ -50,10 +50,10 @@ Even in a world where AI can replicate creative work, solve complex problems, an
 This interview with Sam Altman was a powerful reminder that the future of AI is not just about the technology itself, but about how we choose to use it and how we adapt to its evolving capabilities.
 
 ---
-        
+
 <a href="https://youtube.com/watch?v=fMtbrKhXMWc" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Why every MrBeast video gets 200M views (interview)](./20240528-jimmydonaldson-jonyoushaei.md)**
+**Read another blog about [Coming out of Retirement with Bob Iger | The Why with Dwyane Wade](./20240508-bobiger-dwyanewade)**

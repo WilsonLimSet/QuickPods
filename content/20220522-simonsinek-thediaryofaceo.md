@@ -1,9 +1,9 @@
 
----
+
 title: "Simon Sinek: The Number One Reason Why You’re Not Succeeding | E145"
 date: "2022-05-22"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Power of "Why" and the Importance of Uncomfortable Conversations: An Interview with Simon Sinek
 
@@ -52,14 +52,10 @@ Sinek acknowledges the ongoing shifts in the work landscape, highlighting the ne
 >  "You know, there’s a great irony in all of this, which is to sacrifice for another really is the most beautiful thing we can ever do. I mean, that’s kind of what love is - it’s sacrificing for another." - Simon Sinek
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=Q-zuTZuYeCg" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [A framework for finding product-market fit | Todd Jackson (First Round Capital)](./20240411-toddjackson-lennyspodcast.md)**
+**Read another blog about [When JPMorgan CEO Jamie Dimon Speaks, the World Listens | The Circuit](./20240417-jamiedimon-bloombergoriginals)**

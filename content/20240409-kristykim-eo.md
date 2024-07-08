@@ -1,9 +1,9 @@
 
----
+
 title: "10K Users from Product Launch Day 1 | TomoCredit Kristy Kim"
 date: "2024-04-09"
 tags: [Tech, Innovation, AI]
----
+
 
 ## TomoCredit: Building a Better Tomorrow for Immigrants
 
@@ -52,14 +52,10 @@ TomoCredit's success highlights the importance of innovation and inclusivity in 
 **"Nobody comes here to get a credit card or to get an auto loan. I think that's just tools to make your life convenient and I don't want the future generations of international students to get stuck and struggle because of these tools, 'cause I suffered with it and with Tomo, I hope no international students in the future have to get rejected anymore. So that's my hope for the future."**
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=JiSjMKptCKY" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Pattern Breakers: How to find a breakthrough startup idea | Mike Maples, Jr. (Partner at Floodgate)](./20240707-mikemaplesjr-lennyspodcast.md)**
+**Read another blog about [Success Starts at the End of Your Comfort ZoneㅣChartmetric, Sung M. Cho](./20240115-sungcho-eo)**

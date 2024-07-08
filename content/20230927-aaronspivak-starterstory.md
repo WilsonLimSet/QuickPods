@@ -1,9 +1,9 @@
 
----
+
 title: "The Underdog: He Turned His Last $4,000 Into $48M"
 date: "2023-09-27"
 tags: [Tech, Innovation, AI]
----
+
 
 ## From Weighted Blankets to $48 Million: The Power of Talking to Your Customers
 
@@ -66,14 +66,10 @@ Their journey, however, taught them a far more valuable lesson than just product
 In a world saturated with brands vying for attention, Aaron and Lior's story is a powerful reminder: Sometimes, the greatest business breakthroughs come from simply picking up the phone and talking to your customers.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=IuoscQiQQLg" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [The Full Story of Mark Rober](./20221207-markrober-colinandsamir.md)**
+**Read another blog about [A framework for finding product-market fit | Todd Jackson (First Round Capital)](./20240411-toddjackson-lennyspodcast)**

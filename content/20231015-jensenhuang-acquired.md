@@ -1,8 +1,8 @@
----
+
 title: "NVIDIA CEO Jensen Huang"
 date: "2023-10-15"
 tags: [Tech, Innovation, AI]
----
+
 
 ## Nvidia's Jensen Huang: A Master of Anticipation and the Power of "How Hard Can It Be?"
 
@@ -45,11 +45,9 @@ He concludes with a powerful statement that captures the essence of his entrepre
 
 ---
 
-
-
 <a href="https://youtube.com/watch?v=y6NfxiemvHg" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [How Netflix builds a culture of excellence | Elizabeth Stone (CTO)](./20240222-elizabethstone-lennyspodcast.md)**
+**Read another blog about [Why every MrBeast video gets 200M views (interview)](./20240528-jimmydonaldson-jonyoushaei)**

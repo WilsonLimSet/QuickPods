@@ -1,9 +1,9 @@
 
----
+
 title: "This SKILL Is Our #1 Human Superpower | Charles Duhigg X Rich Roll Podcast"
 date: "2024-02-22"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Surprising Truth About Super Communicators: A Conversation With Charles Duhigg 
 
@@ -54,14 +54,10 @@ Ultimately, the most meaningful transformations are often rooted in a deeper und
 **“The goal of a conversation is not to win. It’s not to convince the other person. It's simply to understand what they're trying to tell you.”** – Charles Duhigg
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=YWamRVY9ZKg" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Mark Cuban: Shark Tank, DEI & Wokeism Debate, Elon Musk, Politics & Drugs | Lex Fridman Podcast #422](./20240329-markcuban-lexfridman.md)**
+**Read another blog about [Reid Hoffman: The Future of TikTok and The Inflection AI Deal | E1163](./20240610-reidhoffman-20vcwithharrystebbings)**

@@ -1,9 +1,9 @@
 
----
+
 title: "Khabib Nurmagomedov Opens Up - Possible Comeback | LGBTQ | Hardest Puncher | Fathers Influence"
 date: "2023-08-21"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Eagle Has Landed: Insights From Khabib Nurmagomedov
 
@@ -44,14 +44,10 @@ Khabib's insights extend beyond the world of fighting. His emphasis on disciplin
 Leaving the conversation, I was struck by his humility, wisdom, and unwavering commitment to his values. This man is much more than a fighting champion; he's a role model for anyone striving to achieve greatness in their own lives.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=01BBVAZ3HDY" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [I asked a YC founder who quit his $800K job for advice](./20231121-rahulpandey-wilsonlimsetiawan.md)**
+**Read another blog about [Alex Wang: Why Data Not Compute is the Bottleneck to Foundation Model Performance | E1164](./20240612-alexandrwang-20vcwithharrystebbings)**

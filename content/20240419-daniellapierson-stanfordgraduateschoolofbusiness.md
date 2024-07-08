@@ -1,8 +1,8 @@
----
+
 title: "View From The Top with Daniella Pierson, CEO and Founder of The Newsette"
 date: "2024-04-19"
 tags: [Tech, Innovation, AI]
----
+
 
 ## Interview with Danielle Pierson, CEO and Founder of The Newsette
 
@@ -28,13 +28,11 @@ Danielle emphasizes that success can be defined in various ways. She advocates f
 
 This quote encapsulates Danielle's philosophy of defying expectations and forging your own path to success.
 
-
-
-
+---
 
 <a href="https://youtube.com/watch?v=DVcX3ZlW_1s" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Sam Altman talks GPT-4o and Predicts the Future of AI](./20240514-samaltman-theloganbartlettshow.md)**
+**Read another blog about [NVIDIA CEO Jensen Huang](./20231015-jensenhuang-acquired)**

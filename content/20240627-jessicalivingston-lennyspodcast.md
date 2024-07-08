@@ -1,9 +1,9 @@
 
----
+
 title: "The social radar: Y Combinator’s secret weapon | Jessica Livingston (co-founder of YC, author)"
 date: "2024-06-27"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Secret Sauce of Y Combinator: Unpacking Jessica Livingston's Social Radar
 
@@ -56,10 +56,10 @@ Jessica Livingston's social radar has been instrumental in shaping Y Combinator 
 This quote, though blunt, encapsulates Jessica's philosophy and highlights the importance of personality and character in the world of startups. The ability to read people, recognize potential, and avoid toxic individuals is a superpower that can make all the difference in building a successful company and community.
 
 ---
-        
+
 <a href="https://youtube.com/watch?v=h9MUuhsDJOM" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu](./20220731-crystalwidjaja-lennyspodcast.md)**
+**Read another blog about [Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)](./20240407-clairevo-lennyspodcast)**

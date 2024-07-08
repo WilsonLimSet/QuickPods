@@ -1,9 +1,9 @@
 
----
+
 title: "Joe Rogan Experience #1309 - Naval Ravikant"
 date: "2019-06-04"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Art of Doing Nothing: A Conversation with Naval Ravikant
 
@@ -52,14 +52,10 @@ In closing, Ravikant leaves us with this potent insight:
 > “If you want to see who rules over you, see who you’re not allowed to criticize.”
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=3qHkcs3kG44" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [How I Built A $4B Startup Called WebflowㅣWebflow, Vlad Magdalin](./20240223-vladmagdalin-eo.md)**
+**Read another blog about [How I built a billion dollar coffee company called Kopi Kenangan](./20240520-edwardtirtanata-cnbcinternational)**

@@ -1,9 +1,9 @@
 
----
+
 title: "Download Day 2024 — Fireside Chat: NVIDIA Founder & CEO Jensen Huang and Recursion's Chris Gibson"
 date: "2024-06-28"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Mind of a Visionary: Jensen Huang on Healthcare, AI, and the Power of Belief
 
@@ -46,10 +46,10 @@ The conversation ended with a powerful message, one that encapsulates Huang's vi
 This quote perfectly captures the passion, dedication, and sense of purpose that drives true innovators like Jensen Huang and the team at Recursion. It's a reminder that we have the power to choose our work and to make a real difference, every single day.
 
 ---
-        
+
 <a href="https://youtube.com/watch?v=Sr_n3gVeQs8" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Advice from investor who backed 40 Unicorns l Elad Gil](./20240327-eladgil-eo.md)**
+**Read another blog about [Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale](./20151130-brianchesky-greylock)**

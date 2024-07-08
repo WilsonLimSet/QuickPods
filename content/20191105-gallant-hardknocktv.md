@@ -1,9 +1,9 @@
 
----
+
 title: "Gallant on Making R&B Music On His Own Terms, Youtube Comments, Perseverance Through Early Doubters"
 date: "2019-11-05"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Unexpected Journey of Gallant: An Interview with Hard Knock TV
 
@@ -46,14 +46,10 @@ Throughout the interview, Gallant consistently emphasizes the importance of crea
 > "The job of the artist is to make art. It's like why do you decide whether it's good or bad art? My job is to go make other art."
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=D8HvVnyXw0k" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Mark Cuban: Shark Tank, DEI & Wokeism Debate, Elon Musk, Politics & Drugs | Lex Fridman Podcast #422](./20240329-markcuban-lexfridman.md)**
+**Read another blog about [Derek Sivers — Finding Paths Less Traveled, Taking Giant Leaps, and Picking the Right “Game of Life”](./20230421-dereksivers-timferriss)**

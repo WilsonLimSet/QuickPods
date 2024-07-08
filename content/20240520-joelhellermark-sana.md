@@ -1,9 +1,9 @@
 
----
+
 title: "Geoffrey Hinton | On working with Ilya, choosing problems, and the power of intuition"
 date: "2024-05-20"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Mind of a Machine Learning Pioneer: Insights from a Conversation with Geoffrey Hinton
 
@@ -53,14 +53,10 @@ This conversation with Geoffrey Hinton provides a glimpse into the mind of a bri
 Ultimately, Hinton's dedication to unraveling the mysteries of learning in both biological and artificial systems serves as a testament to the enduring power of curiosity and its capacity to drive groundbreaking innovation.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=n4IQOBka8bc" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [An honest conversation with the CEO of Instagram](./20240610-adammosseri-colinandsamir.md)**
+**Read another blog about [Erik Allebest: Scaling to $100M Revenue, 150M Members and 700 People, All with No Vc Funding | E1113](./20240207-erikallebest-20vcwithharrystebbings)**

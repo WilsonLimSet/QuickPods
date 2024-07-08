@@ -1,9 +1,9 @@
 
----
+
 title: "Every Lesson From Scaling Datadog to $40B"
 date: "2024-06-14"
 tags: [Tech, Innovation, AI]
----
+
 
 ## Building a $40 Billion Business: Key Insights from DataDog CEO Olivier Pomel
 
@@ -71,10 +71,10 @@ In conclusion, DataDog’s journey is a testament to the power of staying true t
 **“Everything you find that is horrible in the world around you started as a genius idea. The intent was not to make everybody miserable.”**
 
 ---
-        
+
 <a href="https://youtube.com/watch?v=tLdzr6GTcao" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [This SKILL Is Our #1 Human Superpower | Charles Duhigg X Rich Roll Podcast](./20240222-charlesduhigg-richroll.md)**
+**Read another blog about [How Future Billionaires Get Sh*t Done](./20220331-paulgraham-ycombinator)**

@@ -1,9 +1,9 @@
 
----
+
 title: "Jamie Dimon on the Economy, U.S.-China, Overseas Wars and More: Full Interview | WSJ"
 date: "2024-04-29"
 tags: [Tech, Innovation, AI]
----
+
 
 ## Jamie Dimon: A Candid Conversation on the Global Economy, AI and America's Future
 
@@ -57,14 +57,10 @@ In closing, Dimon left us with a powerful statement highlighting the critical im
 > "That battle line in Ukraine is America first. That is the fight for democracy."
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=yKtw4of-j0E" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Brian Chesky’s new playbook](./20231112-brianchesky-lennyspodcast.md)**
+**Read another blog about [I Asked a $15BN Investor for Life Advice](./20231009-grahamweaver-jayhoovy)**

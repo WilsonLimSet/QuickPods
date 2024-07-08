@@ -1,9 +1,9 @@
 
----
+
 title: "Michael B. Jordan EXCLUSIVE: How To Connect With Your Intuition & Focus On Your Path"
 date: "2024-03-11"
 tags: [Tech, Innovation, AI]
----
+
 
 ## Michael B. Jordan: On Finding Your Path, Building Your Tribe, and Owning Your Truth
 
@@ -40,14 +40,10 @@ Jordan concludes the interview by emphasizing the importance of self-acceptance 
 Jordan’s thoughtful insights and unwavering dedication to his purpose inspire us to embrace our own journeys, build meaningful connections, and strive to make a positive impact in the world.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=FlibCSZ93gM" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [How I Turned $49k In Debt To $500 Million](./20240503-patrickbetdavid-noahkagan.md)**
+**Read another blog about [Gallant on Making R&B Music On His Own Terms, Youtube Comments, Perseverance Through Early Doubters](./20191105-gallant-hardknocktv)**

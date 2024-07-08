@@ -1,9 +1,9 @@
 
----
+
 title: "Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)"
 date: "2024-04-07"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Startup Mindset at Scale: Insights from a 3x CPO
 
@@ -63,14 +63,10 @@ Claire's tool, ChatPRD, has sparked both excitement and anxiety within the PM co
 This episode leaves listeners with a powerful message: **embrace a growth mindset, adapt to evolving technologies, and never underestimate the power of a startup mindset at scale.**
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=aXGo1o_baBo" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Coatue’s Laffont on AI Darlings and Opportunities in Today’s Markets](./20240625-philippelaffont-bloomberglive.md)**
+**Read another blog about [This SKILL Is Our #1 Human Superpower | Charles Duhigg X Rich Roll Podcast](./20240222-charlesduhigg-richroll)**

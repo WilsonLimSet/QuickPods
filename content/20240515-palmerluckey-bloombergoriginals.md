@@ -1,9 +1,9 @@
 
----
+
 title: "Palmer Luckey Wants to Be Silicon Valley's War King | The Circuit"
 date: "2024-05-15"
 tags: [Tech, Innovation, AI]
----
+
 
 ## From Virtual Reality to Warships: One Man's Mission to Reinvent Defense
 
@@ -48,14 +48,10 @@ Luckey’s journey from virtual reality to warships underscores the need for a r
 The US faces a critical juncture in its technological rivalry with China. Whether Anduril succeeds or fails, Luckey's efforts highlight the urgent need for innovation and a willingness to challenge the status quo in the US defense industry.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=ItLFpYha6Wc" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [How Future Billionaires Get Sh*t Done](./20220331-paulgraham-ycombinator.md)**
+**Read another blog about [Pattern Breakers: How to find a breakthrough startup idea | Mike Maples, Jr. (Partner at Floodgate)](./20240707-mikemaplesjr-lennyspodcast)**

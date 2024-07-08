@@ -1,9 +1,9 @@
 
----
+
 title: "What YouTube’s CEO Really Thinks About YouTube | The Circuit with Emily Chang"
 date: "2024-05-29"
 tags: [Tech, Innovation, AI]
----
+
 
 ## From Cat Videos to the Super Bowl: A Conversation with YouTube CEO Neal Mohan 
 
@@ -67,14 +67,10 @@ This vision reflects YouTube's commitment to empowering creators, fostering a di
 **"So if we live up to that vision, um, uh, uh, we think we're, um, really still in the early days of our, uh, growth story and fulfilling what our mission is, which is to give everyone a voice and show them the world."** - Neal Mohan, CEO of YouTube
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=7ZWUKxeIDWQ" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Erik Allebest: Scaling to $100M Revenue, 150M Members and 700 People, All with No Vc Funding | E1113](./20240207-erikallebest-20vcwithharrystebbings.md)**
+**Read another blog about [Charles Barkley On MJ vs Scottie Pippen, Marcus Jordan & Larsa Pippen, Shaq vs Kendrick Perkins](./20240501-charlesbarkley-clubshayshay)**

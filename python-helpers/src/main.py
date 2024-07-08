@@ -7,7 +7,7 @@ from db.client import Client as DBClient
 from playlist_creator import create_youtube_playlist_with_videos
 from youtube_to_supabase import Summarizer
 from url_to_blogpost import Generator
-from pytube import Playlist
+from pytube import Playlist  # Import Playlist from pytube
 
 # Load environment variables once
 load_dotenv()
@@ -47,22 +47,66 @@ class BlogUploader:
                     if title_match:
                         title = title_match.group(1)
                         blog_titles_files.append((title, filename))
+        print(f"Found {len(blog_titles_files)} blog posts with titles.")
         return blog_titles_files
 
-    def append_backlink_to_blog(self, blog_dir, blog_titles_files):
-        """Append a backlink to each new blog post."""
+    def clean_and_append_links(self, content, video_url, backlink_title, backlink_slug):
+        """
+        Clean up the end part of the blog post and append the video link and backlink consistently.
+
+        Args:
+        - content (str): The content of the blog post.
+        - video_url (str): The URL of the video to be appended.
+        - backlink_title (str): The title of the backlink blog post.
+        - backlink_slug (str): The slug of the backlink blog post (without .md).
+
+        Returns:
+        - str: The cleaned and updated content of the blog post.
+        """
+        # Remove existing "Watch the podcast here!" and "Read another blog about" links
+        content = re.sub(
+            r'<a href="https://youtube.com/watch\?v=.*?" target="_blank">Watch the podcast here!</a>',
+            "",
+            content,
+        )
+        content = re.sub(r"\*\*Read another blog about \[.*?\]\(.*?\)\*\*", "", content)
+        content = re.sub(r"---", "", content)
+
+        # Remove any trailing whitespace
+        content = content.rstrip()
+
+        # Append the links consistently
+        video_text = (
+            f'\n\n<a href="{video_url}" target="_blank">Watch the podcast here!</a>\n'
+        )
+        backlink_text = f"\n\n---\n\n**Read another blog about [{backlink_title}](./{backlink_slug})**\n"
+
+        return content + video_text + backlink_text
+
+    def append_backlink_and_video(self, blog_dir, blog_titles_files, video_urls):
+        """Append a backlink and video URL to each new blog post."""
         for title, filename in blog_titles_files:
             if filename not in self.processed_blogs:
                 other_blogs = [t for t in blog_titles_files if t[1] != filename]
                 if other_blogs:
                     random_blog = random.choice(other_blogs)
-                    backlink_text = f"\n\n---\n\n**Read another blog about [{random_blog[0]}](./{random_blog[1]})**\n"
+                    random_blog_slug = random_blog[1][:-3]  # Remove the '.md' extension
+                    video_url = random.choice(video_urls) if video_urls else None
                     with open(
-                        os.path.join(blog_dir, filename), "a", encoding="utf-8"
+                        os.path.join(blog_dir, filename), "r+", encoding="utf-8"
                     ) as file:
-                        file.write(backlink_text)
+                        content = file.read()
+                        # Clean and append links
+                        updated_content = self.clean_and_append_links(
+                            content, video_url, random_blog[0], random_blog_slug
+                        )
+                        file.seek(0)
+                        file.write(updated_content)
+                        file.truncate()
                     self.processed_blogs.append(filename)
-                    print(f"Appended backlink to {filename}")
+                    print(f"Appended backlink and video URL to {filename}")
+                else:
+                    print(f"No other blogs found to link for {filename}")
 
     def upload_blogs_to_supabase(self):
         base_dir = os.path.dirname(__file__)
@@ -70,7 +114,8 @@ class BlogUploader:
         blog_files = [f for f in os.listdir(content_dir) if f.endswith(".md")]
 
         blog_titles_files = self.get_blog_titles_and_files(content_dir)
-        self.append_backlink_to_blog(content_dir, blog_titles_files)
+        video_urls = self.get_video_urls()
+        self.append_backlink_and_video(content_dir, blog_titles_files, video_urls)
         self.save_processed_blogs()
 
         for filename in blog_files:
@@ -82,6 +127,18 @@ class BlogUploader:
                     self.db.upload_blog(md_slug, content)
                     self.processed_blogs.append(filename)
                     print(f"Uploaded blog: {filename}")
+
+    def get_video_urls(self):
+        """Get video URLs from the curated playlist."""
+        CURATED_PLAYLIST = (
+            f"https://www.youtube.com/playlist?list=PL-GTGzXj_qq9yuL5RHo33fmIUIeSwNZEv"
+        )
+        try:
+            playlist = Playlist(CURATED_PLAYLIST)
+            return [video.watch_url for video in playlist.videos]
+        except Exception as e:
+            print(f"Error fetching video URLs: {e}")
+            return []
 
     def read_and_parse_file(self, full_path):
         try:

@@ -1,9 +1,9 @@
 
----
+
 title: "Palantir CEO Karp on TITAN, AI Warfare Technology"
 date: "2024-03-07"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Software Revolution: A Palantir Perspective 
 
@@ -58,14 +58,10 @@ Karp acknowledges the confusion surrounding the software revolution, attributing
 > "You know what? I really, I really like that we win in that way. It makes me very happy. And it makes our clients happy because American industry knows that this is a structural advantage that needs the best products."
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=P2eRjbUW53s" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Ray Dalio’s Principles of Investing in a Changing World | WSJ News](./20240523-raydalio-wsjnews.md)**
+**Read another blog about [Morgan Housel: What You Need to Master (And Avoid) to Get Rich, Stay Rich, and Build Wealth](./20240528-morganhousel-theknowledgeprojectpodcast)**

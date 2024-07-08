@@ -1,9 +1,9 @@
 
----
+
 title: "Spotify CEO Daniel Ek"
 date: "2023-05-18"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Unexpected Power of Audio: An Interview with Spotify's Daniel Ek
 
@@ -54,14 +54,10 @@ Ultimately, Ek believes that Spotify is only now truly defining its own unique c
 **"And honestly, that's probably just a training problem...And again, the largest problem today is the cost per minute uh would be too high for most podcast... But it's huge in terms of like moving our metrics um in a pretty substantial way."**
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=5iLbbuEecJU" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Jeff Bezos: Amazon and Blue Origin | Lex Fridman Podcast #405](./20231214-jeffbezos-lexfridman.md)**
+**Read another blog about [Shaq Opens Up About Kobe, Creating Wealth & Life](./20220909-shaquilleoneal-pbdpodcast)**

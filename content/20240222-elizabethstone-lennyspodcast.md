@@ -1,9 +1,9 @@
 
----
+
 title: "How Netflix builds a culture of excellence | Elizabeth Stone (CTO)"
 date: "2024-02-22"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Power of High Talent Density: Key Insights from Netflix's CTO
 
@@ -78,14 +78,10 @@ Elizabeth's insights offer valuable lessons for leaders across all industries. H
 **Ending with a powerful quote from Elizabeth:** "We can’t really have any of the other aspects of the culture, including candor, learning, seeking excellence and improvement, freedom and responsibility, if you don’t start with high talent density."
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=2XgU6T4DalY" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Gallant on Making R&B Music On His Own Terms, Youtube Comments, Perseverance Through Early Doubters](./20191105-gallant-hardknocktv.md)**
+**Read another blog about [What YouTube’s CEO Really Thinks About YouTube | The Circuit with Emily Chang](./20240529-nealmohan-bloombergoriginals)**

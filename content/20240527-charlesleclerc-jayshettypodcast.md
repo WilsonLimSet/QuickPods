@@ -1,9 +1,9 @@
 
----
+
 title: "F1 Driver Charles Leclerc Unveils The Real Behind The Scenes of Formula 1 Racing"
 date: "2024-05-27"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Heart of a Champion:  A Conversation with Charles Leclerc
 
@@ -36,14 +36,10 @@ Despite the demands and challenges, Charles's love for the sport remains undimme
 "In all of the difficult moments, I always remind myself how lucky I am to be in that position and living off what I love most, which is driving. I love what I do, no matter the situation I'm in."
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=MzKfOvZxNko" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Jeff Bezos: Amazon and Blue Origin | Lex Fridman Podcast #405](./20231214-jeffbezos-lexfridman.md)**
+**Read another blog about [Every Lesson From Scaling Datadog to $40B](./20240614-olivierpomel-theloganbartlettshow)**
