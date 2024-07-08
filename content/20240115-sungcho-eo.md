@@ -1,9 +1,9 @@
 
----
+
 title: "Success Starts at the End of Your Comfort ZoneㅣChartmetric, Sung M. Cho"
 date: "2024-01-15"
 tags: [Tech, Innovation, AI]
----
+
 
 ## From Oracle Comfort to Startup Uncertainty: The Chartmetric Journey
 
@@ -44,14 +44,10 @@ Seven years in, Chartmetric is approaching $7 million in annual recurring revenu
 > "I'm running my own agency here in Manhattan. I’m also a business owner. I know how cash is precious in the beginning. So I thought some extra cash could help you, so I decided to give a one-year subscription... anyway, I’m going to use this product for the next 12 months anyway, so paying for an annual subscription is a better deal for me." - **Rene McLain, Chartmetric's first paying customer**
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=RqIqlmb8BYM" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Ted Chiang on Free Will, Time Travel, Many Worlds, Genetic Engineering, and Hard Science Fiction](./20190919-tedchiang-manifold.md)**
+**Read another blog about [Chad “Ochocinco” Johnson: Cheapest Celebrity and Athlete in the World | EP. 71 | CLUB SHAY SHAY](./20230130-chadjohnson-clubshayshay)**

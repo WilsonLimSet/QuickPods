@@ -1,9 +1,9 @@
 
----
+
 title: "A Story that Unlocks Your Limit to GrowthㅣAditya Agarwal"
 date: "2023-12-27"
 tags: [Tech, Innovation, AI]
----
+
 
 ## Finding Your Mountain: Lessons in Entrepreneurship and Company Building 
 
@@ -54,14 +54,10 @@ Through his work at South Park Commons, Agrawal aims to empower founders to take
 In conclusion, Agrawal’s insights offer a refreshing perspective on entrepreneurship, highlighting the importance of embracing challenges, building a strong team culture, and adapting to the ever-changing landscape of a fast-growing company. By fostering a community of risk-takers and encouraging the pursuit of ambitious goals, he paves the way for the next generation of groundbreaking companies.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=8-Vhkq_oPpk" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [The Full Story of Mark Rober](./20221207-markrober-colinandsamir.md)**
+**Read another blog about [Brian Chesky’s new playbook](./20231112-brianchesky-lennyspodcast)**

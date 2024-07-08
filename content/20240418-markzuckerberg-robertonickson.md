@@ -1,9 +1,9 @@
 
----
+
 title: "Mark Zuckerberg on Meta AI, Fighting in the UFC, Llama 3, Legacy, Metaverse & More"
 date: "2024-04-18"
 tags: [Tech, Innovation, AI]
----
+
 
 ## Mark Zuckerberg on AI, the Metaverse, and Cheesesteaks with Jensen Huang
 
@@ -52,14 +52,10 @@ Despite his busy schedule, Zuckerberg emphasizes the importance of prioritizing 
 Overall, the interview paints a picture of a visionary leader who is deeply passionate about the power of technology to connect people and shape the future. With advancements in AI and the Metaverse taking center stage, Zuckerberg's vision promises a future filled with incredible possibilities.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=8HrzoEvLWH0" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Tom Blomfield: How I Created Two Billion-Dollar Fintech Startups](./20240130-tomblomfield-ycombinator.md)**
+**Read another blog about [Alex Wang: Why Data Not Compute is the Bottleneck to Foundation Model Performance | E1164](./20240612-alexandrwang-20vcwithharrystebbings)**

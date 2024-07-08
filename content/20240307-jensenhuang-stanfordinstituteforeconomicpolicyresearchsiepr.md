@@ -1,9 +1,9 @@
 
----
+
 title: "Keynote by NVIDIA CEO Jensen Huang at 2024 SIEPR Economic Summit"
 date: "2024-03-07"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The American Dream, Accelerated Computing, and the Future of AI: A Conversation with Jensen Huang
 
@@ -51,14 +51,10 @@ Huang concluded his talk with an inspiring message about the democratizing power
 > "Today, about 10 million people are gainfully employed because they know how to program computers ... That's not true in the future. We all can program computers ... That's the great contribution the computer science industry has made to the world. We've closed the technology divide."
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=cEg8cOx7UZk" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [What YouTube’s CEO Really Thinks About YouTube | The Circuit with Emily Chang](./20240529-nealmohan-bloombergoriginals.md)**
+**Read another blog about [Bill Ackman: Investing, Financial Battles, Harvard, DEI, X & Free Speech | Lex Fridman Podcast #413](./20240220-billackman-lexfridman)**

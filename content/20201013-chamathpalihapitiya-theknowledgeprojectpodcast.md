@@ -1,9 +1,9 @@
 
----
+
 title: "Chamath Palihapitiya: Freedom, Bitcoin, and First Principles | The Knowledge Project #94"
 date: "2020-10-13"
 tags: [Tech, Innovation, AI]
----
+
 
 ## Finding Freedom and Happiness in a World of Change: A Conversation with Chamath Palihapitiya
 
@@ -48,14 +48,10 @@ Chamath's personal journey towards happiness and his insights into the forces sh
 Chamath's final message resonates: By observing the present, understanding ourselves, and investing in our own happiness, we can create a world where everyone has the opportunity to achieve both freedom and fulfillment.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=v9pipH75L_E" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Gallant on Making R&B Music On His Own Terms, Youtube Comments, Perseverance Through Early Doubters](./20191105-gallant-hardknocktv.md)**
+**Read another blog about [Kunal Shah on winning in India, second-order thinking, the philosophy of startups, and more](./20240324-kunalshah-lennyspodcast)**

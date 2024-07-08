@@ -1,9 +1,9 @@
 
----
+
 title: "Bill Ackman: Investing, Financial Battles, Harvard, DEI, X & Free Speech | Lex Fridman Podcast #413"
 date: "2024-02-20"
 tags: [Tech, Innovation, AI]
----
+
 
 ## An Interview with the Fearless Investor: Bill Ackman on Value, Activism, and the Power of X
 
@@ -48,14 +48,10 @@ Despite the challenges and setbacks he has faced, Ackman remains fundamentally o
 This conversation with Bill Ackman offers a fascinating glimpse into the mind of a fearless investor. His insights on value investing, the role of activism, and the significance of X in the fight for truth are both thought-provoking and timely. Ackman's unwavering commitment to truth and his belief in the power of individual action to create positive change are truly inspiring.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=PgGKhsWhUu8" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Keynote by NVIDIA CEO Jensen Huang at 2024 SIEPR Economic Summit](./20240307-jensenhuang-stanfordinstituteforeconomicpolicyresearchsiepr.md)**
+**Read another blog about [Virgil van Dijk’s Hardest Opponents, Winning A Champions League & The Klopp Effect | EP 103](./20240405-virgilvandijk-therestisfootball)**

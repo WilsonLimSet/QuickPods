@@ -1,9 +1,9 @@
 
----
+
 title: "How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu"
 date: "2022-07-31"
 tags: [Tech, Innovation, AI]
----
+
 
 ## Scrap Your Way to Growth: Lessons from Southeast Asia's Startup Queen
 
@@ -64,14 +64,10 @@ Don't overestimate the importance of past experience. A young, hungry candidate 
 **The most important takeaway from Crystal's insights? "The only thing better than no data is data of what your customers are doing."** So ditch the vanity metrics, get scrappy, and focus on understanding your users. That’s how you build a truly impactful growth strategy.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=lYaiyi2ZX6Q" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Success Starts at the End of Your Comfort ZoneㅣChartmetric, Sung M. Cho](./20240115-sungcho-eo.md)**
+**Read another blog about [Reid Hoffman: The Future of TikTok and The Inflection AI Deal | E1163](./20240610-reidhoffman-20vcwithharrystebbings)**

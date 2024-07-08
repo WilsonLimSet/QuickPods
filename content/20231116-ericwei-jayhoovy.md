@@ -1,9 +1,9 @@
 
----
+
 title: "I Asked a $100M Founder for Life Advice"
 date: "2023-11-16"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Power of Letting Go: How To Find Your True Path To Success
 
@@ -40,14 +40,10 @@ While Eric emphasizes the importance of introspection and letting go of external
 Ultimately, Eric's message is one of empowerment. By letting go of the need for external validation and embracing the uncertainty of the journey, we can unlock our true potential and find a path that leads to genuine fulfillment.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=dGw0Byvn8Xk" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Simon Sinek: The Number One Reason Why You’re Not Succeeding | E145](./20220522-simonsinek-thediaryofaceo.md)**
+**Read another blog about [How I Built A $4B Startup Called WebflowㅣWebflow, Vlad Magdalin](./20240223-vladmagdalin-eo)**

@@ -1,9 +1,9 @@
 
----
+
 title: "Morgan Housel: What You Need to Master (And Avoid) to Get Rich, Stay Rich, and Build Wealth"
 date: "2024-05-28"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Surprising Key to Building Wealth and a Happy Life: No FOMO
 
@@ -67,14 +67,10 @@ Housel acknowledges the hidden costs associated with achieving great things in l
 Housel concludes by echoing this sentiment, emphasizing that aligning your financial decisions with your personal definition of success and happiness is the most important factor in building a fulfilling life. He urges us to define our own game, resist the allure of social comparison, and embrace the unique financial path that brings us the most joy and fulfillment.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=zEx_IGVfi7Y" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Sam Altman talks GPT-4o and Predicts the Future of AI](./20240514-samaltman-theloganbartlettshow.md)**
+**Read another blog about [Erik Allebest: Scaling to $100M Revenue, 150M Members and 700 People, All with No Vc Funding | E1113](./20240207-erikallebest-20vcwithharrystebbings)**

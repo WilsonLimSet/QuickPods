@@ -1,9 +1,9 @@
 
----
+
 title: "The Lessons, Hacks & Books That Changed My Life - Tim Ferriss (4K)"
 date: "2024-05-06"
 tags: [Tech, Innovation, AI]
----
+
 
 ## Effectiveness over Efficiency: A Glimpse into the Mind of Tim Ferriss
 
@@ -48,14 +48,10 @@ In Ferriss's own words:
 This quote encapsulates his approach to life:  clarity, intentionality, and a willingness to embrace both success and failure are key to creating a life that is both fulfilling and impactful.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=9G5dXlMGMf8" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Download Day 2024 — Fireside Chat: NVIDIA Founder & CEO Jensen Huang and Recursion's Chris Gibson](./20240628-jensenhuang-recursion.md)**
+**Read another blog about [Why I'm Leaving My Company Immediately (Stability AI) w/ Emad Mostaque | EP #93](./20240329-emadmostaque-peterhdiamandis)**

@@ -1,9 +1,9 @@
 
----
+
 title: "Keith Rabois' Unique Investment Strategy (Exclusive Interview 2024)"
 date: "2024-04-30"
 tags: [Tech, Innovation, AI]
----
+
 
 ## Keith Rabois on Seed Investing, Avoiding Competition, and Why Remote Work is a "Horrible Idea"
 
@@ -61,14 +61,10 @@ Rabois's conversation is packed with insights and thought-provoking ideas. His p
 **Key Quote:** "You don't want to copy. The last thing a founder wants to do is copy any practices from a monopoly because almost surely they do not have a monopoly."
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=s8zgNDIUW-w" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [The Full Story of Mark Rober](./20221207-markrober-colinandsamir.md)**
+**Read another blog about [Reid Hoffman: The Future of TikTok and The Inflection AI Deal | E1163](./20240610-reidhoffman-20vcwithharrystebbings)**

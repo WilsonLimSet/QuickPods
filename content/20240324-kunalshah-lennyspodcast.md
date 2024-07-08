@@ -1,9 +1,9 @@
 
----
+
 title: "Kunal Shah on winning in India, second-order thinking, the philosophy of startups, and more"
 date: "2024-03-24"
 tags: [Tech, Innovation, AI]
----
+
 
 ##  The Indian CEO Enigma and the Power of Dharma: Unexpected Insights from Kunal Shah
 
@@ -48,14 +48,10 @@ Kunal’s insights challenge conventional wisdom and offer a unique perspective 
 > “Please share what you are learning…There are many, many people who are learning only because you share your evolution and your thoughts… If they all shared, many people from many places in the world would learn… and achieve some amount of success. Thanks to your sharing.” - Kunal Shah
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=EgBOVDzUUAA" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [I asked a YC founder who quit his $800K job for advice](./20231121-rahulpandey-wilsonlimsetiawan.md)**
+**Read another blog about [Knowledge of A Lifelong Software Engineer | Benjamin Mann, Delivery Hero](./20240430-benjaminmann-eo)**

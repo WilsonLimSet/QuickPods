@@ -1,9 +1,9 @@
 
----
+
 title: "Reed Hastings, Chairman and Co-Founder of Netflix"
 date: "2024-02-23"
 tags: [Tech, Innovation, AI]
----
+
 
 ## From Cinnamon Sticks to Streaming: The Unexpected Journey of Reed Hastings
 
@@ -39,14 +39,10 @@ Hastings sees AI as a powerful tool for enhancing creativity and storytelling, b
 While acknowledging the challenges of a constantly evolving media landscape, Hastings remains optimistic about the future. His unwavering commitment to progress, both in the world of entertainment and through his philanthropic work, offers a powerful example of leadership driven by a vision for a better tomorrow.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=u17n3UaH82k" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu](./20220731-crystalwidjaja-lennyspodcast.md)**
+**Read another blog about [Jamie Dimon on the Economy, U.S.-China, Overseas Wars and More: Full Interview | WSJ](./20240429-jamiedimon-thewallstreetjournal)**

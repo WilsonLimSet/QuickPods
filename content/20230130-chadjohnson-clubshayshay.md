@@ -1,9 +1,9 @@
 
----
+
 title: "Chad “Ochocinco” Johnson: Cheapest Celebrity and Athlete in the World | EP. 71 | CLUB SHAY SHAY"
 date: "2023-01-30"
 tags: [Tech, Innovation, AI]
----
+
 
 ## From Ocho Cinco to Fatherhood: Chad Johnson's Unexpected Journey 
 
@@ -41,14 +41,10 @@ While Chad has indulged in luxury cars and designer clothes, he emphasizes the f
 This interview reveals a side of Chad Johnson we rarely see – a man deeply devoted to his family, financially responsible, and introspective about the true meaning of success.  His journey from Ocho Cinco to fatherhood provides a refreshingly candid perspective on life beyond the glitz and glamour of professional sports.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=KgScnzMqu_o" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Keynote by NVIDIA CEO Jensen Huang at 2024 SIEPR Economic Summit](./20240307-jensenhuang-stanfordinstituteforeconomicpolicyresearchsiepr.md)**
+**Read another blog about [10K Users from Product Launch Day 1 | TomoCredit Kristy Kim](./20240409-kristykim-eo)**

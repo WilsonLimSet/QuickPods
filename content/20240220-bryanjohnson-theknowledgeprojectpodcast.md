@@ -1,9 +1,9 @@
 
----
+
 title: "Bryan Johnson: The Five Science-Backed Habits For Longer Living"
 date: "2024-02-20"
 tags: [Tech, Innovation, AI]
----
+
 
 ## Don't Die: A Conversation with Bryan Johnson on Living by Algorithm 
 
@@ -51,14 +51,10 @@ Ultimately, Johnson's philosophy centers on the two words that encapsulate his m
 > "The only thing I know to be true in the year 2024 is don't die. That’s it. I don’t know anything else, other than I want to be around for what could be the most spectacular existence in this part of the galaxy."
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=xpvOhgoKrg4" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Brian Chesky’s new playbook](./20231112-brianchesky-lennyspodcast.md)**
+**Read another blog about [Jeff Bezos: Amazon and Blue Origin | Lex Fridman Podcast #405](./20231214-jeffbezos-lexfridman)**
