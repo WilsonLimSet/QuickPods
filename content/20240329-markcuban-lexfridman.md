@@ -47,3 +47,8 @@ On the subject of AI, Cuban expresses optimism, believing that its potential ben
 
 
 <a href="https://youtube.com/watch?v=0cn3VBjfN8g" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Tom Brady Opens up - 7th Ring Motivation MJ or Belichick | Enemies | Style of Leadership](./20230920-tombrady-pbdpodcast.md)**

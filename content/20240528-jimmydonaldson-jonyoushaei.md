@@ -55,3 +55,8 @@ Throughout the interview, Donaldson's work ethic shines through. He admits to fi
 ---
 
 <a href="https://youtube.com/watch?v=IXEewFEDieU" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [NVIDIA CEO Jensen Huang](./20231015-jensenhuang-acquired.md)**

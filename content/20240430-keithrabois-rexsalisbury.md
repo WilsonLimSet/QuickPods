@@ -67,3 +67,8 @@ Rabois's conversation is packed with insights and thought-provoking ideas. His p
 
 
 <a href="https://youtube.com/watch?v=s8zgNDIUW-w" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [The Full Story of Mark Rober](./20221207-markrober-colinandsamir.md)**

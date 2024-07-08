@@ -33,3 +33,8 @@ This quote encapsulates Danielle's philosophy of defying expectations and forgin
 
 
 <a href="https://youtube.com/watch?v=DVcX3ZlW_1s" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Sam Altman talks GPT-4o and Predicts the Future of AI](./20240514-samaltman-theloganbartlettshow.md)**

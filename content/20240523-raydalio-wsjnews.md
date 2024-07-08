@@ -51,3 +51,8 @@ Dalio's insights are both thought-provoking and practical, offering a valuable f
 
 
 <a href="https://youtube.com/watch?v=o5NQvY4eK8g" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [He sold his company to Amazon for $970,000,000 ft @JustinKanTV​](./20210802-justinkan-colinandsamir.md)**

@@ -75,3 +75,8 @@ This leads to a final reflection on legacies and the constant pressure to be ran
 
 
 <a href="https://youtube.com/watch?v=-I8D7tQwnJA" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Keith Rabois' Unique Investment Strategy (Exclusive Interview 2024)](./20240430-keithrabois-rexsalisbury.md)**

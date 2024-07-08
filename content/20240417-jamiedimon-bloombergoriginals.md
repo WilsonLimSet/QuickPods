@@ -63,3 +63,8 @@ This statement underscores Dimon's commitment to not just financial success, but
 
 
 <a href="https://youtube.com/watch?v=9Kl-wO_j5GM" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Beckham on Netflix Doc & Messi | Stick to Football EP 2](./20231004-davidbeckham-theoverlap.md)**

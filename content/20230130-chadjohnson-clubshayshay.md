@@ -47,3 +47,8 @@ This interview reveals a side of Chad Johnson we rarely see – a man deeply dev
 
 
 <a href="https://youtube.com/watch?v=KgScnzMqu_o" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Keynote by NVIDIA CEO Jensen Huang at 2024 SIEPR Economic Summit](./20240307-jensenhuang-stanfordinstituteforeconomicpolicyresearchsiepr.md)**

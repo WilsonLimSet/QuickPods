@@ -47,3 +47,8 @@ Beckham's interview paints a vivid picture of a man driven by passion, loyalty, 
 
 
 <a href="https://youtube.com/watch?v=kllZgD9_bVc" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale](./20151130-brianchesky-greylock.md)**

@@ -61,3 +61,8 @@ This conversation reveals a fascinating glimpse into the potential future of AI,
 
 
 <a href="https://youtube.com/watch?v=Wo95ob_s_NI" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Bastian Lehmann: How the Uber Deal Went Down and How a $2.65BN Deal Turned into $5BN | E1137](./20240408-bastilehmann-20vcwithharrystebbings.md)**

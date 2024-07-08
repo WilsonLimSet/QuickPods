@@ -34,3 +34,8 @@ Founders should acknowledge the inherent risk in pursuing ambitious goals.  Inst
 
 
 <a href="https://youtube.com/watch?v=ephzgxgOjR0" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Tim Ferriss On Solving Problems With People And Using Stoicism To Make Better Decisions](./20240124-timferriss-dailystoic.md)**

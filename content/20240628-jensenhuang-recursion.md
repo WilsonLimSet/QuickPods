@@ -48,3 +48,8 @@ This quote perfectly captures the passion, dedication, and sense of purpose that
 ---
         
 <a href="https://youtube.com/watch?v=Sr_n3gVeQs8" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Advice from investor who backed 40 Unicorns l Elad Gil](./20240327-eladgil-eo.md)**

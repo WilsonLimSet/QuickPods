@@ -52,3 +52,8 @@ The Arc benchmark and the million-dollar prize aim to answer this question by ch
 ---
         
 <a href="https://youtube.com/watch?v=UakqL6Pj9xo" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Simon Sinek: The Number One Reason Why You’re Not Succeeding | E145](./20220522-simonsinek-thediaryofaceo.md)**

@@ -58,3 +58,8 @@ Mosseri's biggest concern is the world evolving faster than platforms can keep u
 ---
         
 <a href="https://youtube.com/watch?v=HDzhA_UFrnA" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Jeff Bezos: Amazon and Blue Origin | Lex Fridman Podcast #405](./20231214-jeffbezos-lexfridman.md)**

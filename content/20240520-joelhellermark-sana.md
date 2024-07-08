@@ -59,3 +59,8 @@ Ultimately, Hinton's dedication to unraveling the mysteries of learning in both 
 
 
 <a href="https://youtube.com/watch?v=n4IQOBka8bc" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [An honest conversation with the CEO of Instagram](./20240610-adammosseri-colinandsamir.md)**

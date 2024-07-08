@@ -42,3 +42,8 @@ This interview leaves the listener with a sense of awe at the talent and tactica
 
 
 <a href="https://youtube.com/watch?v=1dh1qU1ReeU" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [A framework for finding product-market fit | Todd Jackson (First Round Capital)](./20240411-toddjackson-lennyspodcast.md)**

@@ -73,3 +73,8 @@ Housel concludes by echoing this sentiment, emphasizing that aligning your finan
 
 
 <a href="https://youtube.com/watch?v=zEx_IGVfi7Y" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Sam Altman talks GPT-4o and Predicts the Future of AI](./20240514-samaltman-theloganbartlettshow.md)**

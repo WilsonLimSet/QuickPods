@@ -67,3 +67,8 @@ This episode is a treasure trove of insights for aspiring and current startup fo
 
 
 <a href="https://youtube.com/watch?v=m7LvNTbaqSI" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [The Full Story of Mark Rober](./20221207-markrober-colinandsamir.md)**

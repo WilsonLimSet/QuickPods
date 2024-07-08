@@ -56,3 +56,8 @@ This commitment to creator empowerment, even as the platform evolves with new fo
 
 
 <a href="https://youtube.com/watch?v=vqM8hKlnhRY" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Jeff Bezos: Amazon and Blue Origin | Lex Fridman Podcast #405](./20231214-jeffbezos-lexfridman.md)**

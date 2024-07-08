@@ -86,3 +86,8 @@ Altman's message is clear: **identify important problems, build something users 
 
 
 <a href="https://youtube.com/watch?v=CxKXJWf-WMg" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Pattern Breakers: How to find a breakthrough startup idea | Mike Maples, Jr. (Partner at Floodgate)](./20240707-mikemaplesjr-lennyspodcast.md)**

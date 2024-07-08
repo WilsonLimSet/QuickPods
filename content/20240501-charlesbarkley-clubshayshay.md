@@ -50,3 +50,8 @@ Barkley's conversation is filled with humor, honesty, and wisdom, offering a gli
 
 
 <a href="https://youtube.com/watch?v=_nlfQQh5lU0" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [NVIDIA CEO Jensen Huang](./20231015-jensenhuang-acquired.md)**

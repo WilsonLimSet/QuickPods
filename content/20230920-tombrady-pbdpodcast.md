@@ -57,3 +57,8 @@ Ultimately, Brady's story is a testament to the power of discipline, resilience,
 
 
 <a href="https://youtube.com/watch?v=liz8rZx1NJ8" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [John Schulman (OpenAI Cofounder) - Reasoning, RLHF, & Plan for 2027 AGI](./20240515-johnschulman-dwarkeshpatel.md)**

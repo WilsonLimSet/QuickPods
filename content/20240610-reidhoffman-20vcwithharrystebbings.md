@@ -48,3 +48,8 @@ The conversation delves into a multitude of thought-provoking topics, leaving li
 ---
         
 <a href="https://youtube.com/watch?v=edYGzszdcUo" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu](./20220731-crystalwidjaja-lennyspodcast.md)**

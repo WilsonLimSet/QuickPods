@@ -57,3 +57,8 @@ Ultimately, Johnson's philosophy centers on the two words that encapsulate his m
 
 
 <a href="https://youtube.com/watch?v=xpvOhgoKrg4" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Brian Chesky’s new playbook](./20231112-brianchesky-lennyspodcast.md)**

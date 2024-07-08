@@ -61,3 +61,8 @@ This powerful quote encapsulates Bosh's approach to life. He encourages us to em
 
 
 <a href="https://youtube.com/watch?v=RDVjcauBw20" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Blitzscaling 02: Sam Altman on Y Combinator and What Makes The Best Founders](./20150930-samaltman-greylock.md)**

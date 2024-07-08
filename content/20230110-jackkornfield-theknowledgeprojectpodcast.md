@@ -73,3 +73,8 @@ This interview offered a potent reminder that we have the power to choose how we
 
 
 <a href="https://youtube.com/watch?v=D9ayv-y4XBo" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Khabib Nurmagomedov Opens Up - Possible Comeback | LGBTQ | Hardest Puncher | Fathers Influence](./20230821-khabibnurmagomedov-pbdpodcast.md)**
