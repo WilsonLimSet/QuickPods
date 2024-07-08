@@ -109,7 +109,7 @@ def main():
     ##CURATED_PLAYLIST = f"https://www.youtube.com/playlist?list={playlist_id}"
     # Optional Manual Playlist here:
     CURATED_PLAYLIST = (
-        f"https://www.youtube.com/playlist?list=PL-GTGzXj_qq9yuL5RHo33fmIUIeSwNZEv"
+        f"https://www.youtube.com/playlist?list=PL-GTGzXj_qq_hzY_YOo7NsyW7fSDwyNeJ"
     )
     print(f"Curated playlist URL: {CURATED_PLAYLIST}")
     summarizer = Summarizer()
@@ -139,6 +139,9 @@ def main():
 
     # else:
     #     print("Failed to create or update the playlist.")
+# else:
+#     print("Failed to create or update the playlist.")
+
 
 
 if __name__ == "__main__":

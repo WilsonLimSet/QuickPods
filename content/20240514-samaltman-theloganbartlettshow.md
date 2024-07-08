@@ -53,7 +53,4 @@ This interview with Sam Altman was a powerful reminder that the future of AI is 
         
 <a href="https://youtube.com/watch?v=fMtbrKhXMWc" target="_blank">Watch the podcast here!</a>
 
-
----
-
 **Read another blog about [Why every MrBeast video gets 200M views (interview)](./20240528-jimmydonaldson-jonyoushaei.md)**

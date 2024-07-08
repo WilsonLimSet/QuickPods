@@ -53,3 +53,4 @@ This quote perfectly captures the passion, dedication, and sense of purpose that
 ---
 
 **Read another blog about [Advice from investor who backed 40 Unicorns l Elad Gil](./20240327-eladgil-eo.md)**
+
