@@ -1,9 +1,9 @@
 
----
+
 title: "Taxi mafias, cash vaults & 100% MoM growth: The story of SEA’s biggest startup | Kevin Aluwi (Gojek)"
 date: "2023-03-26"
 tags: [Tech, Innovation, AI]
----
+
 
 ##  Gojek's Unlikely Rise: From Scrappy Startup to Southeast Asian Super App 
 
@@ -74,14 +74,10 @@ As for what’s next for Kevin, he’s currently taking time to explore new inte
 Gojek’s story is an inspiration for entrepreneurs worldwide, demonstrating that with dedication, ingenuity, and a deep understanding of your market, even the most ambitious goals can be achieved, even if it means embracing the hard way.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=HVB-dqjUJks" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [10K Users from Product Launch Day 1 | TomoCredit Kristy Kim](./20240409-kristykim-eo.md)**
+**Read another blog about [We interviewed the CEO of YouTube](./20231009-nealmohan-colinandsamir)**

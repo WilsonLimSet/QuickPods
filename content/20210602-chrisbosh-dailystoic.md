@@ -1,9 +1,9 @@
 
----
+
 title: "Chris Bosh on Stoicism, Embracing the Process, and Staying Present"
 date: "2021-06-02"
 tags: [Tech, Innovation, AI]
----
+
 
 ## Finding Your Rhythm: Life Lessons from Chris Bosh
 
@@ -55,14 +55,10 @@ Bosh's early retirement taught him invaluable lessons about life's fragility and
 This powerful quote encapsulates Bosh's approach to life. He encourages us to embrace challenges, learn from setbacks, and keep striving for growth. "Letters to a Young Athlete" is a must-read for anyone seeking guidance on navigating life's journey.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=RDVjcauBw20" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Blitzscaling 02: Sam Altman on Y Combinator and What Makes The Best Founders](./20150930-samaltman-greylock.md)**
+**Read another blog about [Tom Brady Opens up - 7th Ring Motivation MJ or Belichick | Enemies | Style of Leadership](./20230920-tombrady-pbdpodcast)**

@@ -1,9 +1,9 @@
 
----
+
 title: "He sold his company to Amazon for $970,000,000 ft @JustinKanTV​"
 date: "2021-08-02"
 tags: [Tech, Innovation, AI]
----
+
 
 ## From Streaming Life 24/7 to a Billion-Dollar Exit: The Justin Kan Story
 
@@ -40,14 +40,10 @@ Selling a company for almost a billion dollars didn't solve all of Justin's prob
 This quote underscores the immense impact of Justin Kan's journey.  He started by streaming his everyday life, a seemingly mundane idea that evolved into a platform that revolutionized the way we consume and interact with online content.  His story is a reminder that groundbreaking ideas can come from unexpected places, and that success isn't just about financial rewards, but also about finding personal fulfillment and connecting with others in meaningful ways.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=wUOdBXYIMM8" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Download Day 2024 — Fireside Chat: NVIDIA Founder & CEO Jensen Huang and Recursion's Chris Gibson](./20240628-jensenhuang-recursion.md)**
+**Read another blog about [When JPMorgan CEO Jamie Dimon Speaks, the World Listens | The Circuit](./20240417-jamiedimon-bloombergoriginals)**

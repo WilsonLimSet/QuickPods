@@ -1,9 +1,9 @@
 
----
+
 title: "Stephen Curry On Building The Warriors Culture, Battling LeBron & Kyrie, Changing The NBA & More"
 date: "2022-11-22"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Joy of Steph: An Inside Look at Basketball Brilliance
 
@@ -69,14 +69,10 @@ This leads to a final reflection on legacies and the constant pressure to be ran
 >  "I still get lost in the game. And when you have a ball in your hands, it’s just a different energy that I have and I want to keep that for as long as I can." - Steph Curry
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=-I8D7tQwnJA" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Keith Rabois' Unique Investment Strategy (Exclusive Interview 2024)](./20240430-keithrabois-rexsalisbury.md)**
+**Read another blog about [Brian Chesky’s new playbook](./20231112-brianchesky-lennyspodcast)**

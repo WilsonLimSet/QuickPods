@@ -1,9 +1,9 @@
 
----
+
 title: "We interviewed the Mozart of Gen Z"
 date: "2024-03-04"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Creative Journey of Jacob Collier: A Masterclass in Embracing the Unknown
 
@@ -49,14 +49,10 @@ As AI becomes increasingly integrated into the creative process, the ability to 
 > "It's not how many people have I reached, it's of the people that I reached, how many of those did I move?"
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=y7rvDA3MARk" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Sleep Is Non-Negotiable: Dr. Matthew Walker | Rich Roll Podcast](./20210510-matthewwalker-richroll.md)**
+**Read another blog about [GM’s $280 Billion Bet on EVs | The Circuit](./20240501-marybarra-bloombergoriginals)**

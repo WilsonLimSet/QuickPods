@@ -1,9 +1,9 @@
 
----
+
 title: "How I built a billion dollar coffee company called Kopi Kenangan"
 date: "2024-05-20"
 tags: [Tech, Innovation, AI]
----
+
 
 ##  From Break-Ups To Billions: The Kopi Kenangan Story
 
@@ -43,14 +43,10 @@ With plans to reach 3,000 locations by 2028 and dreams of a US stock market list
 Kopi Kenangan demonstrates that sometimes, the key to standing out in a globalized world is to stay true to your roots. By embracing local tastes and a culture of constant learning, Kopi Kenangan has gone from a small Jakarta tea shop to a unicorn startup poised to conquer the global coffee scene.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=CL8BRqw9QBg" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Beckham on Netflix Doc & Messi | Stick to Football EP 2](./20231004-davidbeckham-theoverlap.md)**
+**Read another blog about [Alex Wang: Why Data Not Compute is the Bottleneck to Foundation Model Performance | E1164](./20240612-alexandrwang-20vcwithharrystebbings)**

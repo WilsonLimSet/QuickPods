@@ -1,9 +1,9 @@
 
----
+
 title: "A Practical Guide on Finding Inner Peace | Jack Kornfield | Knowledge Project Podcast 156"
 date: "2023-01-10"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Two Kinds of Suffering: An Interview with Jack Kornfield
 
@@ -67,14 +67,10 @@ He offered a free 40-day course on his website, jackkornfield.com, called Mindfu
 This interview offered a potent reminder that we have the power to choose how we respond to life's challenges. By cultivating mindfulness, compassion, and intention, we can move from a life of fear and reactivity to one of connection, presence, and genuine freedom.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=D9ayv-y4XBo" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Khabib Nurmagomedov Opens Up - Possible Comeback | LGBTQ | Hardest Puncher | Fathers Influence](./20230821-khabibnurmagomedov-pbdpodcast.md)**
+**Read another blog about [Ted Chiang on Free Will, Time Travel, Many Worlds, Genetic Engineering, and Hard Science Fiction](./20190919-tedchiang-manifold)**

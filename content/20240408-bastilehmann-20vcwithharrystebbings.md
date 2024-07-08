@@ -1,9 +1,9 @@
 
----
+
 title: "Bastian Lehmann: How the Uber Deal Went Down and How a $2.65BN Deal Turned into $5BN | E1137"
 date: "2024-04-08"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Gritty Truth Behind Success: A Conversation with Bastian Lehmann
 
@@ -76,14 +76,10 @@ Beyond all the strategies and predictions, the core message resonating from Bast
 This simple yet powerful statement encapsulates the essence of Bastian's approach to entrepreneurship. It's not about luck, hype, or even VC connections.  It's about the unwavering commitment, the relentless drive to push forward, and the refusal to let go of your dream, even when the world seems stacked against you.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=k6KUiq8VJkw" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [The Full Story of Mark Rober](./20221207-markrober-colinandsamir.md)**
+**Read another blog about [Bryan Johnson: The Five Science-Backed Habits For Longer Living](./20240220-bryanjohnson-theknowledgeprojectpodcast)**

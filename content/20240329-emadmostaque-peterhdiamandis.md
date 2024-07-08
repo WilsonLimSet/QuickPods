@@ -1,9 +1,9 @@
 
----
+
 title: "Why I'm Leaving My Company Immediately (Stability AI) w/ Emad Mostaque | EP #93"
 date: "2024-03-29"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Future of AI: A Conversation with Emad Mostaque
 
@@ -38,14 +38,10 @@ Mostaque's interview is not just a warning, but a call to action. He aims to bui
 Mostaque's resignation from Stability AI might seem counterintuitive, but it's a testament to his commitment to this grand vision. He steps away from the helm of a successful company to devote himself to a far greater mission – building an AI future that truly benefits all of humanity. His story is a potent reminder that the future of AI is not predetermined. The choices we make today will shape the path we take, and ultimately, decide whether AI becomes a force for good or a tool for control.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=e1UgzSTicuY" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [The Underdog: He Turned His Last $4,000 Into $48M](./20230927-aaronspivak-starterstory.md)**
+**Read another blog about [Advice from investor who backed 40 Unicorns l Elad Gil](./20240327-eladgil-eo)**

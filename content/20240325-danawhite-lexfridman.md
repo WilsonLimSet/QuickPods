@@ -1,9 +1,9 @@
 
----
+
 title: "Dana White: UFC, Fighting, Khabib, Conor, Tyson, Ali, Rogan, Elon & Zuck | Lex Fridman Podcast #421"
 date: "2024-03-25"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Mind of a Fighter: Insights from Dana White, President of the UFC
 
@@ -46,14 +46,10 @@ White argues that fighting is ingrained in human DNA and that combat sports tap 
 This interview provides a fascinating glimpse into the mind of Dana White, a man who has not only built a multi-billion dollar business but also revolutionized the way we view combat sports.  It’s a testament to the power of passion, the allure of the fight, and the captivating stories that unfold both inside and outside the Octagon.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=k7aQEqDbuf8" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Reed Hastings, Chairman and Co-Founder of Netflix](./20240223-reedhastings-stanfordgraduateschoolofbusiness.md)**
+**Read another blog about [How I Turned $49k In Debt To $500 Million](./20240503-patrickbetdavid-noahkagan)**

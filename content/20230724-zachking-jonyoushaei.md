@@ -1,9 +1,9 @@
 
----
+
 title: "How Zach King Built His $500M Empire (Interview)"
 date: "2023-07-24"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Magic of Zach King: Behind the Scenes of Viral Video Success
 
@@ -43,14 +43,10 @@ For aspiring creators, Zach’s advice is simple:
 Zach’s journey highlights the evolving landscape of content creation. It’s not just about technical skills but about fostering a collaborative environment, embracing new technologies, and staying true to your artistic vision. As he puts it, "There’s no secrets here, there’s no intellectual property on them. You know, Kevin Perry is a good friend of mine and he’s an incredible creator, and like I’m blown away by how he makes everything pretty much I think by himself. Um or I know by himself for the most part. Um his wife will jump in and help here and there but like he's like a he's a creator’s solo creator, like he is um the king of that.”
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=xmGO98delaM" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Bastian Lehmann: How the Uber Deal Went Down and How a $2.65BN Deal Turned into $5BN | E1137](./20240408-bastilehmann-20vcwithharrystebbings.md)**
+**Read another blog about [Charles Barkley On MJ vs Scottie Pippen, Marcus Jordan & Larsa Pippen, Shaq vs Kendrick Perkins](./20240501-charlesbarkley-clubshayshay)**

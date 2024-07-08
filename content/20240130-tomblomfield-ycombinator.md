@@ -1,9 +1,9 @@
 
----
+
 title: "Tom Blomfield: How I Created Two Billion-Dollar Fintech Startups"
 date: "2024-01-30"
 tags: [Tech, Innovation, AI]
----
+
 
 ## Choosing Your Path: Lessons from a Serial Entrepreneur
 
@@ -32,14 +32,10 @@ Blomfield's story isn't just about building companies; it's about choosing a pat
 **"No smarter or harder working than you or me - you have the chance to create something, to define the rules, and make the world a little different."**
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=QKPgBAnbc10" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Ted Chiang on Free Will, Time Travel, Many Worlds, Genetic Engineering, and Hard Science Fiction](./20190919-tedchiang-manifold.md)**
+**Read another blog about [When JPMorgan CEO Jamie Dimon Speaks, the World Listens | The Circuit](./20240417-jamiedimon-bloombergoriginals)**

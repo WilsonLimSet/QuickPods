@@ -1,9 +1,9 @@
 
----
+
 title: "Mark Cuban: Shark Tank, DEI & Wokeism Debate, Elon Musk, Politics & Drugs | Lex Fridman Podcast #422"
 date: "2024-03-29"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Algorithm Rules All: A Conversation with Mark Cuban
 
@@ -41,14 +41,10 @@ On the subject of AI, Cuban expresses optimism, believing that its potential ben
 **"The person who controls the algorithm controls the world." - Mark Cuban**
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=0cn3VBjfN8g" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Tom Brady Opens up - 7th Ring Motivation MJ or Belichick | Enemies | Style of Leadership](./20230920-tombrady-pbdpodcast.md)**
+**Read another blog about [We interviewed the CEO of YouTube](./20231009-nealmohan-colinandsamir)**

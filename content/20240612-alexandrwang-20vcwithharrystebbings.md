@@ -1,9 +1,9 @@
 
----
+
 title: "Alex Wang: Why Data Not Compute is the Bottleneck to Foundation Model Performance | E1164"
 date: "2024-06-12"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Future of AI: A Conversation with Alex Wang, CEO of Scale AI
 
@@ -66,10 +66,10 @@ Finally, we discussed some essential company-building principles in the age of A
 This conversation with Alex was a powerful reminder of the transformative potential of AI, but also the challenges and risks that lie ahead.  As the industry evolves, companies and individuals alike must prioritize data strategy, talent development, and a clear-eyed understanding of both the opportunities and the potential pitfalls of this revolutionary technology.
 
 ---
-        
+
 <a href="https://youtube.com/watch?v=jNbEr9F0wiE" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Ted Chiang on Free Will, Time Travel, Many Worlds, Genetic Engineering, and Hard Science Fiction](./20190919-tedchiang-manifold.md)**
+**Read another blog about [What I learned from building $3.5B business | Verkada, Filip Kaliszan](./20240508-filipkaliszan-eo)**

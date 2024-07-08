@@ -1,9 +1,9 @@
 
----
+
 title: "The Power Broker and Superstar Agent Behind LeBron James, Draymond Green, and Others | Rich Paul"
 date: "2023-10-09"
 tags: [Tech, Innovation, AI]
----
+
 
 ## From Candy Counter to Championship Deals: Rich Paul's Story
 
@@ -56,14 +56,10 @@ Paul's memoir, aptly titled "Lucky Me: A Memoir of Changing the Odds," reflects 
 **"Kindness never hurts, love is never wasted, unity starts with you, trust makes it possible, community is a mentality, and honesty keeps it real." - Rich Paul**
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=t1yWC-HufEA" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Jeff Bezos: Amazon and Blue Origin | Lex Fridman Podcast #405](./20231214-jeffbezos-lexfridman.md)**
+**Read another blog about [Sam Altman talks GPT-4o and Predicts the Future of AI](./20240514-samaltman-theloganbartlettshow)**

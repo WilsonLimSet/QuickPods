@@ -1,9 +1,9 @@
 
----
+
 title: "Sleep Is Non-Negotiable: Dr. Matthew Walker | Rich Roll Podcast"
 date: "2021-05-10"
 tags: [Tech, Innovation, AI]
----
+
 
 ## The Shocking Truth About Sleep: Why You Can't Afford to Shortchange Yourself
 
@@ -53,14 +53,10 @@ Dr. Walker likens sleep to a master dial that influences all other health metric
 This conversation with Dr. Walker was a wake-up call, highlighting the undeniable importance of sleep for all facets of human health. We cannot afford to ignore the science any longer. It's time to prioritize sleep and recognize its power to transform our lives.
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=xTvxa0Rlhpg" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Morgan Housel: What You Need to Master (And Avoid) to Get Rich, Stay Rich, and Build Wealth](./20240528-morganhousel-theknowledgeprojectpodcast.md)**
+**Read another blog about [How I built a billion dollar coffee company called Kopi Kenangan](./20240520-edwardtirtanata-cnbcinternational)**

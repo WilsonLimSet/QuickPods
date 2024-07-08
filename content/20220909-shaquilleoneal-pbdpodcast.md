@@ -1,9 +1,9 @@
 
----
+
 title: "Shaq Opens Up About Kobe, Creating Wealth & Life"
 date: "2022-09-09"
 tags: [Tech, Innovation, AI]
----
+
 
 ## Shaq: More Than a Superman
 
@@ -45,14 +45,10 @@ Shaq's journey is a testament to the power of dedication, resilience, and stayin
 > **"When I'm playing, I'm on that court, you can't outplay me because if you are, you're taking my mother's house away. And I can't have that. So I will damn there kill you... I will damn there kill you before I let you take my mother's house away."**
 
 ---
-        
-
-
-
 
 <a href="https://youtube.com/watch?v=V4VEFcff4DQ" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [We interviewed the CEO of YouTube](./20231009-nealmohan-colinandsamir.md)**
+**Read another blog about [Asking Doctor Mike About Health in Technology](./20230623-mikevarshavski-wvfrmpodcast)**
