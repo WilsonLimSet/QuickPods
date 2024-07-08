@@ -77,3 +77,8 @@ This quote encapsulates the essence of achieving strong product market fit: the 
 
 
 <a href="https://youtube.com/watch?v=yc1Uwhfxacs" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Coatue’s Laffont on AI Darlings and Opportunities in Today’s Markets](./20240625-philippelaffont-bloomberglive.md)**

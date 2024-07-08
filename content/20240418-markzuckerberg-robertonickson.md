@@ -58,3 +58,8 @@ Overall, the interview paints a picture of a visionary leader who is deeply pass
 
 
 <a href="https://youtube.com/watch?v=8HrzoEvLWH0" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Tom Blomfield: How I Created Two Billion-Dollar Fintech Startups](./20240130-tomblomfield-ycombinator.md)**

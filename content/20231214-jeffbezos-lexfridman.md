@@ -58,3 +58,8 @@ Bezos ended the interview with this crucial piece of advice. It encapsulates his
 
 
 <a href="https://youtube.com/watch?v=DcWqzZ3I2cY" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [A framework for finding product-market fit | Todd Jackson (First Round Capital)](./20240411-toddjackson-lennyspodcast.md)**

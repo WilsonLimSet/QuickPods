@@ -61,3 +61,8 @@ This quote perfectly encapsulates Stripe's vision: to be the underlying infrastr
 
 
 <a href="https://youtube.com/watch?v=qrDZhAxpKrQ" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Erik Allebest: Scaling to $100M Revenue, 150M Members and 700 People, All with No Vc Funding | E1113](./20240207-erikallebest-20vcwithharrystebbings.md)**

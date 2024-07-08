@@ -54,3 +54,8 @@ Chamath's final message resonates: By observing the present, understanding ourse
 
 
 <a href="https://youtube.com/watch?v=v9pipH75L_E" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Gallant on Making R&B Music On His Own Terms, Youtube Comments, Perseverance Through Early Doubters](./20191105-gallant-hardknocktv.md)**

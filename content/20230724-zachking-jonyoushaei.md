@@ -49,3 +49,8 @@ Zach’s journey highlights the evolving landscape of content creation. It’s n
 
 
 <a href="https://youtube.com/watch?v=xmGO98delaM" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Bastian Lehmann: How the Uber Deal Went Down and How a $2.65BN Deal Turned into $5BN | E1137](./20240408-bastilehmann-20vcwithharrystebbings.md)**

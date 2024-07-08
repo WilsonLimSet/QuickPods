@@ -52,3 +52,8 @@ Eric's story is a powerful reminder that there's no one-size-fits-all approach t
 
 
 <a href="https://youtube.com/watch?v=sT3isR06-fg" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Reid Hoffman: The Future of TikTok and The Inflection AI Deal | E1163](./20240610-reidhoffman-20vcwithharrystebbings.md)**

@@ -58,3 +58,8 @@ Legacy, a word often associated with public figures, holds a deeper meaning for 
 
 
 <a href="https://youtube.com/watch?v=w1PqgPMmVdY" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [We interviewed the CEO of YouTube](./20231009-nealmohan-colinandsamir.md)**

@@ -44,3 +44,8 @@ Mostaque's resignation from Stability AI might seem counterintuitive, but it's a
 
 
 <a href="https://youtube.com/watch?v=e1UgzSTicuY" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [The Underdog: He Turned His Last $4,000 Into $48M](./20230927-aaronspivak-starterstory.md)**

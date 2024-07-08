@@ -73,3 +73,8 @@ Ultimately, Stoicism offers a framework for living a meaningful and fulfilling l
 
 
 <a href="https://youtube.com/watch?v=nnw5BdPfPWs" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Starbucks (with Howard Schultz)](./20240604-howardschultz-acquired.md)**

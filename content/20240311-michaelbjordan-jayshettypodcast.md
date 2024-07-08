@@ -46,3 +46,8 @@ Jordan’s thoughtful insights and unwavering dedication to his purpose inspire 
 
 
 <a href="https://youtube.com/watch?v=FlibCSZ93gM" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [How I Turned $49k In Debt To $500 Million](./20240503-patrickbetdavid-noahkagan.md)**

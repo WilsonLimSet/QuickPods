@@ -52,3 +52,8 @@ Ek's story is a powerful reminder that success is not always a linear path.  He 
 
 
 <a href="https://youtube.com/watch?v=w_35cUaU_NA" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Mark Zuckerberg on Meta AI, Fighting in the UFC, Llama 3, Legacy, Metaverse & More](./20240418-markzuckerberg-robertonickson.md)**

@@ -62,3 +62,8 @@ Paul's memoir, aptly titled "Lucky Me: A Memoir of Changing the Odds," reflects 
 
 
 <a href="https://youtube.com/watch?v=t1yWC-HufEA" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Jeff Bezos: Amazon and Blue Origin | Lex Fridman Podcast #405](./20231214-jeffbezos-lexfridman.md)**

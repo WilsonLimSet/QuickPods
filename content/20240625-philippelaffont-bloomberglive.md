@@ -44,3 +44,6 @@ This captivating conversation with [Investor Name] offers a glimpse into the exc
 ---
         
 <a href="https://youtube.com/watch?v=_nuSOMooReY" target="_blank">Watch the podcast here!</a>
+
+
+**Read another blog about [Mark Cuban: Shark Tank, DEI & Wokeism Debate, Elon Musk, Politics & Drugs | Lex Fridman Podcast #422](./20240329-markcuban-lexfridman.md)**

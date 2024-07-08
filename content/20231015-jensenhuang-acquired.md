@@ -48,3 +48,8 @@ He concludes with a powerful statement that captures the essence of his entrepre
 
 
 <a href="https://youtube.com/watch?v=y6NfxiemvHg" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [How Netflix builds a culture of excellence | Elizabeth Stone (CTO)](./20240222-elizabethstone-lennyspodcast.md)**

@@ -54,3 +54,8 @@ This quote encapsulates his approach to life:  clarity, intentionality, and a wi
 
 
 <a href="https://youtube.com/watch?v=9G5dXlMGMf8" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Download Day 2024 — Fireside Chat: NVIDIA Founder & CEO Jensen Huang and Recursion's Chris Gibson](./20240628-jensenhuang-recursion.md)**

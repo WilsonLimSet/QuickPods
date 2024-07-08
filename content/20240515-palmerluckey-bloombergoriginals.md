@@ -54,3 +54,8 @@ The US faces a critical juncture in its technological rivalry with China. Whethe
 
 
 <a href="https://youtube.com/watch?v=ItLFpYha6Wc" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [How Future Billionaires Get Sh*t Done](./20220331-paulgraham-ycombinator.md)**

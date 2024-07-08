@@ -68,3 +68,8 @@ This conversation with Alex was a powerful reminder of the transformative potent
 ---
         
 <a href="https://youtube.com/watch?v=jNbEr9F0wiE" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Ted Chiang on Free Will, Time Travel, Many Worlds, Genetic Engineering, and Hard Science Fiction](./20190919-tedchiang-manifold.md)**

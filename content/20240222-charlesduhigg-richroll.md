@@ -60,3 +60,8 @@ Ultimately, the most meaningful transformations are often rooted in a deeper und
 
 
 <a href="https://youtube.com/watch?v=YWamRVY9ZKg" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Mark Cuban: Shark Tank, DEI & Wokeism Debate, Elon Musk, Politics & Drugs | Lex Fridman Podcast #422](./20240329-markcuban-lexfridman.md)**

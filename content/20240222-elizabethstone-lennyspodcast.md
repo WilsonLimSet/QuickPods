@@ -84,3 +84,8 @@ Elizabeth's insights offer valuable lessons for leaders across all industries. H
 
 
 <a href="https://youtube.com/watch?v=2XgU6T4DalY" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Gallant on Making R&B Music On His Own Terms, Youtube Comments, Perseverance Through Early Doubters](./20191105-gallant-hardknocktv.md)**

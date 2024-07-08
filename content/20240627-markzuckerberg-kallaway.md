@@ -53,3 +53,8 @@ _"This I think is... is going to be the beginning of something interesting... I 
 ---
         
 <a href="https://youtube.com/watch?v=m88OV10vRLA" target="_blank">Watch the podcast here!</a>
+
+---
+
+**Read another blog about [Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale](./20151130-brianchesky-greylock.md)**
+

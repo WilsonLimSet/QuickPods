@@ -63,3 +63,8 @@ In closing, Dimon left us with a powerful statement highlighting the critical im
 
 
 <a href="https://youtube.com/watch?v=yKtw4of-j0E" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Brian Chesky’s new playbook](./20231112-brianchesky-lennyspodcast.md)**

@@ -46,3 +46,8 @@ This episode of Acquired goes far beyond the traditional success story. It's a d
 
 
 <a href="https://youtube.com/watch?v=A0fvX-wV70Y" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Charles Barkley On MJ vs Scottie Pippen, Marcus Jordan & Larsa Pippen, Shaq vs Kendrick Perkins](./20240501-charlesbarkley-clubshayshay.md)**

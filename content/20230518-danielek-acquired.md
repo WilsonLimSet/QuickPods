@@ -60,3 +60,8 @@ Ultimately, Ek believes that Spotify is only now truly defining its own unique c
 
 
 <a href="https://youtube.com/watch?v=5iLbbuEecJU" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Jeff Bezos: Amazon and Blue Origin | Lex Fridman Podcast #405](./20231214-jeffbezos-lexfridman.md)**

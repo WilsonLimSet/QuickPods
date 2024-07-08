@@ -56,3 +56,8 @@ As Ryan Holiday aptly states:
 
 
 <a href="https://youtube.com/watch?v=CWvOKHNeLMI" target="_blank">Watch the podcast here!</a>
+
+
+---
+
+**Read another blog about [Telegram Creator on Elon Musk, Resisting FBI Attacks, and Getting Mugged in California](./20240416-paveldurov-tuckercarlson.md)**
