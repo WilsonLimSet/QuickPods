@@ -1,9 +1,9 @@
 
-
+---
 title: "Arnold Schwarzenegger Is The Influencer We Need Right Now | Rich Roll Podcast"
 date: "2023-10-02"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Arnold Schwarzenegger: More Than Just Muscles - The Power of Service 
 
@@ -35,10 +35,14 @@ In a culture where victimhood and powerlessness are often emphasized, Arnold sta
 This conversation showcases the depth and complexity of Arnold Schwarzenegger's character, going beyond the muscles and Hollywood persona. It reveals a man driven by a deep desire to make a difference in the world, inspiring listeners to embrace the power of service and strive to "be useful".
 
 ---
+        
+
+
+
 
 <a href="https://youtube.com/watch?v=0setn-FtDs8" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Ryan Holiday ON: How To AVOID BEING MISERABLE For The Rest of Your Life | Jay Shetty](./20230508-ryanholiday-jayshettypodcast)**
+**Read another blog about [What YouTube’s CEO Really Thinks About YouTube | The Circuit with Emily Chang](./20240529-nealmohan-bloombergoriginals.md)**

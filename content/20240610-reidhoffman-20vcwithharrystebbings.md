@@ -1,9 +1,9 @@
 
-
+---
 title: "Reid Hoffman: The Future of TikTok and The Inflection AI Deal | E1163"
 date: "2024-06-10"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Wisdom of Reid Hoffman: A Conversation on AI, Incumbents, and the Future
 
@@ -46,10 +46,10 @@ The conversation delves into a multitude of thought-provoking topics, leaving li
 "The real issue is AI is a human amplifier… I'm a lot less worried that the robots are coming than Putin is coming with his AI enablement."
 
 ---
-
+        
 <a href="https://youtube.com/watch?v=edYGzszdcUo" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Alex Wang: Why Data Not Compute is the Bottleneck to Foundation Model Performance | E1164](./20240612-alexandrwang-20vcwithharrystebbings)**
+**Read another blog about [How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu](./20220731-crystalwidjaja-lennyspodcast.md)**

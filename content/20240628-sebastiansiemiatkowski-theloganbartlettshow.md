@@ -1,9 +1,9 @@
 
-
+---
 title: "Sebastian Siemiatkowski (CEO, Klarna) on the Future of Klarna, Valuation Changes and AI in Finance"
 date: "2024-06-28"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Klarna CEO: The Unexpected Value of Honesty and Hard Work
 
@@ -47,9 +47,11 @@ Siemiatkowski shares his perspective on working with venture capitalists, highli
 
 Siemiatkowski's candid reflections offer valuable lessons for anyone navigating the rollercoaster of entrepreneurship. His emphasis on honesty, hard work, and the power of human connection are essential ingredients for building a business that not only generates profit but also creates lasting value for customers and society alike.
 
-<a href="https://youtube.com/watch?v=lYaiyi2ZX6Q" target="_blank">Watch the podcast here!</a>
-
+---
+        
+<a href="https://youtube.com/watch?v=V81MT9B5irU" target="_blank">Watch the podcast here!</a>
 
 ---
 
-**Read another blog about [NVIDIA CEO Jensen Huang](./20231015-jensenhuang-acquired)**
+**Read another blog about [Mark Cuban: Shark Tank, DEI & Wokeism Debate, Elon Musk, Politics & Drugs | Lex Fridman Podcast #422](./20240329-markcuban-lexfridman.md)**
+

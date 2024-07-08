@@ -1,9 +1,9 @@
 
-
+---
 title: "Asking Doctor Mike About Health in Technology"
 date: "2023-06-23"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Is Your Tech Making You Healthier, Or Just More Anxious?
 
@@ -47,10 +47,14 @@ However, he cautions against the idea of AI replacing doctors entirely. The huma
 Ultimately, Dr. Mike's message is one of caution and empowerment. He urges us to approach health tech with a critical eye, remembering that **"life has so many variables. There's so many things that can go wrong that are outside of our control... Thinking that you now have the grasp of control by doing one sport or another... It's ridiculous."**
 
 ---
+        
+
+
+
 
 <a href="https://youtube.com/watch?v=B_CSzCer1-4" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Why every MrBeast video gets 200M views (interview)](./20240528-jimmydonaldson-jonyoushaei)**
+**Read another blog about [Every Lesson From Scaling Datadog to $40B](./20240614-olivierpomel-theloganbartlettshow.md)**

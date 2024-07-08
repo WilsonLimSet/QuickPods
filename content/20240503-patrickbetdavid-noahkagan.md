@@ -1,9 +1,9 @@
 
-
+---
 title: "How I Turned $49k In Debt To $500 Million"
 date: "2024-05-03"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## From War Zones to the Yankees: The Unstoppable Story of Patrick Bet-David
 
@@ -50,10 +50,10 @@ But for Patrick, the story isn't about the money. It's about using his platform 
 Patrick Bet-David's story is a powerful reminder that success is a journey, not a destination. Through hard work, perseverance, and a commitment to his values, he has achieved a level of success most only dream of. But more importantly, he is using his platform to inspire others, proving that the American dream is still alive and well for those who dare to chase it.
 
 ---
-
-<a href="https://youtube.com/watch?v=U3EaDKXvSY8" target="_blank">Watch the podcast here!</a>
-
+        
 
 ---
 
-**Read another blog about [Erik Allebest: Scaling to $100M Revenue, 150M Members and 700 People, All with No Vc Funding | E1113](./20240207-erikallebest-20vcwithharrystebbings)**
+**Read another blog about [Tom Brady Opens up - 7th Ring Motivation MJ or Belichick | Enemies | Style of Leadership](./20230920-tombrady-pbdpodcast.md)**
+
+<a href="https://youtube.com/watch?v=U3EaDKXvSY8" target="_blank">Watch the podcast here!</a>

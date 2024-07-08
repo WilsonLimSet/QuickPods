@@ -1,9 +1,9 @@
 
-
+---
 title: "A conversation with NVIDIA’s Jensen Huang"
 date: "2024-05-21"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Unexpected Wisdom of Jensen Huang: A Celebration of Hard Work, Pain, and... Acne?
 
@@ -44,10 +44,14 @@ Huang painted a compelling picture of the future powered by AI, where tokens, re
 Huang’s session was a refreshing departure from conventional tech talks.  It was a testament to the power of hard work, resilience, and a relentless pursuit of innovation, even in the face of adversity. As we navigate the rapidly evolving landscape of AI, his insights offer valuable guidance for entrepreneurs, leaders, and anyone striving to build something truly remarkable.
 
 ---
+        
+
+
+
 
 <a href="https://youtube.com/watch?v=8Pfa8kPjUio" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Google CEO Sundar Pichai and the Future of AI | The Circuit](./20240508-sundarpichai-bloombergoriginals)**
+**Read another blog about [Bastian Lehmann: How the Uber Deal Went Down and How a $2.65BN Deal Turned into $5BN | E1137](./20240408-bastilehmann-20vcwithharrystebbings.md)**

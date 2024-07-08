@@ -1,9 +1,9 @@
 
-
+---
 title: "Trent Alexander-Arnold: "I Owe Everything To Klopp.""
 date: "2024-04-16"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Mind of a Modern Full-Back: A Conversation with Trent Alexander-Arnold
 
@@ -36,10 +36,14 @@ Neville and Alexander-Arnold engage in a captivating discussion about the evolvi
 This interview leaves the listener with a sense of awe at the talent and tactical awareness of Trent Alexander-Arnold. It also provides a valuable perspective on the evolution of the full-back role in modern football, showcasing the increasing demands and responsibilities placed upon these players.
 
 ---
+        
+
+
+
 
 <a href="https://youtube.com/watch?v=1dh1qU1ReeU" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [How MKBHD Became The Most Powerful Man in Tech](./20240425-marquesbrownlee-jonyoushaei)**
+**Read another blog about [A framework for finding product-market fit | Todd Jackson (First Round Capital)](./20240411-toddjackson-lennyspodcast.md)**

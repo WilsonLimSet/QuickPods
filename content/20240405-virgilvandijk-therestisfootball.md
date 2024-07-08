@@ -1,9 +1,9 @@
 
-
+---
 title: "Virgil van Dijk’s Hardest Opponents, Winning A Champions League & The Klopp Effect | EP 103"
 date: "2024-04-05"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## An Afternoon with Virgil van Dijk: The Rest is Football Podcast 
 
@@ -71,10 +71,14 @@ The podcast concludes with Virgil looking ahead to the summer and the upcoming E
 This interview gives a fascinating insight into the mindset of a true champion. It's a story of resilience, dedication, and the power of believing in yourself. Virgil van Dijk's journey is far from over, and it's clear that the best is yet to come.
 
 ---
+        
+
+
+
 
 <a href="https://youtube.com/watch?v=MzIM6ez19rs" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [The Power Broker and Superstar Agent Behind LeBron James, Draymond Green, and Others | Rich Paul](./20231009-richpaul-timferriss)**
+**Read another blog about [Joe Rogan Experience #1309 - Naval Ravikant](./20190604-navalravikant-powerfuljre.md)**

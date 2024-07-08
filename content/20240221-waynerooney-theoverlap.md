@@ -1,9 +1,9 @@
 
-
+---
 title: "Rooney: United Career, Management & Boxing? | Stick to Football EP 20"
 date: "2024-02-21"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Wayne Rooney: More Than Just A Goal Scorer
 
@@ -41,10 +41,14 @@ The conversation with Wayne Rooney reveals a multi-faceted individual, driven by
 > "I always think when you say you're old school, I think it's honesty and a willingness to work." - Wayne Rooney
 
 ---
+        
+
+
+
 
 <a href="https://youtube.com/watch?v=_5p4LAemduE" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Spotify Founder: How A 23 Year Old Introvert Built A $31 Billion Business!](./20230928-whitneywolfeherd-thediaryofaceo)**
+**Read another blog about [Mark Zuckerberg on Meta AI, Fighting in the UFC, Llama 3, Legacy, Metaverse & More](./20240418-markzuckerberg-robertonickson.md)**

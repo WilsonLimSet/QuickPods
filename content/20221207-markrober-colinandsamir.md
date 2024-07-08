@@ -1,9 +1,9 @@
 
-
+---
 title: "The Full Story of Mark Rober"
 date: "2022-12-07"
 tags: [Tech, Innovation, AI]
-
+---
 
 ##  Why Mark Rober Jogs and Doesn't Sprint: An Interview with the Engineering YouTube Star
 
@@ -77,10 +77,14 @@ Rober emphasizes the importance of understanding your "why" for creating content
 > "Do it right, take your time, enjoy the ride…like, enjoy the ride. If you’re not enjoying the present, like what are you living for? You will never arrive at the moment where you like, feel happy about things." - Mark Rober
 
 ---
+        
+
+
+
 
 <a href="https://youtube.com/watch?v=1t5oYKEn-1E" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Sleep Is Non-Negotiable: Dr. Matthew Walker | Rich Roll Podcast](./20210510-matthewwalker-richroll)**
+**Read another blog about [Bryan Johnson: The Five Science-Backed Habits For Longer Living](./20240220-bryanjohnson-theknowledgeprojectpodcast.md)**

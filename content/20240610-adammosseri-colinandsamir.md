@@ -1,9 +1,9 @@
 
-
+---
 title: "An honest conversation with the CEO of Instagram"
 date: "2024-06-10"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## A Conversation with Adam Mosseri: The Future of Instagram and the Rise of the Creator
 
@@ -56,10 +56,10 @@ Mosseri's biggest concern is the world evolving faster than platforms can keep u
 > "The reason why I am not interested in pursuing long-form video in a meaningful way is because I don't want to erode… our heart… like, our core reason to exist."
 
 ---
-
+        
 <a href="https://youtube.com/watch?v=HDzhA_UFrnA" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Kunal Shah on winning in India, second-order thinking, the philosophy of startups, and more](./20240324-kunalshah-lennyspodcast)**
+**Read another blog about [Jeff Bezos: Amazon and Blue Origin | Lex Fridman Podcast #405](./20231214-jeffbezos-lexfridman.md)**

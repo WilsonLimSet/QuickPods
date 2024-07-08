@@ -1,8 +1,8 @@
-
+---
 title: "Jeff Bezos: Amazon and Blue Origin | Lex Fridman Podcast #405"
 date: "2023-12-14"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Jeff Bezos: The Ranch, Rockets, and the Relentless Pursuit of Day One Thinking
 
@@ -53,9 +53,13 @@ Bezos ended the interview with this crucial piece of advice. It encapsulates his
 
 ---
 
+
+
+
+
 <a href="https://youtube.com/watch?v=DcWqzZ3I2cY" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [He sold his company to Amazon for $970,000,000 ft @JustinKanTV​](./20210802-justinkan-colinandsamir)**
+**Read another blog about [A framework for finding product-market fit | Todd Jackson (First Round Capital)](./20240411-toddjackson-lennyspodcast.md)**

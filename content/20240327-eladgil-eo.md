@@ -1,9 +1,9 @@
 
-
+---
 title: "Advice from investor who backed 40 Unicorns l Elad Gil"
 date: "2024-03-27"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## A Silicon Valley Journey: From Layoffs to Building Billion-Dollar Companies
 
@@ -86,10 +86,14 @@ Finally, Gil reiterates his belief in technology as a positive force for the wor
 **Key Quote:** "Technology is an incredibly important part of human progress… The important thing for me is to be part of contributing to that technology world and working with the most important technologies and therefore the most important technology companies in the world over time."
 
 ---
+        
+
+
+
 
 <a href="https://youtube.com/watch?v=nLA90pa-34A" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Blitzscaling 11: Patrick Collison on Hiring at Stripe and the Role of a Product-Focused CEO](./20151104-patrickcollison-greylock)**
+**Read another blog about [Google CEO Sundar Pichai and the Future of AI | The Circuit](./20240508-sundarpichai-bloombergoriginals.md)**

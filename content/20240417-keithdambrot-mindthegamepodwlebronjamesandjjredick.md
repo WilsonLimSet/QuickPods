@@ -1,9 +1,9 @@
 
-
+---
 title: "The NBA Playoffs | LeBron James and JJ Redick | Mind the Game"
 date: "2024-04-17"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Pressure Cooker: Insights into the NBA Playoffs with LeBron James and Coach Dambrot
 
@@ -53,10 +53,14 @@ LeBron's takeaway perfectly encapsulates the importance of this often overlooked
 This powerful message resonated throughout the episode, reminding listeners that while basketball is a game of strategy, skill, and even luck, success at the highest level requires a holistic approach that embraces the human element.
 
 ---
+        
+
+
+
 
 <a href="https://youtube.com/watch?v=8vXXSNLL1IE" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Starbucks (with Howard Schultz)](./20240604-howardschultz-acquired)**
+**Read another blog about [Ted Chiang on Free Will, Time Travel, Many Worlds, Genetic Engineering, and Hard Science Fiction](./20190919-tedchiang-manifold.md)**

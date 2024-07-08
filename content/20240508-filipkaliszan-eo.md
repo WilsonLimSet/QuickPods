@@ -1,9 +1,9 @@
 
-
+---
 title: "What I learned from building $3.5B business | Verkada, Filip Kaliszan"
 date: "2024-05-08"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Building Verkada: Lessons Learned From a Silicon Valley Success Story
 
@@ -49,10 +49,14 @@ Ultimately, Phillip’s advice to aspiring entrepreneurs boils down to this:
 Phillip's journey with Verkada highlights the power of customer feedback, the importance of building a strong team culture, and the need for persistence in the face of challenges. His insights offer valuable lessons for anyone looking to build a successful company in the dynamic world of Silicon Valley.
 
 ---
+        
+
+
+
 
 <a href="https://youtube.com/watch?v=ZfNox6j8oxM" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Erik Allebest: Scaling to $100M Revenue, 150M Members and 700 People, All with No Vc Funding | E1113](./20240207-erikallebest-20vcwithharrystebbings)**
+**Read another blog about [John Schulman (OpenAI Cofounder) - Reasoning, RLHF, & Plan for 2027 AGI](./20240515-johnschulman-dwarkeshpatel.md)**

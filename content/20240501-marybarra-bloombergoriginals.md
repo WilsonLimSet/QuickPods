@@ -1,9 +1,9 @@
 
-
+---
 title: "GM’s $280 Billion Bet on EVs | The Circuit"
 date: "2024-05-01"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Hummer, the Hustle, and the Heart of Detroit: A Conversation with Mary Barra 
 
@@ -50,10 +50,14 @@ Mary Barra is a leader who embodies the grit and determination of Detroit. She's
 Her journey is a reminder that transformation, whether for a company or a city, is rarely easy. It requires vision, courage, and unwavering belief in the power of innovation and human resilience. As she puts it, "You have to keep working hard and dreaming big. I hope every middle schooler, every high schooler, they have the opportunity to dream big.”
 
 ---
+        
+
+
+
 
 <a href="https://youtube.com/watch?v=AeWWmARalVQ" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Why I'm Leaving My Company Immediately (Stability AI) w/ Emad Mostaque | EP #93](./20240329-emadmostaque-peterhdiamandis)**
+**Read another blog about [Virgil van Dijk’s Hardest Opponents, Winning A Champions League & The Klopp Effect | EP 103](./20240405-virgilvandijk-therestisfootball.md)**

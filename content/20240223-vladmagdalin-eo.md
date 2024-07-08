@@ -1,9 +1,9 @@
 
-
+---
 title: "How I Built A $4B Startup Called WebflowㅣWebflow, Vlad Magdalin"
 date: "2024-02-23"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Power of an Idea: Building Webflow Against All Odds
 
@@ -53,10 +53,14 @@ This focus on people and purpose, combined with Vlad's unwavering belief in his 
 >  "Ideas are very important to me. I think that bringing ideas into the world is one of the most important things that people do. And I think that great ideas, these things take on lives of their own, which give meaning to our lives as people."
 
 ---
+        
+
+
+
 
 <a href="https://youtube.com/watch?v=6Bso2GYLoME" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Sleep Is Non-Negotiable: Dr. Matthew Walker | Rich Roll Podcast](./20210510-matthewwalker-richroll)**
+**Read another blog about [Stephen Curry On Building The Warriors Culture, Battling LeBron & Kyrie, Changing The NBA & More](./20221122-stephencurry-jjredick.md)**

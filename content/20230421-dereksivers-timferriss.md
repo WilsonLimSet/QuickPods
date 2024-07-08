@@ -1,9 +1,9 @@
 
-
+---
 title: "Derek Sivers — Finding Paths Less Traveled, Taking Giant Leaps, and Picking the Right “Game of Life”"
 date: "2023-04-21"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Unoptimized Life: Embracing Enough with Derek Sivers
 
@@ -46,10 +46,14 @@ Sivers encourages us to deconstruct isms and accept ideas piecemeal, acknowledgi
 **This episode offers a refreshing perspective on life's priorities, urging us to challenge assumptions, embrace enough, and find joy in the unoptimized moments.  A must-listen for anyone seeking a thoughtful, unconventional approach to personal liberation and fulfillment.**
 
 ---
+        
+
+
+
 
 <a href="https://youtube.com/watch?v=0BaDQCjqUHU" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [I Asked a $100M Founder for Life Advice](./20231116-ericwei-jayhoovy)**
+**Read another blog about [Palantir CEO Karp on TITAN, AI Warfare Technology](./20240307-alexkarp-bloombergtelevision.md)**

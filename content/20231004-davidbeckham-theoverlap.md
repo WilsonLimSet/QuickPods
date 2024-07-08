@@ -1,9 +1,9 @@
 
-
+---
 title: "Beckham on Netflix Doc & Messi | Stick to Football EP 2"
 date: "2023-10-04"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Beyond The Bentley: David Beckham on Messi, Sir Alex and Family
 
@@ -41,10 +41,14 @@ Throughout the ups and downs of his career, Beckham's family remained his consta
 Beckham's interview paints a vivid picture of a man driven by passion, loyalty, and above all, love for his family.  He ultimately demonstrates that even amidst global fame and fortune, the greatest joy lies in the unwavering support of loved ones.
 
 ---
+        
+
+
+
 
 <a href="https://youtube.com/watch?v=kllZgD9_bVc" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [How I Built A $4B Startup Called WebflowㅣWebflow, Vlad Magdalin](./20240223-vladmagdalin-eo)**
+**Read another blog about [Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale](./20151130-brianchesky-greylock.md)**

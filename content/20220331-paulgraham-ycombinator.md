@@ -1,9 +1,9 @@
 
-
+---
 title: "How Future Billionaires Get Sh*t Done"
 date: "2022-03-31"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## How Future Billionaires Get Sh*t Done
 
@@ -28,10 +28,14 @@ Founders should acknowledge the inherent risk in pursuing ambitious goals.  Inst
 > **"If you're proud of the job you did, you know, if you if you had heart and you gave it your all and you feel like you learned stuff, then great job! And you should view this as an affirmative experience."** - Dalton Caldwell
 
 ---
+        
+
+
+
 
 <a href="https://youtube.com/watch?v=ephzgxgOjR0" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [How I Turned $49k In Debt To $500 Million](./20240503-patrickbetdavid-noahkagan)**
+**Read another blog about [Tim Ferriss On Solving Problems With People And Using Stoicism To Make Better Decisions](./20240124-timferriss-dailystoic.md)**

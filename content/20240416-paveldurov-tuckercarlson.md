@@ -1,9 +1,9 @@
 
-
+---
 title: "Telegram Creator on Elon Musk, Resisting FBI Attacks, and Getting Mugged in California"
 date: "2024-04-16"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Man Who Refused to Compromise: A Conversation with Pavel Durov, Founder of Telegram
 
@@ -46,10 +46,14 @@ Durov's approach to building Telegram is as unconventional as his commitment to 
 Durov's story is a compelling testament to the power of conviction. In a world where tech companies are often seen as extensions of government power or slaves to market pressures, Telegram stands as a beacon of independence and a powerful platform for the free exchange of ideas. His unwavering commitment to his values is a stark reminder that true freedom comes at a price, and for Durov, that price is worth paying.
 
 ---
+        
+
+
+
 
 <a href="https://youtube.com/watch?v=1Ut6RouSs0w" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Asking Doctor Mike About Health in Technology](./20230623-mikevarshavski-wvfrmpodcast)**
+**Read another blog about [This SKILL Is Our #1 Human Superpower | Charles Duhigg X Rich Roll Podcast](./20240222-charlesduhigg-richroll.md)**

@@ -1,9 +1,9 @@
 
-
+---
 title: "Athelas is the Rippling of Healthcare: Use $4 Trillion to improve healthcare"
 date: "2023-10-06"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Healthcare Revolution: How Athelas is Conquering Paperwork and Saving Lives
 
@@ -53,10 +53,14 @@ Athelas is actively hiring talented individuals to join their mission.  They bel
 Don't miss your chance to be part of this revolution. Check out the link in the description to apply to Athelas and help build the future of healthcare.
 
 ---
+        
+
+
+
 
 <a href="https://youtube.com/watch?v=9iSZ12osxHM" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Download Day 2024 — Fireside Chat: NVIDIA Founder & CEO Jensen Huang and Recursion's Chris Gibson](./20240628-jensenhuang-recursion)**
+**Read another blog about [Kunal Shah on winning in India, second-order thinking, the philosophy of startups, and more](./20240324-kunalshah-lennyspodcast.md)**

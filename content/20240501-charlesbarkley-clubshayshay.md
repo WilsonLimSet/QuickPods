@@ -1,9 +1,9 @@
 
-
+---
 title: "Charles Barkley On MJ vs Scottie Pippen, Marcus Jordan & Larsa Pippen, Shaq vs Kendrick Perkins"
 date: "2024-05-01"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Charles Barkley: From Round Mound of Rebound to Voice of Reason
 
@@ -44,10 +44,14 @@ Barkley delves into his thoughts on the evolution of basketball, acknowledging t
 Barkley's conversation is filled with humor, honesty, and wisdom, offering a glimpse into the heart and mind of an NBA icon. He leaves us with a powerful message about the importance of taking responsibility for our actions, using our platforms for good, and recognizing the giants whose shoulders we stand upon. As Barkley poignantly states: **"We should always give credit to the guys who came before us. Always."**
 
 ---
+        
+
+
+
 
 <a href="https://youtube.com/watch?v=_nlfQQh5lU0" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Gallant on Making R&B Music On His Own Terms, Youtube Comments, Perseverance Through Early Doubters](./20191105-gallant-hardknocktv)**
+**Read another blog about [NVIDIA CEO Jensen Huang](./20231015-jensenhuang-acquired.md)**

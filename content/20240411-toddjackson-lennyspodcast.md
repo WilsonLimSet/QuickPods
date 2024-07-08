@@ -1,9 +1,9 @@
 
-
+---
 title: "A framework for finding product-market fit | Todd Jackson (First Round Capital)"
 date: "2024-04-11"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Unlocking Product Market Fit: A Journey in 4 Levels
 
@@ -71,10 +71,14 @@ Finding PMF is a long and arduous journey, but it's the single most important th
 This quote encapsulates the essence of achieving strong product market fit: the market starts pulling you along, and growth becomes a natural byproduct of your success.
 
 ---
+        
+
+
+
 
 <a href="https://youtube.com/watch?v=yc1Uwhfxacs" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Keynote by NVIDIA CEO Jensen Huang at 2024 SIEPR Economic Summit](./20240307-jensenhuang-stanfordinstituteforeconomicpolicyresearchsiepr)**
+**Read another blog about [Coatue’s Laffont on AI Darlings and Opportunities in Today’s Markets](./20240625-philippelaffont-bloomberglive.md)**

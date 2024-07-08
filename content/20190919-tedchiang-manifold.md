@@ -1,9 +1,9 @@
 
-
+---
 title: "Ted Chiang on Free Will, Time Travel, Many Worlds, Genetic Engineering, and Hard Science Fiction"
 date: "2019-09-19"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## The Science and Philosophy of Ted Chiang
 
@@ -52,10 +52,14 @@ Ted Chiang's work challenges us to think critically about the nature of the univ
 As Chiang eloquently states, "**In the same way that science itself can be understood, not so much as a collection of facts, but as a way of looking at the universe, a way of approaching the universe, a way of understanding the universe... there's a certain scientific mindset, a worldview, which I think is... the true essence of science as a human endeavor."**
 
 ---
+        
+
+
+
 
 <a href="https://youtube.com/watch?v=xNB_89vZ0y4" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [How I built a billion dollar coffee company called Kopi Kenangan](./20240520-edwardtirtanata-cnbcinternational)**
+**Read another blog about [Ray Dalio’s Principles of Investing in a Changing World | WSJ News](./20240523-raydalio-wsjnews.md)**

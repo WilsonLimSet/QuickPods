@@ -1,9 +1,9 @@
 
-
+---
 title: "Tim Ferriss On Solving Problems With People And Using Stoicism To Make Better Decisions"
 date: "2024-01-24"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Reframing Success and Stoicism: A Conversation with Tim Ferriss
 
@@ -67,10 +67,14 @@ Through consistent action, we build a foundation for Stoic thinking. These small
 Ultimately, Stoicism offers a framework for living a meaningful and fulfilling life, not by chasing external validation or material wealth, but by cultivating inner strength, aligning your actions with your values, and serving a purpose larger than yourself. It's a philosophy for thriving in the face of both adversity and abundance, and our conversation was a powerful reminder that the ancient wisdom of Stoicism remains as relevant and applicable as ever in our modern world.
 
 ---
+        
+
+
+
 
 <a href="https://youtube.com/watch?v=nnw5BdPfPWs" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Derek Sivers — Finding Paths Less Traveled, Taking Giant Leaps, and Picking the Right “Game of Life”](./20230421-dereksivers-timferriss)**
+**Read another blog about [Starbucks (with Howard Schultz)](./20240604-howardschultz-acquired.md)**

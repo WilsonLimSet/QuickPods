@@ -1,9 +1,9 @@
 
-
+---
 title: "Brian Chesky’s new playbook"
 date: "2023-11-12"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Clarity and Cohesion: The Key to Airbnb's Product Development Revolution
 
@@ -60,10 +60,14 @@ Despite his success, Chesky embraces a beginner's mindset and constantly seeks o
 **"If you're a founder, what I would tell you is, the problem with finding a negotiation between how you want to run the company and the people you want, is that's a good way to make everyone miserable. Because what everyone really wants is clarity. And what everyone really wants is to be able to row in the same direction really quickly." - Brian Chesky**
 
 ---
+        
+
+
+
 
 <a href="https://youtube.com/watch?v=4ef0juAMqoE" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Success Starts at the End of Your Comfort ZoneㅣChartmetric, Sung M. Cho](./20240115-sungcho-eo)**
+**Read another blog about [Stephen Curry On Building The Warriors Culture, Battling LeBron & Kyrie, Changing The NBA & More](./20221122-stephencurry-jjredick.md)**

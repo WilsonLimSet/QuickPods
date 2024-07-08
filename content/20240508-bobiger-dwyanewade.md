@@ -1,9 +1,9 @@
 
-
+---
 title: "Coming out of Retirement with Bob Iger | The Why with Dwyane Wade"
 date: "2024-05-08"
 tags: [Tech, Innovation, AI]
-
+---
 
 ##  The Unquenchable Fire: A Conversation with Bob Iger
 
@@ -52,10 +52,14 @@ Legacy, a word often associated with public figures, holds a deeper meaning for 
 **"To thine own self be true."** - A Shakespeare quote inscribed in his yearbook by his father, this has become Iger's guiding principle. It speaks to the importance of authenticity, integrity, and self-awareness – crucial qualities for navigating a life in the public eye while remaining true to one's core values.
 
 ---
+        
+
+
+
 
 <a href="https://youtube.com/watch?v=w1PqgPMmVdY" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Sebastian Siemiatkowski (CEO, Klarna) on the Future of Klarna, Valuation Changes and AI in Finance](./20240628-sebastiansiemiatkowski-theloganbartlettshow)**
+**Read another blog about [We interviewed the CEO of YouTube](./20231009-nealmohan-colinandsamir.md)**

@@ -1,9 +1,9 @@
 
-
+---
 title: "Knowledge of A Lifelong Software Engineer | Benjamin Mann, Delivery Hero"
 date: "2024-04-30"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Thriving in Chaos: Lessons from a Global Food Delivery CTO
 
@@ -35,10 +35,14 @@ Ben's journey from software engineer to CTO is a testament to the power of perse
 Ben's journey is a powerful reminder that building a successful tech career involves more than technical skills. It's about embracing challenges, prioritizing the customer, and leading with a positive and adaptable mindset.
 
 ---
+        
+
+
+
 
 <a href="https://youtube.com/watch?v=spGQpp7twgs" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [The social radar: Y Combinator’s secret weapon | Jessica Livingston (co-founder of YC, author)](./20240627-jessicalivingston-lennyspodcast)**
+**Read another blog about [Dana White: UFC, Fighting, Khabib, Conor, Tyson, Ali, Rogan, Elon & Zuck | Lex Fridman Podcast #421](./20240325-danawhite-lexfridman.md)**

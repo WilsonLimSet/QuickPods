@@ -1,9 +1,9 @@
 
-
+---
 title: "When JPMorgan CEO Jamie Dimon Speaks, the World Listens | The Circuit"
 date: "2024-04-17"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## A Glimpse into the Mind of a Financial Titan: Jamie Dimon
 
@@ -57,10 +57,14 @@ To conclude, I want to leave you with a powerful quote from Jamie Dimon that enc
 This statement underscores Dimon's commitment to not just financial success, but also to leveraging his influence to make a positive impact on the world.
 
 ---
+        
+
+
+
 
 <a href="https://youtube.com/watch?v=9Kl-wO_j5GM" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [F1 Driver Charles Leclerc Unveils The Real Behind The Scenes of Formula 1 Racing](./20240527-charlesleclerc-jayshettypodcast)**
+**Read another blog about [Beckham on Netflix Doc & Messi | Stick to Football EP 2](./20231004-davidbeckham-theoverlap.md)**

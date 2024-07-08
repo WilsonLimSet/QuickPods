@@ -1,9 +1,9 @@
 
-
+---
 title: "Blitzscaling 11: Patrick Collison on Hiring at Stripe and the Role of a Product-Focused CEO"
 date: "2015-11-04"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Scaling Stripe: Insights from Patrick Collison
 
@@ -55,10 +55,14 @@ The most impactful takeaway from Patrick's lecture was his emphasis on the evolv
 This quote perfectly encapsulates Stripe's vision: to be the underlying infrastructure that enables the next generation of online businesses to thrive.
 
 ---
+        
+
+
+
 
 <a href="https://youtube.com/watch?v=qrDZhAxpKrQ" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [What I learned from building $3.5B business | Verkada, Filip Kaliszan](./20240508-filipkaliszan-eo)**
+**Read another blog about [Erik Allebest: Scaling to $100M Revenue, 150M Members and 700 People, All with No Vc Funding | E1113](./20240207-erikallebest-20vcwithharrystebbings.md)**

@@ -1,9 +1,9 @@
 
-
+---
 title: "Mark Zuckerberg on Creators, AI Studio, Neural Wristbands, Holographic Smart Glasses, Picasso & More"
 date: "2024-06-27"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Meta's AI Game Plan: A World of Personalized Experiences
 
@@ -51,10 +51,10 @@ While acknowledging concerns about AI replacing human jobs, Zuckerberg remains o
 _"This I think is... is going to be the beginning of something interesting... I think creator AIs... that’s going to start shifting to... people are going to start just interacting with... a much broader diversity of experiences and... that’s going to add a real richness to the... to the whole ecosystem that’s going to be great."_ - **Mark Zuckerberg**
 
 ---
-
+        
 <a href="https://youtube.com/watch?v=m88OV10vRLA" target="_blank">Watch the podcast here!</a>
-
 
 ---
 
-**Read another blog about [Khabib Nurmagomedov Opens Up - Possible Comeback | LGBTQ | Hardest Puncher | Fathers Influence](./20230821-khabibnurmagomedov-pbdpodcast)**
+**Read another blog about [Blitzscaling 18: Brian Chesky on Launching Airbnb and the Challenges of Scale](./20151130-brianchesky-greylock.md)**
+

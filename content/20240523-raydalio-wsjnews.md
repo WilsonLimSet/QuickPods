@@ -1,9 +1,9 @@
 
-
+---
 title: "Ray Dalio’s Principles of Investing in a Changing World | WSJ News"
 date: "2024-05-23"
 tags: [Tech, Innovation, AI]
-
+---
 
 ## Navigating the Changing World Order: An Investor's Perspective
 
@@ -45,10 +45,14 @@ For those starting their careers in this turbulent landscape, Dalio offers sage 
 Dalio's insights are both thought-provoking and practical, offering a valuable framework for navigating the complexities of the changing world order. By understanding the historical cycles, recognizing the key drivers of change, and embracing the principles of diversification and immunization, investors and individuals can better position themselves for the future.
 
 ---
+        
+
+
+
 
 <a href="https://youtube.com/watch?v=o5NQvY4eK8g" target="_blank">Watch the podcast here!</a>
 
 
 ---
 
-**Read another blog about [Arnold Schwarzenegger Is The Influencer We Need Right Now | Rich Roll Podcast](./20231002-arnoldschwarzenegger-richroll)**
+**Read another blog about [He sold his company to Amazon for $970,000,000 ft @JustinKanTV​](./20210802-justinkan-colinandsamir.md)**
