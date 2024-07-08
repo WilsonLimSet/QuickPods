@@ -49,4 +49,4 @@ Kopi Kenangan demonstrates that sometimes, the key to standing out in a globaliz
 
 ---
 
-**Read another blog about [Bryan Johnson: The Five Science-Backed Habits For Longer Living](./20240220-bryanjohnson-theknowledgeprojectpodcast)**
+**Read another blog about [Ray Dalio’s Principles of Investing in a Changing World | WSJ News](./20240523-raydalio-wsjnews)**

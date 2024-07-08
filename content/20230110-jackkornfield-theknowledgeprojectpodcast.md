@@ -73,4 +73,4 @@ This interview offered a potent reminder that we have the power to choose how we
 
 ---
 
-**Read another blog about [Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)](./20240407-clairevo-lennyspodcast)**
+**Read another blog about [We interviewed the Mozart of Gen Z](./20240304-jacobcollier-colinandsamir)**

@@ -84,4 +84,4 @@ Elizabeth's insights offer valuable lessons for leaders across all industries. H
 
 ---
 
-**Read another blog about [What YouTube’s CEO Really Thinks About YouTube | The Circuit with Emily Chang](./20240529-nealmohan-bloombergoriginals)**
+**Read another blog about [I asked a YC founder who quit his $800K job for advice](./20231121-rahulpandey-wilsonlimsetiawan)**

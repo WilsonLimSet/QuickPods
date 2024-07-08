@@ -50,4 +50,4 @@ Huang’s session was a refreshing departure from conventional tech talks.  It w
 
 ---
 
-**Read another blog about [What YouTube’s CEO Really Thinks About YouTube | The Circuit with Emily Chang](./20240529-nealmohan-bloombergoriginals)**
+**Read another blog about [Google CEO Sundar Pichai and the Future of AI | The Circuit](./20240508-sundarpichai-bloombergoriginals)**

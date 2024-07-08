@@ -73,4 +73,4 @@ Housel concludes by echoing this sentiment, emphasizing that aligning your finan
 
 ---
 
-**Read another blog about [Ray Dalio’s Principles of Investing in a Changing World | WSJ News](./20240523-raydalio-wsjnews)**
+**Read another blog about [Ted Chiang on Free Will, Time Travel, Many Worlds, Genetic Engineering, and Hard Science Fiction](./20190919-tedchiang-manifold)**

@@ -63,4 +63,4 @@ This statement underscores Dimon's commitment to not just financial success, but
 
 ---
 
-**Read another blog about [Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)](./20240407-clairevo-lennyspodcast)**
+**Read another blog about [F1 Driver Charles Leclerc Unveils The Real Behind The Scenes of Formula 1 Racing](./20240527-charlesleclerc-jayshettypodcast)**

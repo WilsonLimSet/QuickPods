@@ -77,4 +77,4 @@ In conclusion, DataDog’s journey is a testament to the power of staying true t
 
 ---
 
-**Read another blog about [How Future Billionaires Get Sh*t Done](./20220331-paulgraham-ycombinator)**
+**Read another blog about [I asked a YC founder who quit his $800K job for advice](./20231121-rahulpandey-wilsonlimsetiawan)**

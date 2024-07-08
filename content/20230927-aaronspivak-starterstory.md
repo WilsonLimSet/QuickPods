@@ -72,4 +72,4 @@ In a world saturated with brands vying for attention, Aaron and Lior's story is 
 
 ---
 
-**Read another blog about [A framework for finding product-market fit | Todd Jackson (First Round Capital)](./20240411-toddjackson-lennyspodcast)**
+**Read another blog about [Shaq Opens Up About Kobe, Creating Wealth & Life](./20220909-shaquilleoneal-pbdpodcast)**

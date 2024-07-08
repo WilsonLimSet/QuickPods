@@ -50,4 +50,4 @@ Leaving the conversation, I was struck by his humility, wisdom, and unwavering c
 
 ---
 
-**Read another blog about [Alex Wang: Why Data Not Compute is the Bottleneck to Foundation Model Performance | E1164](./20240612-alexandrwang-20vcwithharrystebbings)**
+**Read another blog about [Reid Hoffman: The Future of TikTok and The Inflection AI Deal | E1163](./20240610-reidhoffman-20vcwithharrystebbings)**

@@ -56,4 +56,4 @@ Her journey is a reminder that transformation, whether for a company or a city, 
 
 ---
 
-**Read another blog about [Keynote by NVIDIA CEO Jensen Huang at 2024 SIEPR Economic Summit](./20240307-jensenhuang-stanfordinstituteforeconomicpolicyresearchsiepr)**
+**Read another blog about [Why I'm Leaving My Company Immediately (Stability AI) w/ Emad Mostaque | EP #93](./20240329-emadmostaque-peterhdiamandis)**

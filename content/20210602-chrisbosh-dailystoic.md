@@ -61,4 +61,4 @@ This powerful quote encapsulates Bosh's approach to life. He encourages us to em
 
 ---
 
-**Read another blog about [Asking Doctor Mike About Health in Technology](./20230623-mikevarshavski-wvfrmpodcast)**
+**Read another blog about [How Zach King Built His $500M Empire (Interview)](./20230724-zachking-jonyoushaei)**

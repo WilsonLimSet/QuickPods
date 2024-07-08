@@ -57,4 +57,4 @@ Huang concluded his talk with an inspiring message about the democratizing power
 
 ---
 
-**Read another blog about [How I built a billion dollar coffee company called Kopi Kenangan](./20240520-edwardtirtanata-cnbcinternational)**
+**Read another blog about [Taxi mafias, cash vaults & 100% MoM growth: The story of SEA’s biggest startup | Kevin Aluwi (Gojek)](./20230326-kevinaluwi-lennyspodcast)**

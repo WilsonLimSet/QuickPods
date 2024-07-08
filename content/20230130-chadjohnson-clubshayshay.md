@@ -47,4 +47,4 @@ This interview reveals a side of Chad Johnson we rarely see – a man deeply dev
 
 ---
 
-**Read another blog about [Telegram Creator on Elon Musk, Resisting FBI Attacks, and Getting Mugged in California](./20240416-paveldurov-tuckercarlson)**
+**Read another blog about [Every Lesson From Scaling Datadog to $40B](./20240614-olivierpomel-theloganbartlettshow)**

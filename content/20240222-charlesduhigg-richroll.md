@@ -60,4 +60,4 @@ Ultimately, the most meaningful transformations are often rooted in a deeper und
 
 ---
 
-**Read another blog about [Reid Hoffman: The Future of TikTok and The Inflection AI Deal | E1163](./20240610-reidhoffman-20vcwithharrystebbings)**
+**Read another blog about [Keynote by NVIDIA CEO Jensen Huang at 2024 SIEPR Economic Summit](./20240307-jensenhuang-stanfordinstituteforeconomicpolicyresearchsiepr)**

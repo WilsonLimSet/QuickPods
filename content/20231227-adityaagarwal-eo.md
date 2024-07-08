@@ -60,4 +60,4 @@ In conclusion, Agrawal’s insights offer a refreshing perspective on entreprene
 
 ---
 
-**Read another blog about [Rooney: United Career, Management & Boxing? | Stick to Football EP 20](./20240221-waynerooney-theoverlap)**
+**Read another blog about [Bastian Lehmann: How the Uber Deal Went Down and How a $2.65BN Deal Turned into $5BN | E1137](./20240408-bastilehmann-20vcwithharrystebbings)**

@@ -52,4 +52,4 @@ This interview offers a valuable glimpse into the evolving world of the creator 
 
 ---
 
-**Read another blog about [A Practical Guide on Finding Inner Peace | Jack Kornfield | Knowledge Project Podcast 156](./20230110-jackkornfield-theknowledgeprojectpodcast)**
+**Read another blog about [GM’s $280 Billion Bet on EVs | The Circuit](./20240501-marybarra-bloombergoriginals)**

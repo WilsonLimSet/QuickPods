@@ -49,4 +49,4 @@ Zach’s journey highlights the evolving landscape of content creation. It’s n
 
 ---
 
-**Read another blog about [How Future Billionaires Get Sh*t Done](./20220331-paulgraham-ycombinator)**
+**Read another blog about [Google CEO Sundar Pichai and the Future of AI | The Circuit](./20240508-sundarpichai-bloombergoriginals)**

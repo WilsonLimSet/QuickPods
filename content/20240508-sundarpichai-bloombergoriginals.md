@@ -67,4 +67,4 @@ This conversation with Sundar Pichai provides valuable insights into Google's ap
 
 ---
 
-**Read another blog about [Derek Sivers — Finding Paths Less Traveled, Taking Giant Leaps, and Picking the Right “Game of Life”](./20230421-dereksivers-timferriss)**
+**Read another blog about [The Underdog: He Turned His Last $4,000 Into $48M](./20230927-aaronspivak-starterstory)**

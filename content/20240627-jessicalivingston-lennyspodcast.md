@@ -62,4 +62,4 @@ This quote, though blunt, encapsulates Jessica's philosophy and highlights the i
 
 ---
 
-**Read another blog about [Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)](./20240407-clairevo-lennyspodcast)**
+**Read another blog about [10K Users from Product Launch Day 1 | TomoCredit Kristy Kim](./20240409-kristykim-eo)**

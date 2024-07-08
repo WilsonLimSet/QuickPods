@@ -53,4 +53,4 @@ These attributes, he believes, are far more valuable in the long run than simply
 
 ---
 
-**Read another blog about [How to scrappily hire for, measure, and unlock growth | Crystal Widjaja, Gojek and Kumu](./20220731-crystalwidjaja-lennyspodcast)**
+**Read another blog about [Sebastian Siemiatkowski (CEO, Klarna) on the Future of Klarna, Valuation Changes and AI in Finance](./20240628-sebastiansiemiatkowski-theloganbartlettshow)**

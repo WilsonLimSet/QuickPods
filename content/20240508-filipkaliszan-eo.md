@@ -55,4 +55,4 @@ Phillip's journey with Verkada highlights the power of customer feedback, the im
 
 ---
 
-**Read another blog about [Chamath Palihapitiya: Freedom, Bitcoin, and First Principles | The Knowledge Project #94](./20201013-chamathpalihapitiya-theknowledgeprojectpodcast)**
+**Read another blog about [Erik Allebest: Scaling to $100M Revenue, 150M Members and 700 People, All with No Vc Funding | E1113](./20240207-erikallebest-20vcwithharrystebbings)**

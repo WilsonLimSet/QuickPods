@@ -57,4 +57,4 @@ Ultimately, Johnson's philosophy centers on the two words that encapsulate his m
 
 ---
 
-**Read another blog about [Ray Dalio’s Principles of Investing in a Changing World | WSJ News](./20240523-raydalio-wsjnews)**
+**Read another blog about [GM’s $280 Billion Bet on EVs | The Circuit](./20240501-marybarra-bloombergoriginals)**

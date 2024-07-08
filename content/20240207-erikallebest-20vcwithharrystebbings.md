@@ -52,4 +52,4 @@ Eric's story is a powerful reminder that there's no one-size-fits-all approach t
 
 ---
 
-**Read another blog about [Google CEO Sundar Pichai and the Future of AI | The Circuit](./20240508-sundarpichai-bloombergoriginals)**
+**Read another blog about [Schweinsteiger On United & Mourinho: ](./20240418-bastianschweinsteiger-theoverlap)**

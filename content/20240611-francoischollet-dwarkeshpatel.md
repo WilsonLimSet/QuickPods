@@ -56,4 +56,4 @@ The Arc benchmark and the million-dollar prize aim to answer this question by ch
 
 ---
 
-**Read another blog about [Schweinsteiger On United & Mourinho: ](./20240418-bastianschweinsteiger-theoverlap)**
+**Read another blog about [How I Built A $4B Startup Called WebflowㅣWebflow, Vlad Magdalin](./20240223-vladmagdalin-eo)**

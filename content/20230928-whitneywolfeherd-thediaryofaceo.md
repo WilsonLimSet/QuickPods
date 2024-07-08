@@ -52,4 +52,4 @@ Ek's story is a powerful reminder that success is not always a linear path.  He 
 
 ---
 
-**Read another blog about [Download Day 2024 — Fireside Chat: NVIDIA Founder & CEO Jensen Huang and Recursion's Chris Gibson](./20240628-jensenhuang-recursion)**
+**Read another blog about [Success Starts at the End of Your Comfort ZoneㅣChartmetric, Sung M. Cho](./20240115-sungcho-eo)**

@@ -59,4 +59,4 @@ This focus on people and purpose, combined with Vlad's unwavering belief in his 
 
 ---
 
-**Read another blog about [Stephen Curry On Building The Warriors Culture, Battling LeBron & Kyrie, Changing The NBA & More](./20221122-stephencurry-jjredick)**
+**Read another blog about [Sleep Is Non-Negotiable: Dr. Matthew Walker | Rich Roll Podcast](./20210510-matthewwalker-richroll)**

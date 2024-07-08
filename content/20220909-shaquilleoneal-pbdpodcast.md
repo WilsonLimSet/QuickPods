@@ -51,4 +51,4 @@ Shaq's journey is a testament to the power of dedication, resilience, and stayin
 
 ---
 
-**Read another blog about [Bastian Lehmann: How the Uber Deal Went Down and How a $2.65BN Deal Turned into $5BN | E1137](./20240408-bastilehmann-20vcwithharrystebbings)**
+**Read another blog about [I Asked a $100M Founder for Life Advice](./20231116-ericwei-jayhoovy)**

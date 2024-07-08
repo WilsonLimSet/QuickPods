@@ -75,4 +75,4 @@ This leads to a final reflection on legacies and the constant pressure to be ran
 
 ---
 
-**Read another blog about [Bending the universe in your favor | Claire Vo (LaunchDarkly, Color, Optimizely, ChatPRD)](./20240407-clairevo-lennyspodcast)**
+**Read another blog about [Keith Rabois' Unique Investment Strategy (Exclusive Interview 2024)](./20240430-keithrabois-rexsalisbury)**

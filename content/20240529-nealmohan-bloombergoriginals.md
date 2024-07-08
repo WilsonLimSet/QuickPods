@@ -73,4 +73,4 @@ This vision reflects YouTube's commitment to empowering creators, fostering a di
 
 ---
 
-**Read another blog about [Charles Barkley On MJ vs Scottie Pippen, Marcus Jordan & Larsa Pippen, Shaq vs Kendrick Perkins](./20240501-charlesbarkley-clubshayshay)**
+**Read another blog about [Stephen Curry On Building The Warriors Culture, Battling LeBron & Kyrie, Changing The NBA & More](./20221122-stephencurry-jjredick)**

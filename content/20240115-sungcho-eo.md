@@ -50,4 +50,4 @@ Seven years in, Chartmetric is approaching $7 million in annual recurring revenu
 
 ---
 
-**Read another blog about [Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)](./20240418-daltoncaldwell-lennyspodcast)**
+**Read another blog about [Simon Sinek: The Number One Reason Why You’re Not Succeeding | E145](./20220522-simonsinek-thediaryofaceo)**

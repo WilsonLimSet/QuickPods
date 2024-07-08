@@ -70,4 +70,4 @@ Don't overestimate the importance of past experience. A young, hungry candidate 
 
 ---
 
-**Read another blog about [What I learned from building $3.5B business | Verkada, Filip Kaliszan](./20240508-filipkaliszan-eo)**
+**Read another blog about [A Story that Unlocks Your Limit to GrowthㅣAditya Agarwal](./20231227-adityaagarwal-eo)**

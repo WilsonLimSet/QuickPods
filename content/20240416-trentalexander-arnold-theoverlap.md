@@ -42,4 +42,4 @@ This interview leaves the listener with a sense of awe at the talent and tactica
 
 ---
 
-**Read another blog about [The Underdog: He Turned His Last $4,000 Into $48M](./20230927-aaronspivak-starterstory)**
+**Read another blog about [How MKBHD Became The Most Powerful Man in Tech](./20240425-marquesbrownlee-jonyoushaei)**

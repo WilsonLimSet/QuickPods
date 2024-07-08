@@ -53,4 +53,4 @@ The time for action is now. Let’s start the conversation and pave the way for 
 
 ---
 
-**Read another blog about [Bill Ackman: Investing, Financial Battles, Harvard, DEI, X & Free Speech | Lex Fridman Podcast #413](./20240220-billackman-lexfridman)**
+**Read another blog about [Dana White: UFC, Fighting, Khabib, Conor, Tyson, Ali, Rogan, Elon & Zuck | Lex Fridman Podcast #421](./20240325-danawhite-lexfridman)**

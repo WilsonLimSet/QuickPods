@@ -68,4 +68,4 @@ Ultimately, Schweinsteiger's experience serves as a cautionary tale, highlightin
 
 ---
 
-**Read another blog about [Michael B. Jordan EXCLUSIVE: How To Connect With Your Intuition & Focus On Your Path](./20240311-michaelbjordan-jayshettypodcast)**
+**Read another blog about [Palmer Luckey Wants to Be Silicon Valley's War King | The Circuit](./20240515-palmerluckey-bloombergoriginals)**

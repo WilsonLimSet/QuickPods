@@ -46,4 +46,4 @@ This episode of Acquired goes far beyond the traditional success story. It's a d
 
 ---
 
-**Read another blog about [Tim Ferriss On Solving Problems With People And Using Stoicism To Make Better Decisions](./20240124-timferriss-dailystoic)**
+**Read another blog about [An honest conversation with the CEO of Instagram](./20240610-adammosseri-colinandsamir)**

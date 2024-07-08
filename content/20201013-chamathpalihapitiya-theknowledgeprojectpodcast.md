@@ -54,4 +54,4 @@ Chamath's final message resonates: By observing the present, understanding ourse
 
 ---
 
-**Read another blog about [What YouTube’s CEO Really Thinks About YouTube | The Circuit with Emily Chang](./20240529-nealmohan-bloombergoriginals)**
+**Read another blog about [How I built a billion dollar coffee company called Kopi Kenangan](./20240520-edwardtirtanata-cnbcinternational)**

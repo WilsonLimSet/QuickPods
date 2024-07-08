@@ -83,4 +83,4 @@ Rober emphasizes the importance of understanding your "why" for creating content
 
 ---
 
-**Read another blog about [Starbucks (with Howard Schultz)](./20240604-howardschultz-acquired)**
+**Read another blog about [Sleep Is Non-Negotiable: Dr. Matthew Walker | Rich Roll Podcast](./20210510-matthewwalker-richroll)**

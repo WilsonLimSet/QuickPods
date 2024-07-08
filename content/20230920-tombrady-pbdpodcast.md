@@ -57,4 +57,4 @@ Ultimately, Brady's story is a testament to the power of discipline, resilience,
 
 ---
 
-**Read another blog about [Starbucks (with Howard Schultz)](./20240604-howardschultz-acquired)**
+**Read another blog about [Blitzscaling 11: Patrick Collison on Hiring at Stripe and the Role of a Product-Focused CEO](./20151104-patrickcollison-greylock)**

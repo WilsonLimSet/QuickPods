@@ -59,4 +59,4 @@ This conversation with Dr. Walker was a wake-up call, highlighting the undeniabl
 
 ---
 
-**Read another blog about [The social radar: Y Combinator’s secret weapon | Jessica Livingston (co-founder of YC, author)](./20240627-jessicalivingston-lennyspodcast)**
+**Read another blog about [Advice from investor who backed 40 Unicorns l Elad Gil](./20240327-eladgil-eo)**

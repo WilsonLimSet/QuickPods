@@ -63,4 +63,4 @@ In closing, Dimon left us with a powerful statement highlighting the critical im
 
 ---
 
-**Read another blog about [I Asked a $15BN Investor for Life Advice](./20231009-grahamweaver-jayhoovy)**
+**Read another blog about [Kunal Shah on winning in India, second-order thinking, the philosophy of startups, and more](./20240324-kunalshah-lennyspodcast)**

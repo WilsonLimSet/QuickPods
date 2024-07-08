@@ -46,4 +46,4 @@ Ultimately, Eric's message is one of empowerment. By letting go of the need for 
 
 ---
 
-**Read another blog about [Mark Cuban: Shark Tank, DEI & Wokeism Debate, Elon Musk, Politics & Drugs | Lex Fridman Podcast #422](./20240329-markcuban-lexfridman)**
+**Read another blog about [Tom Blomfield: How I Created Two Billion-Dollar Fintech Startups](./20240130-tomblomfield-ycombinator)**

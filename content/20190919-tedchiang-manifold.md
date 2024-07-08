@@ -58,4 +58,4 @@ As Chiang eloquently states, "**In the same way that science itself can be under
 
 ---
 
-**Read another blog about [Taxi mafias, cash vaults & 100% MoM growth: The story of SEA’s biggest startup | Kevin Aluwi (Gojek)](./20230326-kevinaluwi-lennyspodcast)**
+**Read another blog about [How I built a billion dollar coffee company called Kopi Kenangan](./20240520-edwardtirtanata-cnbcinternational)**

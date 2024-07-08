@@ -47,4 +47,4 @@ The conversation with Wayne Rooney reveals a multi-faceted individual, driven by
 
 ---
 
-**Read another blog about [Mark Cuban: Shark Tank, DEI & Wokeism Debate, Elon Musk, Politics & Drugs | Lex Fridman Podcast #422](./20240329-markcuban-lexfridman)**
+**Read another blog about [Spotify Founder: How A 23 Year Old Introvert Built A $31 Billion Business!](./20230928-whitneywolfeherd-thediaryofaceo)**

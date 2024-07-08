@@ -44,4 +44,4 @@ Mostaque's resignation from Stability AI might seem counterintuitive, but it's a
 
 ---
 
-**Read another blog about [Mark Zuckerberg on Meta AI, Fighting in the UFC, Llama 3, Legacy, Metaverse & More](./20240418-markzuckerberg-robertonickson)**
+**Read another blog about [Spotify Founder: How A 23 Year Old Introvert Built A $31 Billion Business!](./20230928-whitneywolfeherd-thediaryofaceo)**

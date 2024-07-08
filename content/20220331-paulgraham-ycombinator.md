@@ -34,4 +34,4 @@ Founders should acknowledge the inherent risk in pursuing ambitious goals.  Inst
 
 ---
 
-**Read another blog about [Joe Rogan Experience #1309 - Naval Ravikant](./20190604-navalravikant-powerfuljre)**
+**Read another blog about [How I Turned $49k In Debt To $500 Million](./20240503-patrickbetdavid-noahkagan)**

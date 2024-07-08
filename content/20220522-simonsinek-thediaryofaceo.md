@@ -58,4 +58,4 @@ Sinek acknowledges the ongoing shifts in the work landscape, highlighting the ne
 
 ---
 
-**Read another blog about [When JPMorgan CEO Jamie Dimon Speaks, the World Listens | The Circuit](./20240417-jamiedimon-bloombergoriginals)**
+**Read another blog about [Lessons from 1,000+ YC startups: Resilience, tar pit ideas, pivoting, more | Dalton Caldwell (YC)](./20240418-daltoncaldwell-lennyspodcast)**

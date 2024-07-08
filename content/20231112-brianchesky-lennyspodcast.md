@@ -66,4 +66,4 @@ Despite his success, Chesky embraces a beginner's mindset and constantly seeks o
 
 ---
 
-**Read another blog about [We interviewed the CEO of YouTube](./20231009-nealmohan-colinandsamir)**
+**Read another blog about [Success Starts at the End of Your Comfort ZoneㅣChartmetric, Sung M. Cho](./20240115-sungcho-eo)**

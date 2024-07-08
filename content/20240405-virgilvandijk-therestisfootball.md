@@ -77,4 +77,4 @@ This interview gives a fascinating insight into the mindset of a true champion. 
 
 ---
 
-**Read another blog about [The NBA Playoffs | LeBron James and JJ Redick | Mind the Game](./20240417-keithdambrot-mindthegamepodwlebronjamesandjjredick)**
+**Read another blog about [The Power Broker and Superstar Agent Behind LeBron James, Draymond Green, and Others | Rich Paul](./20231009-richpaul-timferriss)**

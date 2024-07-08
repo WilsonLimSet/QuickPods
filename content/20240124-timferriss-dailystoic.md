@@ -73,4 +73,4 @@ Ultimately, Stoicism offers a framework for living a meaningful and fulfilling l
 
 ---
 
-**Read another blog about [21 Brutally Honest Lessons About Life - Alex Hormozi (4K)](./20240129-alexhormozi-chriswilliamson)**
+**Read another blog about [Derek Sivers — Finding Paths Less Traveled, Taking Giant Leaps, and Picking the Right “Game of Life”](./20230421-dereksivers-timferriss)**

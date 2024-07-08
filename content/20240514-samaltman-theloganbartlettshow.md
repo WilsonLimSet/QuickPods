@@ -56,4 +56,4 @@ This interview with Sam Altman was a powerful reminder that the future of AI is 
 
 ---
 
-**Read another blog about [Coming out of Retirement with Bob Iger | The Why with Dwyane Wade](./20240508-bobiger-dwyanewade)**
+**Read another blog about [Kunal Shah on winning in India, second-order thinking, the philosophy of startups, and more](./20240324-kunalshah-lennyspodcast)**

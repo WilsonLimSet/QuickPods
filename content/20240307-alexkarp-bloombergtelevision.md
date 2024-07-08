@@ -64,4 +64,4 @@ Karp acknowledges the confusion surrounding the software revolution, attributing
 
 ---
 
-**Read another blog about [Morgan Housel: What You Need to Master (And Avoid) to Get Rich, Stay Rich, and Build Wealth](./20240528-morganhousel-theknowledgeprojectpodcast)**
+**Read another blog about [Ray Dalio’s Principles of Investing in a Changing World | WSJ News](./20240523-raydalio-wsjnews)**

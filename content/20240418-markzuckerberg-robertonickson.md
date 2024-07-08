@@ -58,4 +58,4 @@ Overall, the interview paints a picture of a visionary leader who is deeply pass
 
 ---
 
-**Read another blog about [How Zach King Built His $500M Empire (Interview)](./20230724-zachking-jonyoushaei)**
+**Read another blog about [Sebastian Siemiatkowski (CEO, Klarna) on the Future of Klarna, Valuation Changes and AI in Finance](./20240628-sebastiansiemiatkowski-theloganbartlettshow)**

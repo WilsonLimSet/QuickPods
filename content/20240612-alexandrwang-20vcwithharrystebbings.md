@@ -72,4 +72,4 @@ This conversation with Alex was a powerful reminder of the transformative potent
 
 ---
 
-**Read another blog about [Trent Alexander-Arnold: ](./20240416-trentalexander-arnold-theoverlap)**
+**Read another blog about [Mark Zuckerberg on Creators, AI Studio, Neural Wristbands, Holographic Smart Glasses, Picasso & More](./20240627-markzuckerberg-kallaway)**

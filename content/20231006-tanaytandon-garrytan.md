@@ -59,4 +59,4 @@ Don't miss your chance to be part of this revolution. Check out the link in the 
 
 ---
 
-**Read another blog about [Morgan Housel: What You Need to Master (And Avoid) to Get Rich, Stay Rich, and Build Wealth](./20240528-morganhousel-theknowledgeprojectpodcast)**
+**Read another blog about [Download Day 2024 — Fireside Chat: NVIDIA Founder & CEO Jensen Huang and Recursion's Chris Gibson](./20240628-jensenhuang-recursion)**

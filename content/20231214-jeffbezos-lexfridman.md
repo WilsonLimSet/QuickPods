@@ -58,4 +58,4 @@ Bezos ended the interview with this crucial piece of advice. It encapsulates his
 
 ---
 
-**Read another blog about [How Netflix builds a culture of excellence | Elizabeth Stone (CTO)](./20240222-elizabethstone-lennyspodcast)**
+**Read another blog about [He sold his company to Amazon for $970,000,000 ft @JustinKanTV​](./20210802-justinkan-colinandsamir)**

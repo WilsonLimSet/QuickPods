@@ -46,4 +46,4 @@ Jordan’s thoughtful insights and unwavering dedication to his purpose inspire 
 
 ---
 
-**Read another blog about [Gallant on Making R&B Music On His Own Terms, Youtube Comments, Perseverance Through Early Doubters](./20191105-gallant-hardknocktv)**
+**Read another blog about [Every Lesson From Scaling Datadog to $40B](./20240614-olivierpomel-theloganbartlettshow)**
