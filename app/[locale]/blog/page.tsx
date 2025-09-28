@@ -15,17 +15,24 @@ export default async function Blog() {
         Latest Blog Posts
       </h2>
       <div className="mx-auto max-w-4xl px-4">
-        {posts.map((post: { slug: string; title: string; excerpt: string; date: string }) => (
-          <BlogCard
-            key={post.slug}
-            post={{
-              slug: post.slug,
-              title: post.title,
-              description: post.excerpt,
-              date: post.date,
-            }}
-          />
-        ))}
+        {posts.map(
+          (post: {
+            slug: string;
+            title: string;
+            excerpt: string;
+            date: string;
+          }) => (
+            <BlogCard
+              key={post.slug}
+              post={{
+                slug: post.slug,
+                title: post.title,
+                description: post.excerpt,
+                date: post.date,
+              }}
+            />
+          ),
+        )}
       </div>
       <Footer />
     </>

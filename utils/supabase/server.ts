@@ -15,14 +15,12 @@ export const createClient = async () => {
         set(name: string, value: string, options: any) {
           try {
             cookieStore.set(name, value, options);
-          } catch {
-          }
+          } catch {}
         },
         remove(name: string, options: any) {
           try {
             cookieStore.set(name, "", options);
-          } catch {
-          }
+          } catch {}
         },
       },
     }

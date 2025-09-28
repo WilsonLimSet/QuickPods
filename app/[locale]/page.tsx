@@ -8,7 +8,6 @@ import Footer from "@/components/Footer";
 import NewsletterSignup from "@/components/NewsletterSignup";
 import { useInView } from "react-intersection-observer";
 import SkeletonPodCard from "@/components/SkeletonPodCard";
-import { debounce } from "lodash";
 import { useTranslations } from "next-intl";
 
 interface CardData {
@@ -94,7 +93,6 @@ export default function Index({
   useEffect(() => {
     fetchInitialData();
   }, [fetchInitialData]);
-
 
   const fetchMorePodcasts = useCallback(async () => {
     if (!isLoadingMore && hasMore && cards.length > 0) {
