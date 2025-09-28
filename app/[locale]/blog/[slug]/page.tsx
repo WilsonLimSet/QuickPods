@@ -5,7 +5,6 @@ import SocialShare from "@/components/SocialShare";
 import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { createClient } from "@/utils/supabase/server";
-import { cookies } from "next/headers";
 import { locales } from "@/i18n/request";
 import { getTranslations } from "next-intl/server";
 
@@ -146,6 +145,7 @@ export default async function BlogPostPage({
           </p>
 
           {post.thumbnail_url && (
+            // eslint-disable-next-line @next/next/no-img-element
             <img
               src={post.thumbnail_url}
               alt={post.interviewee}

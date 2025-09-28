@@ -1,8 +1,8 @@
 // pages/blog/index.tsx
 import React from "react";
 import Header from "@/components/Header";
-import { getSortedPosts } from "../../lib/posts";
-import BlogCard from "@/components/BlogCard"; // Import BlogCard component
+import { getSortedPosts } from "@/lib/posts";
+import BlogCard from "@/components/BlogCard";
 import Footer from "@/components/Footer";
 
 export default async function Blog() {
@@ -15,7 +15,7 @@ export default async function Blog() {
         Latest Blog Posts
       </h2>
       <div className="mx-auto max-w-4xl px-4">
-        {posts.map((post: any) => (
+        {posts.map((post) => (
           <BlogCard
             key={post.slug}
             post={{

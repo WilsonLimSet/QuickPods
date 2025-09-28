@@ -31,7 +31,7 @@ export default function NewsletterSignup() {
       setStatus("success");
       setMessage(t("successMessage"));
       setEmail("");
-    } catch (error) {
+    } catch {
       setStatus("error");
       setMessage(t("errorMessage"));
     }

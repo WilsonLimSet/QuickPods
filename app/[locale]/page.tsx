@@ -38,10 +38,9 @@ export default function Index({
   const [isLoadingInitial, setIsLoadingInitial] = useState(true); // Track initial loading
   const [isLoadingMore, setIsLoadingMore] = useState(false);
   const [hasMore, setHasMore] = useState(true);
-  const [sortOrder, setSortOrder] = useState("DESC"); // Default to 'DESC' for most recent
+  const [sortOrder, setSortOrder] = useState("DESC");
   const { ref, inView } = useInView({ threshold: 0.5, triggerOnce: false });
   const [searchQuery, setSearchQuery] = useState("");
-  const [debouncedQuery, setDebouncedQuery] = useState(searchQuery);
   const [locale, setLocale] = useState<string>("en");
   const t = useTranslations("home");
 
@@ -164,7 +163,7 @@ export default function Index({
     if (inView && hasMore) {
       fetchMorePodcasts();
     }
-  }, [inView, fetchMorePodcasts]);
+  }, [inView, hasMore, fetchMorePodcasts]);
 
   const filteredCards = cards.filter((card) =>
     (card.blog_content || "")
