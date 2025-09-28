@@ -13,7 +13,7 @@ export default function About() {
           Blinkist for Podcasts 🎧
         </h2>
         <p className="mb-4 text-lg text-gray-300">
-          Welcome to QuickPods, where we make discovering your next favorite
+          Welcome to Podummary, where we make discovering your next favorite
           podcast effortless through generating summaries for you to easily read
           through and determine which one is actually worth your time. 🌟
         </p>

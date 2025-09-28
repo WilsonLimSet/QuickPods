@@ -1,4 +1,4 @@
-# QuickPods Backend Python Helper Functions
+# Podummary Backend Python Helper Functions
 
 ## Quick Start
 

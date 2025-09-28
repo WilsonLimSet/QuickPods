@@ -23,7 +23,7 @@
 
 ### 🎯 Coming Soon
 
-See the full [Modernization Plan](../QuickPods-Modernization-Plan.md) for details on:
+See the full [Modernization Plan](../Podummary-Modernization-Plan.md) for details on:
 
 - Automated YouTube video discovery
 - AI-powered video clipping for social media
@@ -42,7 +42,7 @@ See the full [Modernization Plan](../QuickPods-Modernization-Plan.md) for detail
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/WilsonLimSet/QuickPods.git
+   git clone https://github.com/WilsonLimSet/Podummary.git
    cd quickpods-revived
    ```
 

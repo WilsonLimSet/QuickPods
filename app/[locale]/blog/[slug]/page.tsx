@@ -46,7 +46,7 @@ export async function generateMetadata({
 
   if (!post) {
     return {
-      title: "Post Not Found | QuickPods",
+      title: "Post Not Found | Podummary",
     };
   }
 
@@ -62,7 +62,7 @@ export async function generateMetadata({
   }
 
   return {
-    title: `${post.interviewee} Interview | QuickPods`,
+    title: `${post.interviewee} Interview | Podummary`,
     description,
     openGraph: {
       title: `${post.interviewee} Interview`,

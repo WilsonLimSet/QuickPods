@@ -16,7 +16,7 @@ export default function Header() {
         <div className="flex items-center">
           <h1 className="text-lg font-bold">
             <Link href="/" className="hover:text-gray-300">
-              QuickPods
+              Podummary
             </Link>
           </h1>
         </div>
@@ -25,7 +25,7 @@ export default function Header() {
             About
           </Link>
           <a
-            href="https://github.com/WilsonLimSet/QuickPods"
+            href="https://github.com/WilsonLimSet/Podummary"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-gray-300"

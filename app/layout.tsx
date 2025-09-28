@@ -10,7 +10,7 @@ const defaultUrl = process.env.VERCEL_URL
 
 export const metadata = {
   metadataBase: new URL(defaultUrl),
-  title: "QuickPods - Tech CEO & Founder Interviews",
+  title: "Podummary - Tech CEO & Founder Interviews",
   description:
     "Discover and explore interviews with top tech CEOs, founders, and innovators. AI-powered summaries and insights from the best business podcasts.",
   keywords: [
@@ -21,7 +21,7 @@ export const metadata = {
     "startup founders",
   ],
   openGraph: {
-    title: "QuickPods - Tech CEO & Founder Interviews",
+    title: "Podummary - Tech CEO & Founder Interviews",
     description:
       "Discover and explore interviews with top tech CEOs, founders, and innovators.",
     type: "website",
@@ -29,7 +29,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "QuickPods - Tech CEO & Founder Interviews",
+    title: "Podummary - Tech CEO & Founder Interviews",
     description:
       "Discover and explore interviews with top tech CEOs, founders, and innovators.",
   },
