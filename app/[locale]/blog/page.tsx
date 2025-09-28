@@ -15,7 +15,7 @@ export default async function Blog() {
         Latest Blog Posts
       </h2>
       <div className="mx-auto max-w-4xl px-4">
-        {posts.map((post) => (
+        {posts.map((post: { slug: string; title: string; excerpt: string; date: string }) => (
           <BlogCard
             key={post.slug}
             post={{

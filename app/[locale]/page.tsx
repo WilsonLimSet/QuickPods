@@ -95,14 +95,6 @@ export default function Index({
     fetchInitialData();
   }, [fetchInitialData]);
 
-  useEffect(() => {
-    const handler = debounce(() => {
-      setDebouncedQuery(searchQuery);
-    }, 300); // Adjust timing as needed
-
-    handler();
-    return () => handler.cancel();
-  }, [searchQuery]);
 
   const fetchMorePodcasts = useCallback(async () => {
     if (!isLoadingMore && hasMore && cards.length > 0) {

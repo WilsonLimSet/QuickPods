@@ -1,4 +1,3 @@
-// components/PostCard.tsx
 import Link from "next/link";
 import React from "react";
 
@@ -13,7 +12,7 @@ interface PostCardProps {
   post: Post;
 }
 
-export default function PostCard({ post }: PostCardProps): JSX.Element {
+export default function PostCard({ post }: PostCardProps) {
   return (
     <Link href={`/blog/${post.slug}`} passHref>
       <div className="mb-4 block cursor-pointer rounded-lg border p-4 transition-shadow hover:shadow-lg">
