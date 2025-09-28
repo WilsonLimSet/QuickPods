@@ -1,8 +1,54 @@
-import { type NextRequest } from "next/server";
+import { type NextRequest, NextResponse } from "next/server";
 import { updateSession } from "@/utils/supabase/middleware";
+import { locales, defaultLocale } from "./i18n/request";
 
 export async function middleware(request: NextRequest) {
-  return await updateSession(request);
+  const { pathname } = request.nextUrl;
+
+  if (pathname.startsWith("/api") || pathname.startsWith("/_next")) {
+    return await updateSession(request);
+  }
+
+  const pathnameHasLocale = locales.some(
+    (locale) => pathname.startsWith(`/${locale}/`) || pathname === `/${locale}`
+  );
+
+  if (pathnameHasLocale) {
+    const locale = pathname.split("/")[1];
+    const response = await updateSession(request);
+    response.cookies.set("NEXT_LOCALE", locale);
+    return response;
+  }
+
+  const cookieLocale = request.cookies.get("NEXT_LOCALE")?.value;
+  const acceptLanguage = request.headers.get("accept-language");
+
+  let detectedLocale = defaultLocale;
+
+  if (cookieLocale && locales.includes(cookieLocale)) {
+    detectedLocale = cookieLocale;
+  } else if (acceptLanguage) {
+    const languages = acceptLanguage
+      .split(",")
+      .map((lang) => lang.split(";")[0].trim().toLowerCase());
+
+    for (const lang of languages) {
+      if (locales.includes(lang)) {
+        detectedLocale = lang;
+        break;
+      }
+      const langPrefix = lang.split("-")[0];
+      if (locales.includes(langPrefix)) {
+        detectedLocale = langPrefix;
+        break;
+      }
+    }
+  }
+
+  const newUrl = new URL(`/${detectedLocale}${pathname}`, request.url);
+  const response = NextResponse.redirect(newUrl);
+  response.cookies.set("NEXT_LOCALE", detectedLocale);
+  return response;
 }
 
 export const config = {

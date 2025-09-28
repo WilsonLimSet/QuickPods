@@ -12,19 +12,19 @@ Have you ever looked around and felt stuck in the system? Do you ever wonder if 
 
 Blomfield's path wasn't linear. Despite pressure to pursue a traditional career in law, his passion for technology and building things led him to drop out of a promising startup and ultimately, leave a secure job. This decision, though difficult, allowed him to truly embrace his entrepreneurial spirit.
 
-* He learned valuable lessons at Y Combinator, realizing the importance of setting the bar high and constantly pushing himself and his team.
-* He experienced the emotional rollercoaster of building a company, from the exhilaration of early successes to the gut-wrenching fear of potential failure. 
-* He found strength in vulnerability, uniting his team by openly sharing challenges and working tirelessly together to overcome them.
+- He learned valuable lessons at Y Combinator, realizing the importance of setting the bar high and constantly pushing himself and his team.
+- He experienced the emotional rollercoaster of building a company, from the exhilaration of early successes to the gut-wrenching fear of potential failure.
+- He found strength in vulnerability, uniting his team by openly sharing challenges and working tirelessly together to overcome them.
 
 ### The Power of Impact
 
 Throughout his journey, Blomfield remained driven by a desire to make a tangible difference. He found that focusing on solving problems close to his heart, problems that frustrated him personally, ignited a passion that fueled his work.
 
-* This drive resonated with customers, investors, and even the press, propelling both GoCardless and Monzo to remarkable growth. 
-* It wasn't always smooth sailing - he faced death threats, regulatory hurdles, and the immense pressure of building critical infrastructure that impacted millions.
-* Ultimately, his commitment to creating a better, more user-friendly banking experience paid off, with Monzo achieving profitability and becoming a major player in the UK market. 
+- This drive resonated with customers, investors, and even the press, propelling both GoCardless and Monzo to remarkable growth.
+- It wasn't always smooth sailing - he faced death threats, regulatory hurdles, and the immense pressure of building critical infrastructure that impacted millions.
+- Ultimately, his commitment to creating a better, more user-friendly banking experience paid off, with Monzo achieving profitability and becoming a major player in the UK market.
 
-###  Embracing the Unknown
+### Embracing the Unknown
 
 Blomfield's story isn't just about building companies; it's about choosing a path less traveled, embracing the unknown, and finding fulfillment in creating something new. He reminds us that we all have the potential to make a difference, to break down existing structures, and redefine the rules.
 
@@ -33,7 +33,6 @@ Blomfield's story isn't just about building companies; it's about choosing a pat
 ---
 
 <a href="https://youtube.com/watch?v=QKPgBAnbc10" target="_blank">Watch the podcast here!</a>
-
 
 ---
 

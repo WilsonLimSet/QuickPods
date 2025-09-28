@@ -32,7 +32,6 @@ This quote encapsulates Danielle's philosophy of defying expectations and forgin
 
 <a href="https://youtube.com/watch?v=DVcX3ZlW_1s" target="_blank">Watch the podcast here!</a>
 
-
 ---
 
 **Read another blog about [Arnold Schwarzenegger Is The Influencer We Need Right Now | Rich Roll Podcast](./20231002-arnoldschwarzenegger-richroll)**

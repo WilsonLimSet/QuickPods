@@ -1,0 +1,51 @@
+{
+  "common": {
+    "siteName": "QuickPods",
+    "tagline": "테크 CEO 및 창업자 인터뷰",
+    "loading": "로딩 중...",
+    "notFound": "찾을 수 없음"
+  },
+  "home": {
+    "title": "최신 인터뷰",
+    "search": "검색",
+    "sortBy": "정렬 기준",
+    "sortLatest": "최신순",
+    "sortEarliest": "오래된순",
+    "sortMostViews": "조회수순",
+    "sortLeastViews": "조회수 적은순",
+    "noResults": "결과를 찾을 수 없습니다."
+  },
+  "blog": {
+    "readTime": "분 읽기",
+    "publishedOn": "게시일",
+    "watchPodcast": "팟캐스트 보기!",
+    "relatedPosts": "관련 게시물",
+    "interviewWith": "과의 인터뷰",
+    "by": "인터뷰 진행",
+    "watchOnYoutube": "YouTube에서 보기"
+  },
+  "nav": {
+    "home": "홈",
+    "blog": "블로그",
+    "about": "소개"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "builtWith": "Built with",
+    "builtBy": "제작자"
+  },
+  "newsletter": {
+    "title": "주간 CEO 인사이트 받기",
+    "description": "최고의 테크 CEO 인터뷰와 인사이트를 매주 받은편지함으로 직접 받아보세요.",
+    "emailPlaceholder": "이메일을 입력하세요",
+    "subscribe": "구독하기",
+    "subscribing": "구독 중...",
+    "successMessage": "구독해 주셔서 감사합니다! 이메일을 확인해 주세요.",
+    "errorMessage": "문제가 발생했습니다. 다시 시도해 주세요.",
+    "privacyNote": "귀하의 개인정보를 존중합니다. 언제든지 구독을 취소할 수 있습니다."
+  },
+  "card": {
+    "interviewedBy": "인터뷰 진행",
+    "views": "조회수"
+  }
+}

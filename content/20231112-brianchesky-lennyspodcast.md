@@ -10,13 +10,13 @@ This week's podcast features Brian Chesky, CEO and co-founder of Airbnb, discuss
 
 ### The Demise of Traditional Product Management
 
-Chesky surprised many when he revealed the elimination of the traditional product management function at Airbnb, sparking heated debates among product executives worldwide. He clarifies that while the company no longer follows the conventional approach, they haven't abandoned the core principles of product-driven development. 
+Chesky surprised many when he revealed the elimination of the traditional product management function at Airbnb, sparking heated debates among product executives worldwide. He clarifies that while the company no longer follows the conventional approach, they haven't abandoned the core principles of product-driven development.
 
 **Key Changes:**
 
-* **Merging Product Development and Product Marketing:** Chesky believes in the interconnectedness of these functions, emphasizing that building a great product requires a clear understanding of how to talk about and market it effectively.
-* **Smaller, Senior Teams:** Chesky prioritizes smaller, senior teams focused on driving product vision and execution.
-* **Shifting Away from Control:**  Airbnb embraces a functional model where product managers influence rather than control design and engineering.
+- **Merging Product Development and Product Marketing:** Chesky believes in the interconnectedness of these functions, emphasizing that building a great product requires a clear understanding of how to talk about and market it effectively.
+- **Smaller, Senior Teams:** Chesky prioritizes smaller, senior teams focused on driving product vision and execution.
+- **Shifting Away from Control:** Airbnb embraces a functional model where product managers influence rather than control design and engineering.
 
 ### Embracing a Unified Roadmap and Continuous Conversation
 
@@ -24,29 +24,29 @@ To combat the bureaucratic and political pitfalls of a divisional company struct
 
 **Key Insights:**
 
-* **Single Roadmap for Clarity and Cohesion:** A unified roadmap aligns all teams towards a singular vision, reducing dependencies and bottlenecks.
-* **Continuous Conversation for Shared Consciousness:**  Regular meetings among top leadership ensure everyone is on the same page and can address roadblocks swiftly. 
-* **Metrics Subordinate to the Calendar:** The roadmap prioritizes strategic goals over short-term metric optimization.
+- **Single Roadmap for Clarity and Cohesion:** A unified roadmap aligns all teams towards a singular vision, reducing dependencies and bottlenecks.
+- **Continuous Conversation for Shared Consciousness:** Regular meetings among top leadership ensure everyone is on the same page and can address roadblocks swiftly.
+- **Metrics Subordinate to the Calendar:** The roadmap prioritizes strategic goals over short-term metric optimization.
 
 ### The Power of Big Thinking and Deep Understanding
 
-Chesky firmly believes in pushing teams to think big and embrace ambitious goals. He utilizes the "add a zero" approach, challenging teams to imagine solutions that are an order of magnitude bigger or better. This fosters innovation and encourages a deeper understanding of the problem at hand. 
+Chesky firmly believes in pushing teams to think big and embrace ambitious goals. He utilizes the "add a zero" approach, challenging teams to imagine solutions that are an order of magnitude bigger or better. This fosters innovation and encourages a deeper understanding of the problem at hand.
 
 **Key Learnings:**
 
-* **"Add a Zero" for Innovation:**  Thinking big prompts innovative solutions that wouldn't be possible with incremental improvements.
-* **Deep Understanding Through First Principle Thinking:**  Breaking down problems into their fundamental components allows for creative solutions.
-* **Setting the Tempo Through Decisiveness:**  Fast decision-making and a bias for action are crucial for increasing a company's speed.
+- **"Add a Zero" for Innovation:** Thinking big prompts innovative solutions that wouldn't be possible with incremental improvements.
+- **Deep Understanding Through First Principle Thinking:** Breaking down problems into their fundamental components allows for creative solutions.
+- **Setting the Tempo Through Decisiveness:** Fast decision-making and a bias for action are crucial for increasing a company's speed.
 
 ### Avoiding Burnout and Prioritizing Meaningful Work
 
-While Chesky acknowledges his past struggles with work-life balance, he emphasizes the importance of stepping away from work and nurturing healthy relationships for preventing burnout and maintaining a sustainable pace. 
+While Chesky acknowledges his past struggles with work-life balance, he emphasizes the importance of stepping away from work and nurturing healthy relationships for preventing burnout and maintaining a sustainable pace.
 
 **Key Practices:**
 
-* **Regular Breaks and Exercise:** Chesky prioritizes regular breaks, weekends off, and consistent exercise for physical and mental wellbeing.
-* **Nurturing Healthy Relationships:** Maintaining strong connections with friends and family is crucial for happiness and preventing isolation.
-* **Saying "No" to Fake Work:**  Focus on meaningful work that drives results and contributes to the overall vision.
+- **Regular Breaks and Exercise:** Chesky prioritizes regular breaks, weekends off, and consistent exercise for physical and mental wellbeing.
+- **Nurturing Healthy Relationships:** Maintaining strong connections with friends and family is crucial for happiness and preventing isolation.
+- **Saying "No" to Fake Work:** Focus on meaningful work that drives results and contributes to the overall vision.
 
 ### The CEO as the Chief Product Officer
 
@@ -61,7 +61,6 @@ Despite his success, Chesky embraces a beginner's mindset and constantly seeks o
 ---
 
 <a href="https://youtube.com/watch?v=4ef0juAMqoE" target="_blank">Watch the podcast here!</a>
-
 
 ---
 

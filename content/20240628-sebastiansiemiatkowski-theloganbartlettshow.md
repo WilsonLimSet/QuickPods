@@ -6,8 +6,6 @@ tags: [Tech, Innovation, AI]
 
 ---
 
-
-
 ---
 
 ## Klarna CEO: The Unexpected Value of Honesty and Hard Work
@@ -18,15 +16,15 @@ In a candid conversation with Logan Bartlett, Sebastian Siemiatkowski, co-founde
 
 Siemiatkowski highlights three key indicators of a company's success, each with its own distinct timeline:
 
-* **Internal momentum:** The energy and drive within the organization, often seen in the pace of product development and the quality of work. 
-* **Profit & Loss (P&L) results:** The financial performance of the business, lagging behind internal momentum as it takes time for successes to translate into concrete results.
-* **Public perception:** How the market views the company's success, influenced by a combination of internal momentum and P&L results, often with a delay.
+- **Internal momentum:** The energy and drive within the organization, often seen in the pace of product development and the quality of work.
+- **Profit & Loss (P&L) results:** The financial performance of the business, lagging behind internal momentum as it takes time for successes to translate into concrete results.
+- **Public perception:** How the market views the company's success, influenced by a combination of internal momentum and P&L results, often with a delay.
 
 He cautions founders that these indicators can become temporarily disconnected, leading to internal conflict and external pressure. Klarna's own experience with a soaring $50 billion valuation while struggling to build a global PSP business exemplified this disconnect.
 
 ### The Radical Honesty of Facing Your Demons
 
-In a refreshing departure from the typical CEO narrative, Siemiatkowski opens up about his personal struggle with alcohol and the profound impact it had on his life and leadership.  His decision to stop drinking was driven by a choice of love, prioritizing his relationship with his wife over the party lifestyle. 
+In a refreshing departure from the typical CEO narrative, Siemiatkowski opens up about his personal struggle with alcohol and the profound impact it had on his life and leadership. His decision to stop drinking was driven by a choice of love, prioritizing his relationship with his wife over the party lifestyle.
 
 **"At some point of time, my wife told me like, 'Look, if you're gonna continue partying this hard, like I'm out.'"**
 
@@ -53,7 +51,7 @@ Siemiatkowski shares his perspective on working with venture capitalists, highli
 Siemiatkowski's candid reflections offer valuable lessons for anyone navigating the rollercoaster of entrepreneurship. His emphasis on honesty, hard work, and the power of human connection are essential ingredients for building a business that not only generates profit but also creates lasting value for customers and society alike.
 
 ---
-        
+
 <a href="https://youtube.com/watch?v=V81MT9B5irU" target="_blank">Watch the podcast here!</a>
 
 ---

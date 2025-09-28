@@ -10,7 +10,7 @@ Patrick Bet-David, entrepreneur, speaker, and YouTube sensation, has lived a lif
 
 ### Escaping Chaos, Finding Opportunity
 
-Patrick's early years were marked by the turmoil of the Iran-Iraq war. He vividly recalls the constant threat of bombings and the fear that permeated daily life. His mother, recognizing the limitations he would face in a country on the brink of war, made the difficult decision to send him away, seeking a better future for her son. 
+Patrick's early years were marked by the turmoil of the Iran-Iraq war. He vividly recalls the constant threat of bombings and the fear that permeated daily life. His mother, recognizing the limitations he would face in a country on the brink of war, made the difficult decision to send him away, seeking a better future for her son.
 
 - Born and raised in Iran, Patrick lived there for 10 years before escaping with his family six weeks after the death of Ayatollah Khomeini.
 - They spent two years and eight months in a German refugee camp, where he was surrounded by individuals seeking refuge from communism, socialism, and dictatorships.
@@ -18,17 +18,17 @@ Patrick's early years were marked by the turmoil of the Iran-Iraq war. He vividl
 
 ### The American Dream: A Foundation Built on Hard Work
 
-The Bet-David family arrived in America with little to their name. Patrick's father worked as a cashier at a 99-cent store, a stark contrast to the American dream they envisioned. Yet, despite their financial struggles, they were filled with hope and a determination to make a new life for themselves. 
+The Bet-David family arrived in America with little to their name. Patrick's father worked as a cashier at a 99-cent store, a stark contrast to the American dream they envisioned. Yet, despite their financial struggles, they were filled with hope and a determination to make a new life for themselves.
 
-Patrick thrived in his new environment, excelling in school and discovering a passion for sales and numbers. He worked at Bally's Total Fitness, quickly rising through the ranks by building strong teams and exceeding sales goals. He later transitioned into the financial services industry, seeing the potential for higher earnings. 
+Patrick thrived in his new environment, excelling in school and discovering a passion for sales and numbers. He worked at Bally's Total Fitness, quickly rising through the ranks by building strong teams and exceeding sales goals. He later transitioned into the financial services industry, seeing the potential for higher earnings.
 
-- After high school, Patrick worked at a gym before moving on to Morgan Stanley Dean Witter, starting a day before 9/11. 
+- After high school, Patrick worked at a gym before moving on to Morgan Stanley Dean Witter, starting a day before 9/11.
 - He later worked at Transamerica World Financial for seven and a half years.
 - He then started his own insurance company, selling it a year and a half later for a significant profit.
 
 ### Building PHP: A Blue Ocean Strategy
 
-Driven by a desire to create a company of his own, Patrick founded PHP Agency, an insurance company focused on a niche market overlooked by traditional players: Middle America, Hispanics, and African Americans. He applied his experience in sales and high-volume recruiting to build a company that rapidly scaled across the United States. 
+Driven by a desire to create a company of his own, Patrick founded PHP Agency, an insurance company focused on a niche market overlooked by traditional players: Middle America, Hispanics, and African Americans. He applied his experience in sales and high-volume recruiting to build a company that rapidly scaled across the United States.
 
 - Patrick saw an opportunity to target an underserved market and built PHP Agency into a thriving business using a "high volume recruiting" model.
 - He credits reading "Blue Ocean Strategy" as a turning point, leading him to specialize and focus on his unique niche rather than directly competing with established players.
@@ -36,7 +36,7 @@ Driven by a desire to create a company of his own, Patrick founded PHP Agency, a
 
 ### Beyond Financial Success: A Legacy of Impact
 
-Despite his immense financial success, Patrick remains grounded, acknowledging the sacrifices made along the way. The tears he and his wife shared over breakfast in Monaco after the sale of PHP Agency were a testament to their journey, a realization that their lives had fundamentally changed. 
+Despite his immense financial success, Patrick remains grounded, acknowledging the sacrifices made along the way. The tears he and his wife shared over breakfast in Monaco after the sale of PHP Agency were a testament to their journey, a realization that their lives had fundamentally changed.
 
 But for Patrick, the story isn't about the money. It's about using his platform to defend the values and principles that drew him to America, inspiring others to achieve their own dreams and giving back to the country that provided him with opportunity.
 
@@ -51,7 +51,6 @@ Patrick Bet-David's story is a powerful reminder that success is a journey, not 
 ---
 
 <a href="https://youtube.com/watch?v=U3EaDKXvSY8" target="_blank">Watch the podcast here!</a>
-
 
 ---
 

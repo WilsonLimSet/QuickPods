@@ -1,0 +1,51 @@
+{
+  "common": {
+    "siteName": "QuickPods",
+    "tagline": "Phỏng vấn CEO và Nhà sáng lập Công nghệ",
+    "loading": "Đang tải...",
+    "notFound": "Không tìm thấy"
+  },
+  "home": {
+    "title": "Phỏng vấn mới nhất",
+    "search": "Tìm kiếm",
+    "sortBy": "Sắp xếp theo",
+    "sortLatest": "Sắp xếp theo Ngày mới nhất",
+    "sortEarliest": "Sắp xếp theo Ngày cũ nhất",
+    "sortMostViews": "Sắp xếp theo Lượt xem nhiều nhất",
+    "sortLeastViews": "Sắp xếp theo Lượt xem ít nhất",
+    "noResults": "Không tìm thấy kết quả."
+  },
+  "blog": {
+    "readTime": "phút đọc",
+    "publishedOn": "Đăng vào",
+    "watchPodcast": "Xem podcast tại đây!",
+    "relatedPosts": "Bài viết liên quan",
+    "interviewWith": "Phỏng vấn với",
+    "by": "bởi",
+    "watchOnYoutube": "Xem trên YouTube"
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "blog": "Blog",
+    "about": "Giới thiệu"
+  },
+  "footer": {
+    "rights": "Bảo lưu mọi quyền",
+    "builtWith": "Được xây dựng với",
+    "builtBy": "Được xây dựng bởi"
+  },
+  "newsletter": {
+    "title": "Nhận Thông Tin CEO Hàng Tuần",
+    "description": "Đăng ký để nhận các cuộc phỏng vấn và thông tin sâu sắc từ các CEO công nghệ hàng đầu được gửi trực tiếp đến hộp thư của bạn mỗi tuần.",
+    "emailPlaceholder": "Nhập email của bạn",
+    "subscribe": "Đăng ký",
+    "subscribing": "Đang đăng ký...",
+    "successMessage": "Cảm ơn bạn đã đăng ký! Vui lòng kiểm tra email để xác nhận.",
+    "errorMessage": "Đã xảy ra sự cố. Vui lòng thử lại.",
+    "privacyNote": "Chúng tôi tôn trọng quyền riêng tư của bạn. Hủy đăng ký bất cứ lúc nào."
+  },
+  "card": {
+    "interviewedBy": "Phỏng vấn bởi",
+    "views": "lượt xem"
+  }
+}

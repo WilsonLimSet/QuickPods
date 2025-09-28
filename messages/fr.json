@@ -1,0 +1,51 @@
+{
+  "common": {
+    "siteName": "QuickPods",
+    "tagline": "Interviews de PDG et Fondateurs Tech",
+    "loading": "Chargement...",
+    "notFound": "Non trouvé"
+  },
+  "home": {
+    "title": "Dernières Interviews",
+    "search": "Rechercher",
+    "sortBy": "Trier par",
+    "sortLatest": "Date la plus récente",
+    "sortEarliest": "Date la plus ancienne",
+    "sortMostViews": "Plus de vues",
+    "sortLeastViews": "Moins de vues",
+    "noResults": "Aucun résultat trouvé."
+  },
+  "blog": {
+    "readTime": "min de lecture",
+    "publishedOn": "Publié le",
+    "watchPodcast": "Regardez le podcast ici !",
+    "relatedPosts": "Articles connexes",
+    "interviewWith": "Entretien avec",
+    "by": "par",
+    "watchOnYoutube": "Regarder sur YouTube"
+  },
+  "card": {
+    "interviewedBy": "Interviewé par",
+    "views": "vues"
+  },
+  "nav": {
+    "home": "Accueil",
+    "blog": "Blog",
+    "about": "À propos"
+  },
+  "footer": {
+    "rights": "Tous droits réservés",
+    "builtWith": "Construit avec",
+    "builtBy": "Créé par"
+  },
+  "newsletter": {
+    "title": "Recevez les Insights de PDG Hebdomadaires",
+    "description": "Abonnez-vous pour recevoir les meilleures interviews et insights de PDG tech directement dans votre boîte de réception chaque semaine.",
+    "emailPlaceholder": "Entrez votre email",
+    "subscribe": "S'abonner",
+    "subscribing": "Abonnement en cours...",
+    "successMessage": "Merci de vous être abonné ! Vérifiez votre email pour confirmer.",
+    "errorMessage": "Quelque chose s'est mal passé. Veuillez réessayer.",
+    "privacyNote": "Nous respectons votre vie privée. Désabonnez-vous à tout moment."
+  }
+}

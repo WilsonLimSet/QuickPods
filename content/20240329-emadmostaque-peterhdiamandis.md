@@ -22,9 +22,9 @@ Mostaque's solution lies in a distributed model of AI, empowering individuals an
 
 **His vision encompasses:**
 
-* **Accessibility and Affordability:** Making AI technology widely accessible, with models running on everyday devices like laptops and smartphones.
-* **Governance by the People:** Ensuring national and sectoral ownership of AI models, reflecting local culture and knowledge.
-* **Open Infrastructure:** Building a modular, distributed system that mitigates risks of centralized control and promotes transparency.
+- **Accessibility and Affordability:** Making AI technology widely accessible, with models running on everyday devices like laptops and smartphones.
+- **Governance by the People:** Ensuring national and sectoral ownership of AI models, reflecting local culture and knowledge.
+- **Open Infrastructure:** Building a modular, distributed system that mitigates risks of centralized control and promotes transparency.
 
 ### The Urgency of Now
 
@@ -39,7 +39,6 @@ Mostaque's resignation from Stability AI might seem counterintuitive, but it's a
 ---
 
 <a href="https://youtube.com/watch?v=e1UgzSTicuY" target="_blank">Watch the podcast here!</a>
-
 
 ---
 

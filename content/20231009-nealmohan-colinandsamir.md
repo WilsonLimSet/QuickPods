@@ -10,28 +10,28 @@ Getting a chance to sit down with the CEO of any company is a monumental opportu
 
 **The Power of Connection and Authenticity**
 
-Both Neal and Colin and Samir emphasized the importance of genuine connection with viewers as a core element of YouTube's success. 
+Both Neal and Colin and Samir emphasized the importance of genuine connection with viewers as a core element of YouTube's success.
 
-*  Neal highlighted the unique human element that drives YouTube, emphasizing the value of creators as individuals sharing their stories and experiences. 
-* Colin and Samir shared their own journey of finding their "tribe" on YouTube, connecting with like-minded individuals through their lacrosse-focused channel. 
+- Neal highlighted the unique human element that drives YouTube, emphasizing the value of creators as individuals sharing their stories and experiences.
+- Colin and Samir shared their own journey of finding their "tribe" on YouTube, connecting with like-minded individuals through their lacrosse-focused channel.
 
 This emphasis on human connection is what sets YouTube apart from more automated or algorithm-driven platforms.
 
 **Monetization in the Age of Shorts**
 
-The rise of short-form video content with YouTube Shorts presents both opportunities and challenges for creators. While the format has led to incredible growth in views, the monetization model for Shorts is still in its early stages. 
+The rise of short-form video content with YouTube Shorts presents both opportunities and challenges for creators. While the format has led to incredible growth in views, the monetization model for Shorts is still in its early stages.
 
-* Neal acknowledged that this is a top concern for creators of all sizes. 
-* He emphasized that YouTube is committed to building sustainable monetization for Shorts, focusing on developing advertising products that work for viewers and advertisers alike. 
+- Neal acknowledged that this is a top concern for creators of all sizes.
+- He emphasized that YouTube is committed to building sustainable monetization for Shorts, focusing on developing advertising products that work for viewers and advertisers alike.
 
-While the future of Shorts monetization remains in development, Neal’s comments demonstrate YouTube’s ongoing dedication to supporting creators across all formats. 
+While the future of Shorts monetization remains in development, Neal’s comments demonstrate YouTube’s ongoing dedication to supporting creators across all formats.
 
 **Navigating the AI Revolution**
 
-The rapid advancements in artificial intelligence (AI) pose both exciting possibilities and potential concerns for the future of YouTube. 
+The rapid advancements in artificial intelligence (AI) pose both exciting possibilities and potential concerns for the future of YouTube.
 
-* While acknowledging the challenges around issues like creator rights and misinformation, Neal expressed optimism about the potential for AI to empower human creativity and enhance the creator experience. 
-* He envisioned AI-powered tools that could revolutionize video editing, improve discoverability, and create new avenues for audience interaction. 
+- While acknowledging the challenges around issues like creator rights and misinformation, Neal expressed optimism about the potential for AI to empower human creativity and enhance the creator experience.
+- He envisioned AI-powered tools that could revolutionize video editing, improve discoverability, and create new avenues for audience interaction.
 
 The conversation also addressed the emergence of semi-autonomous content, such as AI-generated avatars, which raised concerns about the potential for such content to flood the platform and dilute the authentic human connection that defines YouTube.
 
@@ -39,8 +39,8 @@ The conversation also addressed the emergence of semi-autonomous content, such a
 
 One of the most powerful takeaways from the interview was Neal’s unwavering commitment to YouTube’s core values, particularly the importance of empowering creators. He highlighted this throughout the discussion:
 
-*  He reiterated YouTube’s dedication to providing creators with the tools and platform to succeed, whether they focus on long-form, short-form, live streams, or podcasts. 
-* Neal emphasized that ultimately, creators should focus on what works best for them and their audience, and YouTube will continue to support their efforts. 
+- He reiterated YouTube’s dedication to providing creators with the tools and platform to succeed, whether they focus on long-form, short-form, live streams, or podcasts.
+- Neal emphasized that ultimately, creators should focus on what works best for them and their audience, and YouTube will continue to support their efforts.
 
 This commitment to creator empowerment, even as the platform evolves with new formats and technologies, provides reassurance that YouTube remains a valuable platform for those seeking to build and connect with an audience.
 
@@ -51,7 +51,6 @@ This commitment to creator empowerment, even as the platform evolves with new fo
 ---
 
 <a href="https://youtube.com/watch?v=vqM8hKlnhRY" target="_blank">Watch the podcast here!</a>
-
 
 ---
 

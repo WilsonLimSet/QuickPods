@@ -1,12 +1,18 @@
+"use client";
+
+import { useTranslations } from "next-intl";
+
 export default function Footer() {
+  const t = useTranslations("footer");
+
   return (
-    <footer className="w-full border-t border-gray-700 p-8 flex justify-center text-center text-sm text-gray-300">
+    <footer className="flex w-full justify-center border-t border-gray-700 p-8 text-center text-sm text-gray-300">
       <p>
-        Built by{" "}
+        {t("builtBy")}{" "}
         <a
-          href="https://github.com/wilsonLimSet"
+          href="https://wilsonlimsetiawan.com/"
           target="_blank"
-          className="font-bold hover:underline text-white"
+          className="font-bold text-white hover:underline"
           rel="noreferrer"
         >
           @wilsonlimset

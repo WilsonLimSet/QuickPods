@@ -1,0 +1,51 @@
+{
+  "common": {
+    "siteName": "QuickPods",
+    "tagline": "Wawancara CEO & Founder Teknologi",
+    "loading": "Memuat...",
+    "notFound": "Tidak Ditemukan"
+  },
+  "home": {
+    "title": "Wawancara Terbaru",
+    "search": "Cari",
+    "sortBy": "Urutkan berdasarkan",
+    "sortLatest": "Urutkan berdasarkan Tanggal Terbaru",
+    "sortEarliest": "Urutkan berdasarkan Tanggal Terlama",
+    "sortMostViews": "Urutkan berdasarkan Tampilan Terbanyak",
+    "sortLeastViews": "Urutkan berdasarkan Tampilan Tersedikit",
+    "noResults": "Tidak ada hasil ditemukan."
+  },
+  "blog": {
+    "readTime": "menit baca",
+    "publishedOn": "Diterbitkan pada",
+    "watchPodcast": "Tonton podcast di sini!",
+    "relatedPosts": "Postingan Terkait",
+    "interviewWith": "Wawancara dengan",
+    "by": "oleh",
+    "watchOnYoutube": "Tonton di YouTube"
+  },
+  "nav": {
+    "home": "Beranda",
+    "blog": "Blog",
+    "about": "Tentang"
+  },
+  "footer": {
+    "rights": "Hak cipta dilindungi",
+    "builtWith": "Dibuat dengan",
+    "builtBy": "Dibuat oleh"
+  },
+  "newsletter": {
+    "title": "Dapatkan Wawasan CEO Mingguan",
+    "description": "Berlangganan untuk menerima wawancara dan wawasan CEO teknologi terbaik langsung ke kotak masuk Anda setiap minggu.",
+    "emailPlaceholder": "Masukkan email Anda",
+    "subscribe": "Berlangganan",
+    "subscribing": "Berlangganan...",
+    "successMessage": "Terima kasih telah berlangganan! Periksa email Anda untuk konfirmasi.",
+    "errorMessage": "Terjadi kesalahan. Silakan coba lagi.",
+    "privacyNote": "Kami menghormati privasi Anda. Berhenti berlangganan kapan saja."
+  },
+  "card": {
+    "interviewedBy": "Diwawancarai oleh",
+    "views": "tayangan"
+  }
+}

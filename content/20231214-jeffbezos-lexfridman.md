@@ -55,7 +55,6 @@ Bezos ended the interview with this crucial piece of advice. It encapsulates his
 
 <a href="https://youtube.com/watch?v=DcWqzZ3I2cY" target="_blank">Watch the podcast here!</a>
 
-
 ---
 
 **Read another blog about [I asked a YC founder who quit his $800K job for advice](./20231121-rahulpandey-wilsonlimsetiawan)**

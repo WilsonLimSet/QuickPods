@@ -16,8 +16,8 @@ This leads to a discussion of Curry's legendary "irrational confidence", a term 
 
 **Key takeaways**:
 
-* Curry was a late bloomer whose scoring potential was unleashed at Davidson.
-* He developed "irrational confidence" and learned to embrace the attention, even the negative, early in his career.
+- Curry was a late bloomer whose scoring potential was unleashed at Davidson.
+- He developed "irrational confidence" and learned to embrace the attention, even the negative, early in his career.
 
 ### Navigating Superstardom and the Power of Narrative
 
@@ -27,19 +27,19 @@ Redick inquires about the infamous 2015 Finals MVP going to Andre Iguodala, a de
 
 **Key takeaways**:
 
-* Curry learned to navigate the pressures of superstardom by staying true to himself and focusing on the ultimate goal.
-* He acknowledges the power of narratives and how they can overshadow individual contributions.
+- Curry learned to navigate the pressures of superstardom by staying true to himself and focusing on the ultimate goal.
+- He acknowledges the power of narratives and how they can overshadow individual contributions.
 
 ### The "Look Away" Shot and Achieving Flow State
 
-The discussion turns to Curry's signature "look away" shot, a move that embodies his ability to achieve a flow state on the court.  Redick praises Curry's unparalleled ability to consistently reach this state, a testament to his dedication to training and the obsessive attention to detail he brings to his craft.
+The discussion turns to Curry's signature "look away" shot, a move that embodies his ability to achieve a flow state on the court. Redick praises Curry's unparalleled ability to consistently reach this state, a testament to his dedication to training and the obsessive attention to detail he brings to his craft.
 
 Curry recounts the first time he performed the "look away" in a game, a moment fueled by the electric atmosphere of Oracle Arena during a playoff series against Denver. He describes the feeling of the shot leaving his hand as "better than that" and how he instinctively knew it was going in.
 
 **Key takeaways**:
 
-* The "look away" shot represents Curry's ability to reach a flow state, honed through meticulous practice and an obsession with detail.
-* Curry thrives in high-pressure environments, drawing energy from the crowd and the intensity of the moment.
+- The "look away" shot represents Curry's ability to reach a flow state, honed through meticulous practice and an obsession with detail.
+- Curry thrives in high-pressure environments, drawing energy from the crowd and the intensity of the moment.
 
 ### The Culture of the Warriors
 
@@ -49,28 +49,27 @@ Curry echoes this sentiment, highlighting the importance of communicating his ne
 
 **Key takeaways**:
 
-* Curry's leadership style, characterized by quiet confidence and unwavering belief in his teammates, is a cornerstone of the Warriors' culture.
-* The team's emphasis on individual ownership and collective success has fostered a resilient and adaptable environment.
+- Curry's leadership style, characterized by quiet confidence and unwavering belief in his teammates, is a cornerstone of the Warriors' culture.
+- The team's emphasis on individual ownership and collective success has fostered a resilient and adaptable environment.
 
 ### Beyond the Buzz: The Pure Joy of Basketball
 
-The conversation wraps up with a return to the essence of the game: the pure joy of playing. Redick expresses his amusement at NBA players' exuberance for making even the most audacious shots.  Curry agrees, emphasizing the importance of never losing that childlike love for the game, even amidst the pressures and distractions of a long NBA career.
+The conversation wraps up with a return to the essence of the game: the pure joy of playing. Redick expresses his amusement at NBA players' exuberance for making even the most audacious shots. Curry agrees, emphasizing the importance of never losing that childlike love for the game, even amidst the pressures and distractions of a long NBA career.
 
 This leads to a final reflection on legacies and the constant pressure to be ranked among the all-time greats. Curry admits to occasionally thinking about his place in history but emphasizes his focus on enjoying the present moment and continually pushing his own boundaries.
 
 **Key takeaways**:
 
-* Curry's love for the game remains a driving force throughout his career, allowing him to embrace the joy of playing even in high-pressure situations.
-* He remains focused on maximizing his own potential and pushing his own boundaries, rather than obsessing over legacy or rankings.
+- Curry's love for the game remains a driving force throughout his career, allowing him to embrace the joy of playing even in high-pressure situations.
+- He remains focused on maximizing his own potential and pushing his own boundaries, rather than obsessing over legacy or rankings.
 
 **Ending Quote:**
 
->  "I still get lost in the game. And when you have a ball in your hands, it’s just a different energy that I have and I want to keep that for as long as I can." - Steph Curry
+> "I still get lost in the game. And when you have a ball in your hands, it’s just a different energy that I have and I want to keep that for as long as I can." - Steph Curry
 
 ---
 
 <a href="https://youtube.com/watch?v=-I8D7tQwnJA" target="_blank">Watch the podcast here!</a>
-
 
 ---
 

@@ -1,14 +1,15 @@
 import React from "react";
 import Link from "next/link";
-import { createClient } from "@/utils/supabase/client"; // Ensure this path is correct
+import Image from "next/image";
+import { createClient } from "@/utils/supabase/client";
+import { useTranslations } from "next-intl";
 
 const incrementViews = async (id: number) => {
   const supabase = createClient();
 
   try {
-    // First, get the current views
-    let { data: currentData, error: getError } = await supabase
-      .from("Podcasts")
+    const { data: currentData, error: getError } = await supabase
+      .from("podcasts")
       .select("views")
       .eq("id", id)
       .single();
@@ -19,10 +20,9 @@ const incrementViews = async (id: number) => {
 
     if (getError) throw getError;
 
-    // Now increment the views
     const newViews = currentData.views + 1;
     const { error: updateError } = await supabase
-      .from("Podcasts")
+      .from("podcasts")
       .update({ views: newViews })
       .match({ id: id });
 
@@ -31,6 +31,7 @@ const incrementViews = async (id: number) => {
     console.error("Error incrementing views:", error);
   }
 };
+
 interface PodCardProps {
   id: number;
   thumbnail_url: string;
@@ -39,6 +40,7 @@ interface PodCardProps {
   publish_date: string;
   md_slug: string;
   views: number;
+  total_views?: number;
 }
 
 const PodCard = ({
@@ -49,41 +51,41 @@ const PodCard = ({
   publish_date,
   md_slug,
   views,
+  total_views,
 }: PodCardProps) => {
-  const handleButtonClick = (
-    e: React.MouseEvent<HTMLAnchorElement, MouseEvent>
-  ) => {
-    e.stopPropagation(); // Prevent navigation when the button is clicked
-  };
+  const t = useTranslations("card");
 
   const handleCardClick = async (e: React.MouseEvent) => {
     if (!md_slug) {
-      e.preventDefault(); // Prevent navigation if no valid slug
+      e.preventDefault();
     } else {
-      await incrementViews(id); // Call the increment function with the podcast's ID
+      await incrementViews(id);
     }
   };
 
   return (
     <Link href={md_slug ? `/blog/${md_slug}` : ""} passHref>
       <div
-        className="bg-gray-900 rounded-lg overflow-hidden text-white shadow-xl flex flex-col justify-between cursor-pointer transition-opacity duration-500 hover:opacity-75"
+        className="flex cursor-pointer flex-col justify-between overflow-hidden rounded-lg bg-gray-900 text-white shadow-xl transition-opacity duration-500 hover:opacity-75"
         onClick={handleCardClick}
         style={{ maxWidth: "340px", height: "320px" }}
       >
-        <img
+        <Image
           src={thumbnail_url}
           alt={`Thumbnail for ${interviewee}`}
-          className="w-full h-40 object-cover"
+          width={340}
+          height={160}
+          className="h-40 w-full object-cover"
+          priority={false}
         />
-        <div className="p-4 flex flex-1 flex-col">
-          <h2 className="text-lg font-bold mb-2">{interviewee}</h2>
-          <h4 className="text-md text-gray-300 flex-1">
-            Interviewed by {interviewer}
+        <div className="flex flex-1 flex-col p-4">
+          <h2 className="mb-2 text-lg font-bold">{interviewee}</h2>
+          <h4 className="text-md flex-1 text-gray-300">
+            {t("interviewedBy")} {interviewer}
           </h4>
-          <div className="text-md text-gray-300 flex items-center mb-2">
+          <div className="text-md mb-2 flex items-center text-gray-300">
             {publish_date} <span className="mx-2">•</span>{" "}
-            {views.toLocaleString()} views
+            {(total_views ?? views).toLocaleString()} {t("views")}
           </div>
         </div>
       </div>

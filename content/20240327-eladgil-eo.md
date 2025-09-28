@@ -10,7 +10,7 @@ This blog post delves into the fascinating insights gleaned from an interview wi
 
 ### Riding the Google Rollercoaster: Growth, Chaos, and Opportunity
 
-Gil's time at Google during its hypergrowth phase provides a glimpse into the exhilarating, albeit chaotic, environment of a company on a meteoric rise. He describes a company doubling in size every 6-12 months, with constant reorganizations and a "big gray market for talent." 
+Gil's time at Google during its hypergrowth phase provides a glimpse into the exhilarating, albeit chaotic, environment of a company on a meteoric rise. He describes a company doubling in size every 6-12 months, with constant reorganizations and a "big gray market for talent."
 
 - Managers struggling to keep up with the influx of new employees
 - Constant organizational restructuring creating both opportunity and confusion
@@ -87,7 +87,6 @@ Finally, Gil reiterates his belief in technology as a positive force for the wor
 ---
 
 <a href="https://youtube.com/watch?v=nLA90pa-34A" target="_blank">Watch the podcast here!</a>
-
 
 ---
 

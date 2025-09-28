@@ -47,7 +47,6 @@ He concludes with a powerful statement that captures the essence of his entrepre
 
 <a href="https://youtube.com/watch?v=y6NfxiemvHg" target="_blank">Watch the podcast here!</a>
 
-
 ---
 
 **Read another blog about [Palantir CEO Karp on TITAN, AI Warfare Technology](./20240307-alexkarp-bloombergtelevision)**

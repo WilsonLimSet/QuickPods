@@ -1,0 +1,51 @@
+{
+  "common": {
+    "siteName": "QuickPods",
+    "tagline": "Entrevistas con CEOs y Fundadores de Tecnología",
+    "loading": "Cargando...",
+    "notFound": "No Encontrado"
+  },
+  "home": {
+    "title": "Últimas Entrevistas",
+    "search": "Buscar",
+    "sortBy": "Ordenar por",
+    "sortLatest": "Ordenar por Fecha Más Reciente",
+    "sortEarliest": "Ordenar por Fecha Más Antigua",
+    "sortMostViews": "Ordenar por Más Vistas",
+    "sortLeastViews": "Ordenar por Menos Vistas",
+    "noResults": "No se encontraron resultados."
+  },
+  "blog": {
+    "readTime": "min de lectura",
+    "publishedOn": "Publicado el",
+    "watchPodcast": "¡Mira el podcast aquí!",
+    "relatedPosts": "Posts Relacionados",
+    "interviewWith": "Entrevista con",
+    "by": "por",
+    "watchOnYoutube": "Ver en YouTube"
+  },
+  "card": {
+    "interviewedBy": "Entrevistado por",
+    "views": "vistas"
+  },
+  "nav": {
+    "home": "Inicio",
+    "blog": "Blog",
+    "about": "Acerca de"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados",
+    "builtWith": "Construido con",
+    "builtBy": "Creado por"
+  },
+  "newsletter": {
+    "title": "Obtén Insights de CEOs Semanales",
+    "description": "Suscríbete para recibir las mejores entrevistas e insights de CEOs tech directamente en tu bandeja de entrada cada semana.",
+    "emailPlaceholder": "Ingresa tu email",
+    "subscribe": "Suscribirse",
+    "subscribing": "Suscribiendo...",
+    "successMessage": "¡Gracias por suscribirte! Revisa tu email para confirmar.",
+    "errorMessage": "Algo salió mal. Por favor intenta de nuevo.",
+    "privacyNote": "Respetamos tu privacidad. Cancela la suscripción en cualquier momento."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "common": {
+    "siteName": "QuickPods",
+    "tagline": "テック系CEOと創業者のインタビュー",
+    "loading": "読み込み中...",
+    "notFound": "見つかりません"
+  },
+  "home": {
+    "title": "最新のインタビュー",
+    "search": "検索",
+    "sortBy": "並び替え",
+    "sortLatest": "最新順",
+    "sortEarliest": "古い順",
+    "sortMostViews": "閲覧数順",
+    "sortLeastViews": "閲覧数が少ない順",
+    "noResults": "結果が見つかりませんでした。"
+  },
+  "blog": {
+    "readTime": "分で読めます",
+    "publishedOn": "公開日",
+    "watchPodcast": "ポッドキャストを見る！",
+    "relatedPosts": "関連記事",
+    "interviewWith": "とのインタビュー",
+    "by": "インタビュアー",
+    "watchOnYoutube": "YouTube で視聴"
+  },
+  "nav": {
+    "home": "ホーム",
+    "blog": "ブログ",
+    "about": "について"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "builtWith": "Built with",
+    "builtBy": "作成者"
+  },
+  "newsletter": {
+    "title": "週刊CEOインサイトを受け取る",
+    "description": "最高のテック系CEO インタビューとインサイトを毎週あなたの受信箱に直接お届けします。",
+    "emailPlaceholder": "メールアドレスを入力",
+    "subscribe": "購読する",
+    "subscribing": "購読中...",
+    "successMessage": "ご登録ありがとうございます！確認のためメールをご確認ください。",
+    "errorMessage": "問題が発生しました。もう一度お試しください。",
+    "privacyNote": "プライバシーを尊重します。いつでも購読解除できます。"
+  },
+  "card": {
+    "interviewedBy": "インタビュアー",
+    "views": "回視聴"
+  }
+}

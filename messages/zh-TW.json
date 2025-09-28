@@ -1,0 +1,51 @@
+{
+  "common": {
+    "siteName": "QuickPods",
+    "tagline": "科技CEO與創始人訪談",
+    "loading": "加載中...",
+    "notFound": "未找到"
+  },
+  "home": {
+    "title": "最新訪談",
+    "search": "搜索",
+    "sortBy": "排序方式",
+    "sortLatest": "按最新日期排序",
+    "sortEarliest": "按最早日期排序",
+    "sortMostViews": "按瀏覽量最多排序",
+    "sortLeastViews": "按瀏覽量最少排序",
+    "noResults": "未找到結果。"
+  },
+  "blog": {
+    "readTime": "分鐘閱讀",
+    "publishedOn": "發佈於",
+    "watchPodcast": "在此觀看播客！",
+    "relatedPosts": "相關文章",
+    "interviewWith": "採訪",
+    "by": "採訪者",
+    "watchOnYoutube": "在 YouTube 上觀看"
+  },
+  "nav": {
+    "home": "首頁",
+    "blog": "博客",
+    "about": "關於"
+  },
+  "footer": {
+    "rights": "版權所有",
+    "builtWith": "構建於",
+    "builtBy": "構建者"
+  },
+  "newsletter": {
+    "title": "獲取每週CEO洞察",
+    "description": "訂閱以接收最佳科技CEO訪談和洞察，每週直接發送到您的收件箱。",
+    "emailPlaceholder": "輸入您的郵箱",
+    "subscribe": "訂閱",
+    "subscribing": "訂閱中...",
+    "successMessage": "感謝訂閱！請檢查您的郵箱以確認。",
+    "errorMessage": "出現問題。請重試。",
+    "privacyNote": "我們尊重您的隱私。隨時可以取消訂閱。"
+  },
+  "card": {
+    "interviewedBy": "採訪者",
+    "views": "次觀看"
+  }
+}

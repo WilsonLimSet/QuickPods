@@ -16,11 +16,11 @@ interface PostCardProps {
 export default function PostCard({ post }: PostCardProps): JSX.Element {
   return (
     <Link href={`/blog/${post.slug}`} passHref>
-      <div className="block p-4 mb-4 border rounded-lg hover:shadow-lg transition-shadow cursor-pointer">
-        <h3 className="text-lg text-blue-800 font-semibold mb-2">
+      <div className="mb-4 block cursor-pointer rounded-lg border p-4 transition-shadow hover:shadow-lg">
+        <h3 className="mb-2 text-lg font-semibold text-blue-800">
           {post.title}
         </h3>
-        <p className="text-sm text-gray-600 mb-3">
+        <p className="mb-3 text-sm text-gray-600">
           {new Date(post.date).toLocaleDateString()}
         </p>
         <p className="text-gray-800">{post.description}</p>

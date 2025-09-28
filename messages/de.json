@@ -1,0 +1,51 @@
+{
+  "common": {
+    "siteName": "QuickPods",
+    "tagline": "Tech-CEO und Gründer Interviews",
+    "loading": "Lädt...",
+    "notFound": "Nicht gefunden"
+  },
+  "home": {
+    "title": "Neueste Interviews",
+    "search": "Suchen",
+    "sortBy": "Sortieren nach",
+    "sortLatest": "Neuestes Datum",
+    "sortEarliest": "Ältestes Datum",
+    "sortMostViews": "Meiste Aufrufe",
+    "sortLeastViews": "Wenigste Aufrufe",
+    "noResults": "Keine Ergebnisse gefunden."
+  },
+  "blog": {
+    "readTime": "Min Lesezeit",
+    "publishedOn": "Veröffentlicht am",
+    "watchPodcast": "Podcast hier ansehen!",
+    "relatedPosts": "Verwandte Artikel",
+    "interviewWith": "Interview mit",
+    "by": "von",
+    "watchOnYoutube": "Auf YouTube ansehen"
+  },
+  "card": {
+    "interviewedBy": "Interviewt von",
+    "views": "Aufrufe"
+  },
+  "nav": {
+    "home": "Startseite",
+    "blog": "Blog",
+    "about": "Über uns"
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten",
+    "builtWith": "Erstellt mit",
+    "builtBy": "Erstellt von"
+  },
+  "newsletter": {
+    "title": "Wöchentliche CEO-Einblicke Erhalten",
+    "description": "Abonnieren Sie, um die besten Tech-CEO-Interviews und Einblicke jede Woche direkt in Ihren Posteingang zu erhalten.",
+    "emailPlaceholder": "Geben Sie Ihre E-Mail ein",
+    "subscribe": "Abonnieren",
+    "subscribing": "Abonnieren...",
+    "successMessage": "Danke fürs Abonnieren! Überprüfen Sie Ihre E-Mail zur Bestätigung.",
+    "errorMessage": "Etwas ist schief gelaufen. Bitte versuchen Sie es erneut.",
+    "privacyNote": "Wir respektieren Ihre Privatsphäre. Jederzeit abbestellen."
+  }
+}

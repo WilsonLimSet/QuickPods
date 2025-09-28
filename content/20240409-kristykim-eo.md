@@ -10,12 +10,12 @@ In a world driven by credit scores, TomoCredit is a beacon of hope for immigrant
 
 ### Overcoming the Credit Score Barrier
 
-Kim's personal experience as an immigrant, facing repeated rejections due to lack of credit history, fueled her passion to create TomoCredit.  
+Kim's personal experience as an immigrant, facing repeated rejections due to lack of credit history, fueled her passion to create TomoCredit.
 
 **“Building TomoCredit feels like I’m building a painkiller for people who really need it."**
 
-• Many immigrants arrive in the US with ambitious goals – to start businesses, study, or build a career. 
-• However, the lack of a credit score presents a significant obstacle in achieving these goals, leading to rejections for credit cards, loans, and even apartments. 
+• Many immigrants arrive in the US with ambitious goals – to start businesses, study, or build a career.
+• However, the lack of a credit score presents a significant obstacle in achieving these goals, leading to rejections for credit cards, loans, and even apartments.
 • This can leave many feeling disheartened and questioning their place in the new society.
 
 TomoCredit understands these struggles and aims to level the playing field by providing an alternative pathway to credit.
@@ -29,7 +29,7 @@ TomoCredit utilizes a unique approach that sidesteps the traditional credit scor
 • Based on this analysis, TomoCredit assigns a proprietary "Tomo Score" to each user.
 • Users with high Tomo Scores are approved for credit regardless of their FICO score.
 
-This approach allows TomoCredit to assess creditworthiness based on actual financial behavior rather than relying solely on a traditional credit score. 
+This approach allows TomoCredit to assess creditworthiness based on actual financial behavior rather than relying solely on a traditional credit score.
 
 ### A Data-Driven, Privacy-Focused Approach
 
@@ -41,7 +41,7 @@ TomoCredit's approach is both data-driven and privacy-focused:
 
 ### Building a Brand for Immigrants
 
-TomoCredit's commitment extends beyond simply providing credit access.  The company aims to become a symbol of empowerment for immigrants, fostering a sense of belonging and support within the community.
+TomoCredit's commitment extends beyond simply providing credit access. The company aims to become a symbol of empowerment for immigrants, fostering a sense of belonging and support within the community.
 
 • TomoCredit seeks to be the "go-to" brand for immigrants needing financial services, whether for securing an apartment, purchasing a car, or achieving other financial goals.
 • By creating a welcoming and inclusive environment, TomoCredit empowers immigrants to focus on pursuing their ambitions rather than getting bogged down by the intricacies of the credit system.
@@ -53,7 +53,6 @@ TomoCredit's success highlights the importance of innovation and inclusivity in 
 ---
 
 <a href="https://youtube.com/watch?v=JiSjMKptCKY" target="_blank">Watch the podcast here!</a>
-
 
 ---
 

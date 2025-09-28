@@ -24,9 +24,9 @@ Having experienced a whirlwind of success in his early career, Alexander-Arnold 
 
 **Key Insights from Alexander-Arnold's Journey:**
 
-* **Mentality Shift:**  After a challenging season, Alexander-Arnold realized the importance of taking responsibility for his own performance and controlling his destiny.
-* **Leadership Role:**  His new role as vice-captain has instilled a sense of responsibility and drive to set high standards for his team.
-* **The Value of Experience:**  Navigating the highs and lows of his career has provided him with the experience and maturity to handle future challenges.
+- **Mentality Shift:** After a challenging season, Alexander-Arnold realized the importance of taking responsibility for his own performance and controlling his destiny.
+- **Leadership Role:** His new role as vice-captain has instilled a sense of responsibility and drive to set high standards for his team.
+- **The Value of Experience:** Navigating the highs and lows of his career has provided him with the experience and maturity to handle future challenges.
 
 ### The Future of the Full-Back
 
@@ -37,7 +37,6 @@ This interview leaves the listener with a sense of awe at the talent and tactica
 ---
 
 <a href="https://youtube.com/watch?v=1dh1qU1ReeU" target="_blank">Watch the podcast here!</a>
-
 
 ---
 

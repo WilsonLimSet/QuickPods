@@ -1,0 +1,51 @@
+{
+  "common": {
+    "siteName": "QuickPods",
+    "tagline": "Tech CEO & Founder Interviews",
+    "loading": "Loading...",
+    "notFound": "Not Found"
+  },
+  "home": {
+    "title": "Latest Interviews",
+    "search": "Search",
+    "sortBy": "Sort by",
+    "sortLatest": "Sort by Latest Date",
+    "sortEarliest": "Sort by Earliest Date",
+    "sortMostViews": "Sort by Most Blog Views",
+    "sortLeastViews": "Sort by Least Blog Views",
+    "noResults": "No results found."
+  },
+  "blog": {
+    "readTime": "min read",
+    "publishedOn": "Published on",
+    "watchPodcast": "Watch the podcast here!",
+    "relatedPosts": "Related Posts",
+    "interviewWith": "Interview with",
+    "by": "by",
+    "watchOnYoutube": "Watch on YouTube"
+  },
+  "card": {
+    "interviewedBy": "Interviewed by",
+    "views": "views"
+  },
+  "nav": {
+    "home": "Home",
+    "blog": "Blog",
+    "about": "About"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "builtWith": "Built with",
+    "builtBy": "Built by"
+  },
+  "newsletter": {
+    "title": "Get Weekly CEO Insights",
+    "description": "Subscribe to receive the best tech CEO interviews and insights directly to your inbox every week.",
+    "emailPlaceholder": "Enter your email",
+    "subscribe": "Subscribe",
+    "subscribing": "Subscribing...",
+    "successMessage": "Thanks for subscribing! Check your email to confirm.",
+    "errorMessage": "Something went wrong. Please try again.",
+    "privacyNote": "We respect your privacy. Unsubscribe at any time."
+  }
+}

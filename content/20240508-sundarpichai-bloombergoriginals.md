@@ -64,7 +64,6 @@ This conversation with Sundar Pichai provides valuable insights into Google's ap
 
 <a href="https://youtube.com/watch?v=5puu3kN9l7c" target="_blank">Watch the podcast here!</a>
 
-
 ---
 
 **Read another blog about [Telegram Creator on Elon Musk, Resisting FBI Attacks, and Getting Mugged in California](./20240416-paveldurov-tuckercarlson)**

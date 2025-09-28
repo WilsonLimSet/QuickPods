@@ -20,36 +20,36 @@ Kornfield's teacher encouraged him to confront his anger head-on, advising him t
 
 **Key Takeaways on Dealing with Emotions:**
 
-* **Trust Your Capacity for Presence:** Instead of suppressing or getting overwhelmed by emotions, learn to be present with them.
-* **Expand Your Window of Tolerance:** Through mindfulness practices, you can expand your capacity to tolerate and be with difficult emotions.
-* **Name Your Emotions:** To gain clarity and perspective, begin by simply naming the emotions that arise.
-* **Make Space for Emotions:** Allow emotions to be present without judgment, becoming a mindful witness to their stories and energy.
-* **Don't Take it Personally:** As you become more present, you realize emotions are part of the shared human experience, not just your personal burden.
-* **Cultivate Compassion:** Practice loving-kindness meditation, wishing well-being to yourself and others, to cultivate a compassionate response.
+- **Trust Your Capacity for Presence:** Instead of suppressing or getting overwhelmed by emotions, learn to be present with them.
+- **Expand Your Window of Tolerance:** Through mindfulness practices, you can expand your capacity to tolerate and be with difficult emotions.
+- **Name Your Emotions:** To gain clarity and perspective, begin by simply naming the emotions that arise.
+- **Make Space for Emotions:** Allow emotions to be present without judgment, becoming a mindful witness to their stories and energy.
+- **Don't Take it Personally:** As you become more present, you realize emotions are part of the shared human experience, not just your personal burden.
+- **Cultivate Compassion:** Practice loving-kindness meditation, wishing well-being to yourself and others, to cultivate a compassionate response.
 
 **The Power of Intention**
 
 Kornfield emphasized the importance of intention, highlighting its role in shaping our lives and influencing the world around us. He shared insightful stories, including:
 
-* **The Story of the Candle and Stones:** Working with young men from street gangs, Kornfield used a simple ritual to help them acknowledge and honor the pain of losing friends to violence.
-* **The Woman Who Chose Not to Pass on Bitterness:** A woman facing a difficult divorce resolved not to bequeath a legacy of bitterness to her children about their father. This decision to stop the cycle of suffering resonated deeply.
+- **The Story of the Candle and Stones:** Working with young men from street gangs, Kornfield used a simple ritual to help them acknowledge and honor the pain of losing friends to violence.
+- **The Woman Who Chose Not to Pass on Bitterness:** A woman facing a difficult divorce resolved not to bequeath a legacy of bitterness to her children about their father. This decision to stop the cycle of suffering resonated deeply.
 
 **Key Takeaways on Intention:**
 
-* **Intention Shapes Karma:** The state of mind behind our actions matters as much as the actions themselves.
-* **Set Deliberate Intentions:** Quiet your mind and consciously set intentions, both inwardly and outwardly, to steer your actions in a positive direction.
-* **Acknowledge the Impact:** Notice the consequences of your actions, even those with good intentions, to refine your approach.
-* **Remember Who You Are:** Regularly recall your deepest values and aspirations, letting them guide your choices and actions.
+- **Intention Shapes Karma:** The state of mind behind our actions matters as much as the actions themselves.
+- **Set Deliberate Intentions:** Quiet your mind and consciously set intentions, both inwardly and outwardly, to steer your actions in a positive direction.
+- **Acknowledge the Impact:** Notice the consequences of your actions, even those with good intentions, to refine your approach.
+- **Remember Who You Are:** Regularly recall your deepest values and aspirations, letting them guide your choices and actions.
 
 **Finding Communion and Connection**
 
-Kornfield lamented the lack of genuine communion in our modern, always-on culture. He highlighted the importance of Sangha, the community of support found in every spiritual tradition. 
+Kornfield lamented the lack of genuine communion in our modern, always-on culture. He highlighted the importance of Sangha, the community of support found in every spiritual tradition.
 
 He emphasized that while individual inner work is crucial, we need each other to navigate the complexities of life and become more fully human. He stressed the power of honest conversation, vulnerability, and the art of receiving compliments with grace.
 
 **The Transformative Power of Nature**
 
-Kornfield spoke to the profound effect nature has on our minds, suggesting it helps us step out of the constant chatter of our modern lives and reconnect with a deeper dimension of our being. 
+Kornfield spoke to the profound effect nature has on our minds, suggesting it helps us step out of the constant chatter of our modern lives and reconnect with a deeper dimension of our being.
 
 He reminded us that we are not our bodies, emotions, or thoughts. We are consciousness experiencing the mystery of life. Nature, like love, music, art, and sacred rituals, can open gateways to this deeper awareness.
 
@@ -68,7 +68,6 @@ This interview offered a potent reminder that we have the power to choose how we
 ---
 
 <a href="https://youtube.com/watch?v=D9ayv-y4XBo" target="_blank">Watch the podcast here!</a>
-
 
 ---
 
